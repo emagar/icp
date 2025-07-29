@@ -1,32 +1,32 @@
-- [Para delimitar la política](#org02a75fa)
-- [El análisis político](#org3aebf99)
-- [El estado-nación](#orgf83e7f5)
-- [Estructuras en ciencia social (~8 clases)](#orgfb8cc3e)
-  - [Materialismo](#org41a2b63)
-  - [Institucionalismo](#orgd1ad1a1)
-  - [Culturalismo](#org00ec62c)
-- [Examen parcial](#org08dd0c0)
-- [Elementos para el análisis político](#org76ac8a0)
-  - [Modernización y democracia (2 clases)](#org25876fe)
-  - [Tipos ideales (2 clases)](#org7ee645d)
-  - [Dilemas colectivos](#orgd250ab9)
-    - [Dilema del prisionero / Common pool problem (2 clases)](#orgddb97ad)
-    - [Problema de coordinación](#org7c53ee5)
-    - [Inestabilidad (1 clase)](#org8894c5c)
-  - [La teoría espacial del voto (1 clase)](#org0cdf48e)
-  - [Exit Voice Loyalty (2 clases)](#org34480de)
-- [Niveles de análisis](#org3c01b8a)
-  - [Las ramas del gobierno](#orgfa041bb)
-  - [Grupos de interés](#org0adf86a)
-- [La unidad de análisis](#org7b8c480)
-  - [El país](#org29843cd)
-  - [El sistema constitucional](#orgf8ad8f6)
-  - [Clases sociales, grupos de interés](#org9b29cbd)
-  - [Individualismo metodológico](#orgbb374e9)
-- [La democracia](#org05183c7)
-- [La intransitividad](#org4b5c845)
-- [El modelo distributivo, clientelismo y populismo (2 clases)](#org7e089d8)
-- [demás](#orga897fdb)
+- [Para delimitar la política](#orgb2e4ad6)
+- [El análisis político](#org3a4a688)
+- [El estado-nación](#org73d9e45)
+- [Estructuras en ciencia social (~8 clases)](#org82723da)
+  - [Materialismo](#orge35e0a5)
+  - [Institucionalismo](#orgc553024)
+  - [Culturalismo](#org0ae2fb1)
+- [Examen parcial](#org0c5df02)
+- [Elementos para el análisis político](#orgb86f011)
+  - [Modernización y democracia (2 clases)](#orgf19a129)
+  - [Tipos ideales (2 clases)](#orgbef072b)
+  - [Dilemas colectivos](#org7ce1025)
+    - [Dilema del prisionero / Common pool problem (2 clases)](#orgeee5d82)
+    - [Problema de coordinación](#orgc346445)
+    - [Inestabilidad (1 clase)](#org2ad0a8b)
+  - [La teoría espacial del voto (1 clase)](#org44e488b)
+  - [Exit Voice Loyalty (2 clases)](#orgb432ea0)
+- [Niveles de análisis](#orgd454d1e)
+  - [Las ramas del gobierno](#orgd566c61)
+  - [Grupos de interés](#orgad65a53)
+- [La unidad de análisis](#org721fe87)
+  - [El país](#org03f5f41)
+  - [El sistema constitucional](#orgfe8e010)
+  - [Clases sociales, grupos de interés](#org3f97cb5)
+  - [Individualismo metodológico](#orgb5bd400)
+- [La democracia](#org5c66789)
+- [La intransitividad](#org3bf927b)
+- [El modelo distributivo, clientelismo y populismo (2 clases)](#org6693dc7)
+- [demás](#orgac56145)
 
 ITAM Depto. de ciencia política, otoño 2025
 
@@ -76,10 +76,10 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 18. 13 de octubre
 19. 15 de octubre
 20. 20 de octubre Clases de colegas: Adrián &#x2013; Gobiernos buenos vs malos, The logic of political survival (Prefiero un lunes, pero puedo cualquier lunes o miércoles de octubre o el 5/10/12 dic.)
-21. 22 de octubre Clases de colegas: Antonella Badiera &#x2013; orden social sin estado-normas y cultura pueden prevenir el crimen (podría 20/22 oct)
+21. 22 de octubre NO HAY CLASE? Clases de colegas: Antonella Badiera &#x2013; orden social sin estado-normas y cultura pueden prevenir el crimen (podría 20/22 oct)
     -   MAGALONI et al. State-Evading Solutions to Violence: Organized Crime and Governance in Indigenous Mexico (2021) 38 pp.
-22. 27 de octubre NO HAY CLASE
-23. 29 de octubre NO HAY CLASE SEGUNDO EXAMEN PARCIAL SE ENTREGA
+22. 27 de octubre NO HAY CLASE?
+23. 29 de octubre NO HAY CLASE? SEGUNDO EXAMEN PARCIAL SE ENTREGA
 24. 5 de noviembre Clases de colegas: Vidal &#x2013; Seguridad y migración (semanas 10 a 12 = 13-29 oct)
 25. 10 de noviembre Clases de colegas: Simpser &#x2013; Polarización interacting (Octubre: M15, L20, M22, L27, M29 Noviembre: M5, L10, M12)
     -   GREENE et al. Interacting as equals reduces partisan polarization (2024) 13 pp.
@@ -91,7 +91,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 31. 3 de diciembre
 
 
-<a id="org02a75fa"></a>
+<a id="orgb2e4ad6"></a>
 
 # Para delimitar la política
 
@@ -107,7 +107,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   DAHL The concept of power (1957) 15 pp.
 
 
-<a id="org3aebf99"></a>
+<a id="org3a4a688"></a>
 
 # El análisis político
 
@@ -145,7 +145,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
     -   El método científico
 
 
-<a id="orgf83e7f5"></a>
+<a id="org73d9e45"></a>
 
 # El estado-nación
 
@@ -160,14 +160,14 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   NORTH A neoclassical theory of the state (1981) 13 pp.
 
 
-<a id="orgfb8cc3e"></a>
+<a id="org82723da"></a>
 
 # Estructuras en ciencia social (~8 clases)
 
 Una clase que contraste las tres estructuras.
 
 
-<a id="org41a2b63"></a>
+<a id="orge35e0a5"></a>
 
 ## Materialismo
 
@@ -181,7 +181,7 @@ Una clase que contraste las tres estructuras.
 -   Darwinista tipo SPRUYT??
 
 
-<a id="orgd1ad1a1"></a>
+<a id="orgc553024"></a>
 
 ## Institucionalismo
 
@@ -196,7 +196,7 @@ Una clase que contraste las tres estructuras.
 -   Arts. 71 y 72 CPEUM.
 
 
-<a id="org00ec62c"></a>
+<a id="org0ae2fb1"></a>
 
 ## Culturalismo
 
@@ -206,19 +206,19 @@ Una clase que contraste las tres estructuras.
     -   cap 7 de Diez textos básicos
 
 
-<a id="org08dd0c0"></a>
+<a id="org0c5df02"></a>
 
 # Examen parcial
 
 **\*1 de octubre**
 
 
-<a id="org76ac8a0"></a>
+<a id="orgb86f011"></a>
 
 # Elementos para el análisis político
 
 
-<a id="org25876fe"></a>
+<a id="orgf19a129"></a>
 
 ## Modernización y democracia (2 clases)
 
@@ -234,7 +234,7 @@ Una clase que contraste las tres estructuras.
 -   Przeworski Democracy and the Market
 
 
-<a id="org7ee645d"></a>
+<a id="orgbef072b"></a>
 
 ## Tipos ideales (2 clases)
 
@@ -247,12 +247,12 @@ Una clase que contraste las tres estructuras.
     -   cap. 3. El modelo consensual de democracia 15 pp.
 
 
-<a id="orgd250ab9"></a>
+<a id="org7ce1025"></a>
 
 ## Dilemas colectivos
 
 
-<a id="orgddb97ad"></a>
+<a id="orgeee5d82"></a>
 
 ### Dilema del prisionero / Common pool problem (2 clases)
 
@@ -264,7 +264,7 @@ Una clase que contraste las tres estructuras.
 -   O'GORMAN Global warming as tragedy of the commons (2010) 12 pp.
 
 
-<a id="org7c53ee5"></a>
+<a id="orgc346445"></a>
 
 ### Problema de coordinación
 
@@ -276,14 +276,14 @@ Una clase que contraste las tres estructuras.
         | b | (2,2) | (0,1) |
 
 
-<a id="org8894c5c"></a>
+<a id="org2ad0a8b"></a>
 
 ### Inestabilidad (1 clase)
 
 -   SZPIRO *Numbers rule* caps. 5 y 6 (2010) 29 pp.
 
 
-<a id="org0cdf48e"></a>
+<a id="org44e488b"></a>
 
 ## La teoría espacial del voto (1 clase)
 
@@ -292,7 +292,7 @@ Una clase que contraste las tres estructuras.
 -   Nominate scores?
 
 
-<a id="org34480de"></a>
+<a id="orgb432ea0"></a>
 
 ## Exit Voice Loyalty (2 clases)
 
@@ -306,12 +306,12 @@ Una clase que contraste las tres estructuras.
 -   ESTEVEZ en Xiuh???
 
 
-<a id="org3c01b8a"></a>
+<a id="orgd454d1e"></a>
 
 # Niveles de análisis
 
 
-<a id="orgfa041bb"></a>
+<a id="orgd566c61"></a>
 
 ## Las ramas del gobierno
 
@@ -321,7 +321,7 @@ Una clase que contraste las tres estructuras.
 -   El proceso legislativo
 
 
-<a id="org0adf86a"></a>
+<a id="orgad65a53"></a>
 
 ## Grupos de interés
 
@@ -333,24 +333,24 @@ Una clase que contraste las tres estructuras.
     -   Cap.5 puedo no asignarlo pero usarlo para ilustrar el dilema del desarrollo.
 
 
-<a id="org7b8c480"></a>
+<a id="org721fe87"></a>
 
 # La unidad de análisis
 
 
-<a id="org29843cd"></a>
+<a id="org03f5f41"></a>
 
 ## El país
 
 
-<a id="orgf8ad8f6"></a>
+<a id="orgfe8e010"></a>
 
 ## El sistema constitucional
 
 -   Przeworski Saiegh Cheibub
 
 
-<a id="org9b29cbd"></a>
+<a id="org3f97cb5"></a>
 
 ## Clases sociales, grupos de interés
 
@@ -358,7 +358,7 @@ Una clase que contraste las tres estructuras.
 -   Efectos malapportionment Post Office&#x2014;estados q sufren sesgo son un grupo de interés
 
 
-<a id="orgbb374e9"></a>
+<a id="orgb5bd400"></a>
 
 ## Individualismo metodológico
 
@@ -369,14 +369,14 @@ Una clase que contraste las tres estructuras.
 -   SIMPSER
 
 
-<a id="org05183c7"></a>
+<a id="org5c66789"></a>
 
 # La democracia
 
 -   LINZ El régimen autoritario (1990) 7 pp.
 
 
-<a id="org4b5c845"></a>
+<a id="org3bf927b"></a>
 
 # La intransitividad
 
@@ -385,7 +385,7 @@ Una clase que contraste las tres estructuras.
     -   Puedo presentar versión a > b > c > a y quizás también la versión espacial 2D.
 
 
-<a id="org7e089d8"></a>
+<a id="org6693dc7"></a>
 
 # El modelo distributivo, clientelismo y populismo (2 clases)
 
@@ -401,7 +401,7 @@ Una clase que contraste las tres estructuras.
     -   [The real reasons for AMLO's popularity](https://americasquarterly.org/article/the-real-reasons-for-amlos-popularity/) (2023).
 
 
-<a id="orga897fdb"></a>
+<a id="orgac56145"></a>
 
 # demás
 
