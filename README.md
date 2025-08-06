@@ -1,38 +1,38 @@
-- [Para delimitar la política](#org8cef89c)
-  - [13 de agosto](#org1b92a1c)
-  - [18 de agosto](#org7e43f88)
-- [El análisis político](#org58b4e40)
-  - [20 y 25 de agosto](#org0a6672b)
-- [El estado-nación](#org12419dc)
-  - [27 de agosto y 1 de septiembre](#org6d13ff7)
-- [Modernización y democracia](#orge435a09)
-  - [3 y 8 de septiembre](#org6bcf3e1)
-- [Estructuras en ciencia social](#org935772c)
-  - [Materialismo &#x2013; 10 de septiembre](#orgf9f77dc)
-  - [Institucionalismo &#x2013; 17 y 22 de septiembre](#org2a05aec)
-  - [Culturalismo &#x2013; 24 de septiembre](#orgb0dd4c7)
-- [Examen parcial](#org0a6144e)
-- [Bufet de conceptos para el análisis &#x2013; parte I (6 clases)](#org6172eb0)
-  - [El tipo ideal (1 clase)](#org59f3854)
-  - [El nivel de análisis: civilización&#x2013;sistema&#x2013;grupos&#x2013;ramas&#x2013;individuos (2 clases)](#orgcef4ee7)
-    - [El poder compartido (1 clase)](#org1c3c2d5)
-    - [Los grupos de interés (1 clase)](#org504053a)
-  - [Los dilemas colectivos (3 clases)](#org5bd681c)
-    - [El problema del ejido (1 clase)](#org253f50b)
-    - [El problema de coordinación (1 clase)](#orgfdc0372)
-    - [La inestabilidad social (1 clase)](#org8f25530)
-- [Conozca a la facultad del departamento (5 clases)](#org2323f47)
-  - [Antonella BANDIERA &#x2013; orden social sin estado-normas y cultura pueden prevenir el crimen  (podría 20/22 oct)](#org5171aed)
-  - [Adrián LUCARDI  &#x2013; Gobiernos buenos vs malos, The logic of political survival (Prefiero un lunes, pero puedo cualquier lunes o miércoles de octubre o el 5/10/12 dic.)](#org287cff5)
-  - [Alberto SIMPSER &#x2013; Polarización (Octubre: M15, L20, M22, L27, M29 Noviembre: M5, L10, M12)](#orgbf7d749)
-  - [Vidal ROMERO  &#x2013; Seguridad y migración (semanas 10 a 12 = 13-29 oct)](#orgc50db94)
-  - [Adriana ALFARO ALTAMIRANO &#x2013; migración](#org69845a1)
-- [SEGUNDO EXAMEN PARCIAL](#org801831a)
-- [Bufet de conceptos para el análisis &#x2013; parte II (5 clases)](#org4dcd7c8)
-  - [La teoría espacial del voto (1 clase)](#orgd3276d9)
-  - [El modelo distributivo, clientelismo y populismo (2 clases)](#orga47e993)
-  - [La organización (2 clases)](#orgf196e28)
-- [demás](#org1a9bb4d)
+- [Para delimitar la política](#org0d16a20)
+  - [13 de agosto](#orgb4996aa)
+  - [18 de agosto](#orgc076eda)
+- [El análisis político](#orgae22802)
+  - [20 y 25 de agosto](#orgfce0f83)
+- [El estado-nación](#org237aa0d)
+  - [27 de agosto y 1 de septiembre](#org5c0295b)
+- [Modernización y democracia](#orgc545ae3)
+  - [3 y 8 de septiembre](#orgc3c5135)
+- [Estructuras en ciencia social](#orgcbf7a20)
+  - [Materialismo &#x2013; 10 de septiembre](#orgf8a2c9f)
+  - [Institucionalismo &#x2013; 17 y 22 de septiembre](#org43be58f)
+  - [Culturalismo &#x2013; 24 de septiembre](#orgc3386aa)
+- [Examen parcial &#x2013; 29 de septiembre](#orgc04a54c)
+- [Bufet de conceptos para el análisis &#x2013; parte I (6 clases)](#org6849966)
+  - [El tipo ideal &#x2013; 1 de octubre](#org8346532)
+  - [El nivel de análisis: civilización/sistema/grupos/ramas/individuos &#x2013; 6 y 8 de octubre](#orgf29faab)
+    - [El poder compartido](#org41ee0c0)
+    - [Los grupos de interés](#orgdab7de3)
+  - [Los dilemas colectivos &#x2013; 13, 15 y 20 de octubre](#orgcf46181)
+    - [El problema del ejido](#org627cbc7)
+    - [El problema de coordinación](#orge359088)
+    - [La inestabilidad social](#org231e04a)
+- [Conozca a la facultad del departamento (5 clases)](#orgf3c5fec)
+  - [Antonella BANDIERA &#x2013; 22 de octubre](#orgcc769f0)
+  - [Adrián LUCARDI &#x2013; 27 de octubre](#orgdb673a3)
+  - [Alberto SIMPSER &#x2013; 29 de octubre](#orge25ff10)
+  - [Vidal ROMERO &#x2013; 5 de noviembre](#org2bc332b)
+  - [Adriana ALFARO &#x2013; 10 de noviembre](#org8659e29)
+- [SEGUNDO EXAMEN PARCIAL &#x2013; 12 de noviembre](#org9051477)
+- [Bufet de conceptos para el análisis &#x2013; parte II](#orga0c3a41)
+  - [La teoría espacial del voto &#x2013; 19 de noviembre](#org193527e)
+  - [El modelo distributivo, clientelismo y populismo &#x2013; 24 y 26 de noviembre](#org01c3bff)
+  - [La organización &#x2013; 1 y 3 de diciembre](#org51c35c0)
+- [demás](#orge84b92c)
 
 ITAM Depto. de ciencia política, otoño 2025
 
@@ -99,31 +99,31 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 31. 3 de diciembre
 
 
-<a id="org8cef89c"></a>
+<a id="org0d16a20"></a>
 
 # Para delimitar la política
 
 
-<a id="org1b92a1c"></a>
+<a id="orgb4996aa"></a>
 
 ## 13 de agosto
 
 -   SCHMITTER y BLEHER *Politics as a Science: A Prolegomenon* Cap 1 (2021) 13 pp.
 
 
-<a id="org7e43f88"></a>
+<a id="orgc076eda"></a>
 
 ## 18 de agosto
 
 -   DAHL The concept of power (1957) 15 pp.
 
 
-<a id="org58b4e40"></a>
+<a id="orgae22802"></a>
 
 # El análisis político
 
 
-<a id="org0a6672b"></a>
+<a id="orgfce0f83"></a>
 
 ## 20 y 25 de agosto
 
@@ -135,12 +135,12 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   BHATTACHERJEE (2012) *Social Science Research* cap 1 8 pp. <https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1002&context=oa_textbooks>
 
 
-<a id="org12419dc"></a>
+<a id="org237aa0d"></a>
 
 # El estado-nación
 
 
-<a id="org6d13ff7"></a>
+<a id="org5c0295b"></a>
 
 ## 27 de agosto y 1 de septiembre
 
@@ -150,12 +150,12 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   NORTH A neoclassical theory of the state (1981) 13 pp.
 
 
-<a id="orge435a09"></a>
+<a id="orgc545ae3"></a>
 
 # Modernización y democracia
 
 
-<a id="org6bcf3e1"></a>
+<a id="orgc3c5135"></a>
 
 ## 3 y 8 de septiembre
 
@@ -165,12 +165,12 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   WEINGAST The political foundations of democracy and the rule of law (1997) 22 pp.
 
 
-<a id="org935772c"></a>
+<a id="orgcbf7a20"></a>
 
 # Estructuras en ciencia social
 
 
-<a id="orgf9f77dc"></a>
+<a id="orgf8a2c9f"></a>
 
 ## Materialismo &#x2013; 10 de septiembre
 
@@ -179,7 +179,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   SPRUYT *War, Trade, and State Formation* (2007) 23 pp.
 
 
-<a id="org2a05aec"></a>
+<a id="org43be58f"></a>
 
 ## Institucionalismo &#x2013; 17 y 22 de septiembre
 
@@ -189,107 +189,78 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   Arts. 71 y 72 CPEUM.
 
 
-<a id="orgb0dd4c7"></a>
+<a id="orgc3386aa"></a>
 
 ## Culturalismo &#x2013; 24 de septiembre
 
-**1 clase**
-
 -   ALMOND y VERBA <span class="underline">La cultura cívica</span> (1963) 31 pp.
-    -   cap 7 de Diez textos básicos
-    -   Poiré asigna pp 1-30 y 360-374&#x2026;
--   \*SEGOVIA <span class="underline">La politización del niño mexicano</span> (1977)
--   \*CRESPO Del Autoritarismo a la Democracia: el Mito Cultural (1988) 14 pp.
-    -   en Vuelta, 137, abril de 1988: 30 – 37.
+-   SEGOVIA\* <span class="underline">La politización del niño mexicano</span> (1977)
+-   CRESPO Del Autoritarismo a la Democracia: el Mito Cultural (1988) 14 pp.
 
 
-<a id="org0a6144e"></a>
+<a id="orgc04a54c"></a>
 
-# Examen parcial
-
-14 **de octubre**
+# Examen parcial &#x2013; 29 de septiembre
 
 
-<a id="org6172eb0"></a>
+<a id="org6849966"></a>
 
 # Bufet de conceptos para el análisis &#x2013; parte I (6 clases)
 
 
-<a id="org59f3854"></a>
+<a id="org8346532"></a>
 
-## El tipo ideal (1 clase)
+## El tipo ideal &#x2013; 1 de octubre
 
-15 **de octubre**
-
--   DAHL <span class="underline">La poliarquía</span> (1956) 16 pp.
-    -   cap 3 de Diez textos básicos
-    -   Permite discutir democracia y el rol del tipo ideal en ciencia social.
+-   DAHL *La poliarquía* (1956) 16 pp.
 -   DENK (2013) How to measure polyarchy with Freedom House: a proposal for revision. 15 pp.
-    -   Permite desarrollar la posibilidad/necesidad/dificultad de medir conceptos, Freedom House
--   \*LIJPHART <span class="underline">Modelos de democracia</span> (1999)
-    -   cap. 3. El modelo consensual de democracia 15 pp.
+-   LIJPHART\* *Modelos de democracia* (1999) cap. 3. El modelo consensual de democracia 15 pp.
 
 
-<a id="orgcef4ee7"></a>
+<a id="orgf29faab"></a>
 
-## El nivel de análisis: civilización&#x2013;sistema&#x2013;grupos&#x2013;ramas&#x2013;individuos (2 clases)
+## El nivel de análisis: civilización/sistema/grupos/ramas/individuos &#x2013; 6 y 8 de octubre
 
 
-<a id="org1c3c2d5"></a>
+<a id="org41ee0c0"></a>
 
-### El poder compartido (1 clase)
-
-16 **de octubre**
+### El poder compartido
 
 -   DE FIGUEIREDO-JACOBI-WEINGAST The new separation-of-powers approach to American Politics (2006) 21 pp.
-    -   Cubre McCubbins y más
 
 
-<a id="org504053a"></a>
+<a id="orgdab7de3"></a>
 
-### Los grupos de interés (1 clase)
-
-17 **de octubre**
+### Los grupos de interés
 
 -   TRUMAN Pluralismo
-    -   Hay extracto 6 pp en reader azul.
-    -   Annual Review of Political Science Volume 9, 2006 BENTLEY, TRUMAN, AND THE STUDY OF GROUPS Mika LaVaque-Manty Vol. 9:1-18 (Volume publication date June 2006) <https://doi.org/10.1146/annurev.polisci.9.072004.085705>
--   BATES Markets and States in Tropical Africa cap. 1 19 pp.
+-   BATES Markets and States in Tropical Africa (19xx) cap. 1 19 pp.
 
 
-<a id="org5bd681c"></a>
+<a id="orgcf46181"></a>
 
-## Los dilemas colectivos (3 clases)
+## Los dilemas colectivos &#x2013; 13, 15 y 20 de octubre
 
 
-<a id="org253f50b"></a>
+<a id="org627cbc7"></a>
 
-### El problema del ejido (1 clase)
-
-18 **de octubre**
+### El problema del ejido
 
 -   OLSON <span class="underline">La lógica de la acción colectiva</span> .
-    -   cap. 1 A-D 32 pp.
-    -   cap. 8 de diez textos básicos tiene extracto de Rise and decline of nations sobre acción coll. 18 pp.
-    -   puedo asignar cap 8 pero yo usar el texto original para mi exposición
 
 -   O'GORMAN Global warming as tragedy of the commons (2010) 12 pp.
 
 
-<a id="orgfdc0372"></a>
+<a id="orge359088"></a>
 
-### El problema de coordinación (1 clase)
-
-19 **20 de octubre**
+### El problema de coordinación
 
 -   MCCUBBINS y ROSENBLUTH Party provision for personal politics (1995) 19 pp.
 
 
-<a id="org8f25530"></a>
+<a id="org231e04a"></a>
 
-### La inestabilidad social (1 clase)
-
-20 **de octubre**
+### La inestabilidad social
 
 -   SZPIRO *Numbers rule* caps. 5 y 6 (2010) 29 pp.
 
@@ -297,108 +268,83 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   Mongin, Philippe. 1997. “Expected Utility Theory.” In J. Davis, W. Hands, and U. Maki, eds. Handbook of Economic Methodology. London, Edward Elgar. Pages 342-350.
 
 
-<a id="org2323f47"></a>
+<a id="orgf3c5fec"></a>
 
 # Conozca a la facultad del departamento (5 clases)
 
-21 **22 de octubre**
 
+<a id="orgcc769f0"></a>
 
-<a id="org5171aed"></a>
-
-## Antonella BANDIERA &#x2013; orden social sin estado-normas y cultura pueden prevenir el crimen  (podría 20/22 oct)
+## Antonella BANDIERA &#x2013; 22 de octubre
 
 -   MAGALONI et al. State-Evading Solutions to Violence: Organized Crime and Governance in Indigenous Mexico (2021) 38 pp.
 
-22 **de octubre**
+**de octubre**
 
 
-<a id="org287cff5"></a>
+<a id="orgdb673a3"></a>
 
-## Adrián LUCARDI  &#x2013; Gobiernos buenos vs malos, The logic of political survival (Prefiero un lunes, pero puedo cualquier lunes o miércoles de octubre o el 5/10/12 dic.)
-
-23 **29 de octubre**
+## Adrián LUCARDI &#x2013; 27 de octubre
 
 
-<a id="orgbf7d749"></a>
+<a id="orge25ff10"></a>
 
-## Alberto SIMPSER &#x2013; Polarización (Octubre: M15, L20, M22, L27, M29 Noviembre: M5, L10, M12)
+## Alberto SIMPSER &#x2013; 29 de octubre
 
 -   GREENE et al. Interacting as equals reduces partisan polarization (2024) 13 pp.
 
-24 **de octubre**
+
+<a id="org2bc332b"></a>
+
+## Vidal ROMERO &#x2013; 5 de noviembre
 
 
-<a id="orgc50db94"></a>
+<a id="org8659e29"></a>
 
-## Vidal ROMERO  &#x2013; Seguridad y migración (semanas 10 a 12 = 13-29 oct)
-
-25 **de noviembre**
+## Adriana ALFARO &#x2013; 10 de noviembre
 
 
-<a id="org69845a1"></a>
+<a id="org9051477"></a>
 
-## Adriana ALFARO ALTAMIRANO &#x2013; migración
-
-
-<a id="org801831a"></a>
-
-# SEGUNDO EXAMEN PARCIAL
-
-26 **de noviembre** Relacionen claramente temas de facultad con dos temas vistos anteriormente.
+# SEGUNDO EXAMEN PARCIAL &#x2013; 12 de noviembre
 
 
-<a id="org4dcd7c8"></a>
+<a id="orga0c3a41"></a>
 
-# Bufet de conceptos para el análisis &#x2013; parte II (5 clases)
+# Bufet de conceptos para el análisis &#x2013; parte II
 
 
-<a id="orgd3276d9"></a>
+<a id="org193527e"></a>
 
-## La teoría espacial del voto (1 clase)
+## La teoría espacial del voto &#x2013; 19 de noviembre
 
-27 **de noviembre**
-
--   DOWNS <span class="underline">La teoría económica de la democracia</span> (1958) 19 pp. (1 clase)
+-   DOWNS *La teoría económica de la democracia* (1958) 19 pp.
     -   cap. 4 de Diez textos básicos
--   Nominate scores?
 
 
-<a id="orga47e993"></a>
+<a id="org01c3bff"></a>
 
-## El modelo distributivo, clientelismo y populismo (2 clases)
-
-28 y 29 **de noviembre**
+## El modelo distributivo, clientelismo y populismo &#x2013; 24 y 26 de noviembre
 
 -   Película All the King's Men de Rossen (1949)
 -   SCOTT Patron-client politics and political chenge in Southeast Asia (1972) 23 pp.
 -   DIAZ CAYEROS, ESTEVEZ Y MAGALONI Political machines and vote buying (2016) 19 pp.
-    -   game theory
--   \*COX y MCCUBBINS (1986) 20 pp.
-    -   Complicado pero muy claro. Podría ser lectura optativa, o puedo simplemente desarrollar la base del modelo, con la expectativa.
-    -   Puedo complementar en clase con COX Swing voters, core voters, and distributive politics (2010) 16 pp. (Podría asignar sólo el inicio, hasta donde plantea el vector distributivo&#x2026;)
+-   COX y MCCUBBINS\* (1986) 20 pp.
 -   Columnas de Viri RIOS:
     -   [La transición democrática de los de abajo](https://www.elmanana.com/opinion/columnas/la-transicion-democratica-de-los-de-abajo-5886652.html) (2024).
     -   [The real reasons for AMLO's popularity](https://americasquarterly.org/article/the-real-reasons-for-amlos-popularity/) (2023).
 
 
-<a id="orgf196e28"></a>
+<a id="org51c35c0"></a>
 
-## La organización (2 clases)
-
-30 y 31 **de diciembre**
+## La organización &#x2013; 1 y 3 de diciembre
 
 -   HIRSHMAN caps 1-3 39 pp.
-    -   ojo: el cap 6 conecta salida con duopolio Hotelling. Puedo usarlo para clase solamente? O si ya leyeron Downs, que también lean esto?
-    -   Esto se conecta con udea = organización
 -   MAGAR Party subsidies, campaign decency, and entry barriers (2015) 22 pp.
-    -   Ilustra tres organizaciones formidables que fueron incapaces de contener su deterioro.
-    -   PAN y PRI anquilosados por barreras de entrada y subsidios.
-    -   Dejar el tema de la censura como trasfondo de cómo operan las campañas en Mx.
 -   ESTEVEZ en Xiuh???
 -   CORG basics? Theo of the firm?
 
 
-<a id="org1a9bb4d"></a>
+<a id="orge84b92c"></a>
 
 # demás
