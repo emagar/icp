@@ -1,36 +1,38 @@
-- [Para delimitar la política (2 clases)](#org3ed6454)
-  - [13 de agosto](#org3b90e43)
-  - [18 de agosto](#orga65dc2f)
-- [El análisis político (2 clases)](#org4c1d424)
-  - [20 y 25 de agosto](#org5a138c4)
-- [El estado-nación (2 clases)](#org0479bca)
-- [Modernización y democracia (2 clases)](#org35e3cae)
-- [Estructuras en ciencia social (5 clases)](#org6abef55)
-  - [Materialismo](#org3dbb8a3)
-  - [Institucionalismo](#org8a1bdec)
-  - [Culturalismo](#orgbb80c08)
-- [Examen parcial](#org7148a31)
-- [Bufet de conceptos para el análisis &#x2013; parte I (6 clases)](#org358886d)
-  - [El tipo ideal (1 clase)](#orgcf8b5ec)
-  - [El nivel de análisis: civilización&#x2013;sistema&#x2013;grupos&#x2013;ramas&#x2013;individuos (2 clases)](#org5fafc34)
-    - [El poder compartido (1 clase)](#orgb5facb5)
-    - [Los grupos de interés (1 clase)](#org8d16e7b)
-  - [Los dilemas colectivos (3 clases)](#org03ac67e)
-    - [El problema del ejido (1 clase)](#org93df32d)
-    - [El problema de coordinación (1 clase)](#org23f4d55)
-    - [La inestabilidad social (1 clase)](#org56fddad)
-- [Conozca a la facultad del departamento (5 clases)](#org0365571)
-  - [Antonella BANDIERA &#x2013; orden social sin estado-normas y cultura pueden prevenir el crimen  (podría 20/22 oct)](#orgaf5fff0)
-  - [Adrián LUCARDI  &#x2013; Gobiernos buenos vs malos, The logic of political survival (Prefiero un lunes, pero puedo cualquier lunes o miércoles de octubre o el 5/10/12 dic.)](#org5553702)
-  - [Alberto SIMPSER &#x2013; Polarización (Octubre: M15, L20, M22, L27, M29 Noviembre: M5, L10, M12)](#org7d4c0bc)
-  - [Vidal ROMERO  &#x2013; Seguridad y migración (semanas 10 a 12 = 13-29 oct)](#org6b6e4a9)
-  - [Adriana ALFARO ALTAMIRANO &#x2013; migración](#orgcf3335c)
-- [SEGUNDO EXAMEN PARCIAL](#orgc043df8)
-- [Bufet de conceptos para el análisis &#x2013; parte II (5 clases)](#org69b9c56)
-  - [La teoría espacial del voto (1 clase)](#org4fe2e9b)
-  - [El modelo distributivo, clientelismo y populismo (2 clases)](#orgbfcff7d)
-  - [La organización (2 clases)](#org257bc1a)
-- [demás](#orgd4ee8de)
+- [Para delimitar la política](#org8cef89c)
+  - [13 de agosto](#org1b92a1c)
+  - [18 de agosto](#org7e43f88)
+- [El análisis político](#org58b4e40)
+  - [20 y 25 de agosto](#org0a6672b)
+- [El estado-nación](#org12419dc)
+  - [27 de agosto y 1 de septiembre](#org6d13ff7)
+- [Modernización y democracia](#orge435a09)
+  - [3 y 8 de septiembre](#org6bcf3e1)
+- [Estructuras en ciencia social](#org935772c)
+  - [Materialismo &#x2013; 10 de septiembre](#orgf9f77dc)
+  - [Institucionalismo &#x2013; 17 y 22 de septiembre](#org2a05aec)
+  - [Culturalismo &#x2013; 24 de septiembre](#orgb0dd4c7)
+- [Examen parcial](#org0a6144e)
+- [Bufet de conceptos para el análisis &#x2013; parte I (6 clases)](#org6172eb0)
+  - [El tipo ideal (1 clase)](#org59f3854)
+  - [El nivel de análisis: civilización&#x2013;sistema&#x2013;grupos&#x2013;ramas&#x2013;individuos (2 clases)](#orgcef4ee7)
+    - [El poder compartido (1 clase)](#org1c3c2d5)
+    - [Los grupos de interés (1 clase)](#org504053a)
+  - [Los dilemas colectivos (3 clases)](#org5bd681c)
+    - [El problema del ejido (1 clase)](#org253f50b)
+    - [El problema de coordinación (1 clase)](#orgfdc0372)
+    - [La inestabilidad social (1 clase)](#org8f25530)
+- [Conozca a la facultad del departamento (5 clases)](#org2323f47)
+  - [Antonella BANDIERA &#x2013; orden social sin estado-normas y cultura pueden prevenir el crimen  (podría 20/22 oct)](#org5171aed)
+  - [Adrián LUCARDI  &#x2013; Gobiernos buenos vs malos, The logic of political survival (Prefiero un lunes, pero puedo cualquier lunes o miércoles de octubre o el 5/10/12 dic.)](#org287cff5)
+  - [Alberto SIMPSER &#x2013; Polarización (Octubre: M15, L20, M22, L27, M29 Noviembre: M5, L10, M12)](#orgbf7d749)
+  - [Vidal ROMERO  &#x2013; Seguridad y migración (semanas 10 a 12 = 13-29 oct)](#orgc50db94)
+  - [Adriana ALFARO ALTAMIRANO &#x2013; migración](#org69845a1)
+- [SEGUNDO EXAMEN PARCIAL](#org801831a)
+- [Bufet de conceptos para el análisis &#x2013; parte II (5 clases)](#org4dcd7c8)
+  - [La teoría espacial del voto (1 clase)](#orgd3276d9)
+  - [El modelo distributivo, clientelismo y populismo (2 clases)](#orga47e993)
+  - [La organización (2 clases)](#orgf196e28)
+- [demás](#org1a9bb4d)
 
 ITAM Depto. de ciencia política, otoño 2025
 
@@ -97,31 +99,31 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 31. 3 de diciembre
 
 
-<a id="org3ed6454"></a>
+<a id="org8cef89c"></a>
 
-# Para delimitar la política (2 clases)
+# Para delimitar la política
 
 
-<a id="org3b90e43"></a>
+<a id="org1b92a1c"></a>
 
 ## 13 de agosto
 
 -   SCHMITTER y BLEHER *Politics as a Science: A Prolegomenon* Cap 1 (2021) 13 pp.
 
 
-<a id="orga65dc2f"></a>
+<a id="org7e43f88"></a>
 
 ## 18 de agosto
 
 -   DAHL The concept of power (1957) 15 pp.
 
 
-<a id="org4c1d424"></a>
+<a id="org58b4e40"></a>
 
-# El análisis político (2 clases)
+# El análisis político
 
 
-<a id="org5a138c4"></a>
+<a id="org0a6672b"></a>
 
 ## 20 y 25 de agosto
 
@@ -133,79 +135,65 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   BHATTACHERJEE (2012) *Social Science Research* cap 1 8 pp. <https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1002&context=oa_textbooks>
 
 
-<a id="org0479bca"></a>
+<a id="org12419dc"></a>
 
-# El estado-nación (2 clases)
+# El estado-nación
 
-6 y 7 **2 clases**
 
--   WEBER La política como vocación (1919)
-    -   Discutiremos las pp. 81-106, pero lean lo demás &#x2014; hay mil y un ideas que vale la pena considerar cuando duden de su vocación
-    -   Weber’s speech has mostly been recalled for its definition of the state and its reference to the three forms of legitimation of authority. This is worth paying attention to, but there is much more here as well, including some harsh words about American party politics and a plea not to lose hope in the face of increasingly reactionary and venal politics. It is important here to recognize the date of the lecture, coming at the end of World War I, the events of the Spartacist Rebellion in Germany, and the early days of fascism.
--   HOBBES <span class="underline">Leviatán</span> caps. 13, 17 y 18 (1651) 18 pp.
+<a id="org6d13ff7"></a>
+
+## 27 de agosto y 1 de septiembre
+
+-   WEBER La política como vocación (1919) pp. 81-106
+-   HOBBES *Leviatán* caps. 13, 17 y 18 (1651) 18 pp.
 -   ERTMAN\* <span class="underline">The Birth of Leviathan</span> cap. 1 (1997) 34 pp.
 -   NORTH A neoclassical theory of the state (1981) 13 pp.
 
 
-<a id="org35e3cae"></a>
+<a id="orge435a09"></a>
 
-# Modernización y democracia (2 clases)
+# Modernización y democracia
 
-8 y 9 **de septiembre**
+
+<a id="org6bcf3e1"></a>
+
+## 3 y 8 de septiembre
 
 -   LIPSET <span class="underline">El hombre político</span> (1960)
-    -   cap. 5 de Diez textos básicos pp. 113-142
-    -   Some social requisites for democracy -> Modernización
 -   PRZEWORSKI y LIMONGI Modernization: Theories and Facts (1997) 24 pp.
-    -   Lineal y N
-    -   Ilustra large N
 -   LINZ El régimen autoritario (1990) 7 pp.
 -   WEINGAST The political foundations of democracy and the rule of law (1997) 22 pp.
-    -   teoría de juegos
-    -   para ver cómo se lee un paper académico
 
 
-<a id="org6abef55"></a>
+<a id="org935772c"></a>
 
-# Estructuras en ciencia social (5 clases)
-
-Una clase que contraste las tres estructuras.
+# Estructuras en ciencia social
 
 
-<a id="org3dbb8a3"></a>
+<a id="orgf9f77dc"></a>
 
-## Materialismo
+## Materialismo &#x2013; 10 de septiembre
 
-10 **de septiembre**
-
--   MARX y ENGELS <span class="underline">El manifiesto del partido comunista</span> (1848) 31 pp.
+-   MARX y ENGELS *El manifiesto del partido comunista* (1848) 31 pp.
 -   LEVIN The evolution of cooperation (2019) 7 pp.
-    -   Genética del partidismo? (1 clase)
-    -   <https://www.templeton.org/news/the-evolution-of-cooperation>
-    -   Hay paper largo de LEVIN también
--   SPRUYT War, trade, and state formation (2007) 23 pp.
+-   SPRUYT *War, Trade, and State Formation* (2007) 23 pp.
 
 
-<a id="org8a1bdec"></a>
+<a id="org2a05aec"></a>
 
-## Institucionalismo
+## Institucionalismo &#x2013; 17 y 22 de septiembre
 
-11 y 12 **2 clases**
-
--   \*ARISTOTELES <span class="underline">La política</span> (S. IV AC) Libro tercero caps. IV-VI 11 pp. (1 clase)
-    -   Excluyo extractos de ética nicomaquea
-    -   <https://plato.stanford.edu/eNtRIeS/aristotle-politics/#PoliScieGene> tiene buen detalle para clase, creo.
-    -   Richard Kraut tiene un cap introductorio
--   HAMILTON, MADISON, JAY <span class="underline">El Federalista</span> (1787) ensayos #1 #10 #51 #72 y #78 23 pp.
+-   ARISTOTELES\* *La política* (S. IV AC) Libro tercero caps. IV-VI 11 pp. (1 clase)
+-   HAMILTON, MADISON, JAY *El Federalista* (1787) ensayos #1 #10 #51 #72 y #78 23 pp.
 -   BRAVO ORTIZ ¿Qué hay dentro de la caja negra? Control de agenda en la cámara de diputados (2025) pp. 6-57.
 -   Arts. 71 y 72 CPEUM.
 
 
-<a id="orgbb80c08"></a>
+<a id="orgb0dd4c7"></a>
 
-## Culturalismo
+## Culturalismo &#x2013; 24 de septiembre
 
-13 **1 clase**
+**1 clase**
 
 -   ALMOND y VERBA <span class="underline">La cultura cívica</span> (1963) 31 pp.
     -   cap 7 de Diez textos básicos
@@ -215,19 +203,19 @@ Una clase que contraste las tres estructuras.
     -   en Vuelta, 137, abril de 1988: 30 – 37.
 
 
-<a id="org7148a31"></a>
+<a id="org0a6144e"></a>
 
 # Examen parcial
 
 14 **de octubre**
 
 
-<a id="org358886d"></a>
+<a id="org6172eb0"></a>
 
 # Bufet de conceptos para el análisis &#x2013; parte I (6 clases)
 
 
-<a id="orgcf8b5ec"></a>
+<a id="org59f3854"></a>
 
 ## El tipo ideal (1 clase)
 
@@ -242,12 +230,12 @@ Una clase que contraste las tres estructuras.
     -   cap. 3. El modelo consensual de democracia 15 pp.
 
 
-<a id="org5fafc34"></a>
+<a id="orgcef4ee7"></a>
 
 ## El nivel de análisis: civilización&#x2013;sistema&#x2013;grupos&#x2013;ramas&#x2013;individuos (2 clases)
 
 
-<a id="orgb5facb5"></a>
+<a id="org1c3c2d5"></a>
 
 ### El poder compartido (1 clase)
 
@@ -257,7 +245,7 @@ Una clase que contraste las tres estructuras.
     -   Cubre McCubbins y más
 
 
-<a id="org8d16e7b"></a>
+<a id="org504053a"></a>
 
 ### Los grupos de interés (1 clase)
 
@@ -269,12 +257,12 @@ Una clase que contraste las tres estructuras.
 -   BATES Markets and States in Tropical Africa cap. 1 19 pp.
 
 
-<a id="org03ac67e"></a>
+<a id="org5bd681c"></a>
 
 ## Los dilemas colectivos (3 clases)
 
 
-<a id="org93df32d"></a>
+<a id="org253f50b"></a>
 
 ### El problema del ejido (1 clase)
 
@@ -288,7 +276,7 @@ Una clase que contraste las tres estructuras.
 -   O'GORMAN Global warming as tragedy of the commons (2010) 12 pp.
 
 
-<a id="org23f4d55"></a>
+<a id="orgfdc0372"></a>
 
 ### El problema de coordinación (1 clase)
 
@@ -297,7 +285,7 @@ Una clase que contraste las tres estructuras.
 -   MCCUBBINS y ROSENBLUTH Party provision for personal politics (1995) 19 pp.
 
 
-<a id="org56fddad"></a>
+<a id="org8f25530"></a>
 
 ### La inestabilidad social (1 clase)
 
@@ -309,14 +297,14 @@ Una clase que contraste las tres estructuras.
 -   Mongin, Philippe. 1997. “Expected Utility Theory.” In J. Davis, W. Hands, and U. Maki, eds. Handbook of Economic Methodology. London, Edward Elgar. Pages 342-350.
 
 
-<a id="org0365571"></a>
+<a id="org2323f47"></a>
 
 # Conozca a la facultad del departamento (5 clases)
 
 21 **22 de octubre**
 
 
-<a id="orgaf5fff0"></a>
+<a id="org5171aed"></a>
 
 ## Antonella BANDIERA &#x2013; orden social sin estado-normas y cultura pueden prevenir el crimen  (podría 20/22 oct)
 
@@ -325,14 +313,14 @@ Una clase que contraste las tres estructuras.
 22 **de octubre**
 
 
-<a id="org5553702"></a>
+<a id="org287cff5"></a>
 
 ## Adrián LUCARDI  &#x2013; Gobiernos buenos vs malos, The logic of political survival (Prefiero un lunes, pero puedo cualquier lunes o miércoles de octubre o el 5/10/12 dic.)
 
 23 **29 de octubre**
 
 
-<a id="org7d4c0bc"></a>
+<a id="orgbf7d749"></a>
 
 ## Alberto SIMPSER &#x2013; Polarización (Octubre: M15, L20, M22, L27, M29 Noviembre: M5, L10, M12)
 
@@ -341,31 +329,31 @@ Una clase que contraste las tres estructuras.
 24 **de octubre**
 
 
-<a id="org6b6e4a9"></a>
+<a id="orgc50db94"></a>
 
 ## Vidal ROMERO  &#x2013; Seguridad y migración (semanas 10 a 12 = 13-29 oct)
 
 25 **de noviembre**
 
 
-<a id="orgcf3335c"></a>
+<a id="org69845a1"></a>
 
 ## Adriana ALFARO ALTAMIRANO &#x2013; migración
 
 
-<a id="orgc043df8"></a>
+<a id="org801831a"></a>
 
 # SEGUNDO EXAMEN PARCIAL
 
 26 **de noviembre** Relacionen claramente temas de facultad con dos temas vistos anteriormente.
 
 
-<a id="org69b9c56"></a>
+<a id="org4dcd7c8"></a>
 
 # Bufet de conceptos para el análisis &#x2013; parte II (5 clases)
 
 
-<a id="org4fe2e9b"></a>
+<a id="orgd3276d9"></a>
 
 ## La teoría espacial del voto (1 clase)
 
@@ -376,7 +364,7 @@ Una clase que contraste las tres estructuras.
 -   Nominate scores?
 
 
-<a id="orgbfcff7d"></a>
+<a id="orga47e993"></a>
 
 ## El modelo distributivo, clientelismo y populismo (2 clases)
 
@@ -394,7 +382,7 @@ Una clase que contraste las tres estructuras.
     -   [The real reasons for AMLO's popularity](https://americasquarterly.org/article/the-real-reasons-for-amlos-popularity/) (2023).
 
 
-<a id="org257bc1a"></a>
+<a id="orgf196e28"></a>
 
 ## La organización (2 clases)
 
@@ -411,6 +399,6 @@ Una clase que contraste las tres estructuras.
 -   CORG basics? Theo of the firm?
 
 
-<a id="orgd4ee8de"></a>
+<a id="org1a9bb4d"></a>
 
 # demás
