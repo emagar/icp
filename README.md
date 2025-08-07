@@ -1,38 +1,38 @@
-- [Para delimitar la política](#org0d16a20)
-  - [13 de agosto](#orgb4996aa)
-  - [18 de agosto](#orgc076eda)
-- [El análisis político](#orgae22802)
-  - [20 y 25 de agosto](#orgfce0f83)
-- [El estado-nación](#org237aa0d)
-  - [27 de agosto y 1 de septiembre](#org5c0295b)
-- [Modernización y democracia](#orgc545ae3)
-  - [3 y 8 de septiembre](#orgc3c5135)
-- [Estructuras en ciencia social](#orgcbf7a20)
-  - [Materialismo &#x2013; 10 de septiembre](#orgf8a2c9f)
-  - [Institucionalismo &#x2013; 17 y 22 de septiembre](#org43be58f)
-  - [Culturalismo &#x2013; 24 de septiembre](#orgc3386aa)
-- [Examen parcial &#x2013; 29 de septiembre](#orgc04a54c)
-- [Bufet de conceptos para el análisis &#x2013; parte I (6 clases)](#org6849966)
-  - [El tipo ideal &#x2013; 1 de octubre](#org8346532)
-  - [El nivel de análisis: civilización/sistema/grupos/ramas/individuos &#x2013; 6 y 8 de octubre](#orgf29faab)
-    - [El poder compartido](#org41ee0c0)
-    - [Los grupos de interés](#orgdab7de3)
-  - [Los dilemas colectivos &#x2013; 13, 15 y 20 de octubre](#orgcf46181)
-    - [El problema del ejido](#org627cbc7)
-    - [El problema de coordinación](#orge359088)
-    - [La inestabilidad social](#org231e04a)
-- [Conozca a la facultad del departamento (5 clases)](#orgf3c5fec)
-  - [Antonella BANDIERA &#x2013; 22 de octubre](#orgcc769f0)
-  - [Adrián LUCARDI &#x2013; 27 de octubre](#orgdb673a3)
-  - [Alberto SIMPSER &#x2013; 29 de octubre](#orge25ff10)
-  - [Vidal ROMERO &#x2013; 5 de noviembre](#org2bc332b)
-  - [Adriana ALFARO &#x2013; 10 de noviembre](#org8659e29)
-- [SEGUNDO EXAMEN PARCIAL &#x2013; 12 de noviembre](#org9051477)
-- [Bufet de conceptos para el análisis &#x2013; parte II](#orga0c3a41)
-  - [La teoría espacial del voto &#x2013; 19 de noviembre](#org193527e)
-  - [El modelo distributivo, clientelismo y populismo &#x2013; 24 y 26 de noviembre](#org01c3bff)
-  - [La organización &#x2013; 1 y 3 de diciembre](#org51c35c0)
-- [demás](#orge84b92c)
+- [Para delimitar la política](#org58ad576)
+  - [13 de agosto](#org1e99e4c)
+  - [18 de agosto](#org63f3225)
+- [El análisis político](#org34a5a17)
+  - [20 y 25 de agosto](#org43f880a)
+- [El estado-nación](#org7615ec4)
+  - [27 de agosto y 1 de septiembre](#org38eb90a)
+- [Modernización y democracia](#orgf61332f)
+  - [3 y 8 de septiembre](#org332826c)
+- [Estructuras en ciencia social](#org4630425)
+  - [Materialismo &#x2013; 10 de septiembre](#orgaee7f55)
+  - [Institucionalismo &#x2013; 17 y 22 de septiembre](#orgaf6f7fa)
+  - [Culturalismo &#x2013; 24 de septiembre](#org95d3c98)
+- [PRIMER EXAMEN PARCIAL &#x2013; 29 de septiembre](#org36c7aa3)
+- [Bufet de conceptos para el análisis &#x2013; parte I (6 clases)](#orge6648f1)
+  - [El tipo ideal &#x2013; 1 de octubre](#org1b64ad5)
+  - [El nivel de análisis: civilización/sistema/grupos/ramas/individuos &#x2013; 6 y 8 de octubre](#orgf5d7caa)
+    - [El poder compartido](#org24ec838)
+    - [Los grupos de interés](#orgc47f8a2)
+  - [Los dilemas colectivos &#x2013; 13, 15 y 20 de octubre](#org4e56021)
+    - [El problema del ejido](#orgc54531c)
+    - [El problema de coordinación](#org70a8999)
+    - [La inestabilidad social](#orgba6151e)
+- [Conozca a la facultad del departamento (5 clases)](#org0b1b757)
+  - [Antonella BANDIERA &#x2013; 22 de octubre](#org842ed94)
+  - [Adrián LUCARDI &#x2013; 27 de octubre](#orgf225a9f)
+  - [Alberto SIMPSER &#x2013; 29 de octubre](#org7296723)
+  - [Vidal ROMERO &#x2013; 5 de noviembre](#org60e9f69)
+  - [Adriana ALFARO &#x2013; 10 de noviembre](#orga0b16ab)
+- [SEGUNDO EXAMEN PARCIAL &#x2013; 12 de noviembre](#org8ec5c6c)
+- [Bufet de conceptos para el análisis &#x2013; parte II](#orgc2a0174)
+  - [La teoría espacial del voto &#x2013; 19 de noviembre](#org165dd42)
+  - [El modelo distributivo, clientelismo y populismo &#x2013; 24 y 26 de noviembre](#org06fc2a8)
+  - [La organización &#x2013; 1 y 3 de diciembre](#org2edc622)
+- [demás](#org749ae61)
 
 ITAM Depto. de ciencia política, otoño 2025
 
@@ -64,66 +64,32 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 
 ---
 
-1.  lunes 11 de agosto &#x2013; entrega temario etc
-2.  13 de agosto
-3.  18 de agosto
-4.  20 de agosto
-5.  25 de agosto
-6.  27 de agosto
-7.  1 de septiembre
-8.  3 de septiembre
-9.  8 de septiembre
-10. 10 de septiembre
-11. 17 de septiembre
-12. 22 de septiembre
-13. 24 de septiembre
-14. 29 de septiembre
-15. 1 de octubre
-16. 6 de octubre
-17. 8 de octubre
-18. 13 de octubre
-19. 15 de octubre
-20. 20 de octubre Clases de colegas: Adrián LUCARDI &#x2013; Gobiernos buenos vs malos, The logic of political survival (Prefiero un lunes, pero puedo cualquier lunes o miércoles de octubre o el 5/10/12 dic.)
-21. 22 de octubre VACACION LFM Clases de colegas: Antonella BANDIERA &#x2013; orden social sin estado-normas y cultura pueden prevenir el crimen (podría 20/22 oct)
-    -   MAGALONI et al. State-Evading Solutions to Violence: Organized Crime and Governance in Indigenous Mexico (2021) 38 pp.
-22. 27 de octubre VACACION LFM
-23. 29 de octubre VACACION LFM SEGUNDO EXAMEN PARCIAL SE ENTREGA
-24. 5 de noviembre Clases de colegas: Vidal &#x2013; Seguridad y migración (semanas 10 a 12 = 13-29 oct)
-25. 10 de noviembre Clases de colegas: Simpser &#x2013; Polarización interacting (Octubre: M15, L20, M22, L27, M29 Noviembre: M5, L10, M12)
-    -   GREENE et al. Interacting as equals reduces partisan polarization (2024) 13 pp.
-26. 12 de noviembre Clases de colegas: Adriana &#x2013; normativo
-27. 19 de noviembre Clases de colegas: Micozzi &#x2013; representación descriptiva??? (prefiere miércoles)
-28. 24 de noviembre
-29. 26 de noviembre
-30. 1 de diciembre
-31. 3 de diciembre
 
-
-<a id="org0d16a20"></a>
+<a id="org58ad576"></a>
 
 # Para delimitar la política
 
 
-<a id="orgb4996aa"></a>
+<a id="org1e99e4c"></a>
 
 ## 13 de agosto
 
 -   SCHMITTER y BLEHER *Politics as a Science: A Prolegomenon* Cap 1 (2021) 13 pp.
 
 
-<a id="orgc076eda"></a>
+<a id="org63f3225"></a>
 
 ## 18 de agosto
 
 -   DAHL The concept of power (1957) 15 pp.
 
 
-<a id="orgae22802"></a>
+<a id="org34a5a17"></a>
 
 # El análisis político
 
 
-<a id="orgfce0f83"></a>
+<a id="org43f880a"></a>
 
 ## 20 y 25 de agosto
 
@@ -135,12 +101,12 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   BHATTACHERJEE (2012) *Social Science Research* cap 1 8 pp. <https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1002&context=oa_textbooks>
 
 
-<a id="org237aa0d"></a>
+<a id="org7615ec4"></a>
 
 # El estado-nación
 
 
-<a id="org5c0295b"></a>
+<a id="org38eb90a"></a>
 
 ## 27 de agosto y 1 de septiembre
 
@@ -150,12 +116,12 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   NORTH A neoclassical theory of the state (1981) 13 pp.
 
 
-<a id="orgc545ae3"></a>
+<a id="orgf61332f"></a>
 
 # Modernización y democracia
 
 
-<a id="orgc3c5135"></a>
+<a id="org332826c"></a>
 
 ## 3 y 8 de septiembre
 
@@ -165,12 +131,12 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   WEINGAST The political foundations of democracy and the rule of law (1997) 22 pp.
 
 
-<a id="orgcbf7a20"></a>
+<a id="org4630425"></a>
 
 # Estructuras en ciencia social
 
 
-<a id="orgf8a2c9f"></a>
+<a id="orgaee7f55"></a>
 
 ## Materialismo &#x2013; 10 de septiembre
 
@@ -179,7 +145,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   SPRUYT *War, Trade, and State Formation* (2007) 23 pp.
 
 
-<a id="org43be58f"></a>
+<a id="orgaf6f7fa"></a>
 
 ## Institucionalismo &#x2013; 17 y 22 de septiembre
 
@@ -189,7 +155,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   Arts. 71 y 72 CPEUM.
 
 
-<a id="orgc3386aa"></a>
+<a id="org95d3c98"></a>
 
 ## Culturalismo &#x2013; 24 de septiembre
 
@@ -198,17 +164,17 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   CRESPO Del Autoritarismo a la Democracia: el Mito Cultural (1988) 14 pp.
 
 
-<a id="orgc04a54c"></a>
+<a id="org36c7aa3"></a>
 
-# Examen parcial &#x2013; 29 de septiembre
+# PRIMER EXAMEN PARCIAL &#x2013; 29 de septiembre
 
 
-<a id="org6849966"></a>
+<a id="orge6648f1"></a>
 
 # Bufet de conceptos para el análisis &#x2013; parte I (6 clases)
 
 
-<a id="org8346532"></a>
+<a id="org1b64ad5"></a>
 
 ## El tipo ideal &#x2013; 1 de octubre
 
@@ -217,19 +183,19 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   LIJPHART\* *Modelos de democracia* (1999) cap. 3. El modelo consensual de democracia 15 pp.
 
 
-<a id="orgf29faab"></a>
+<a id="orgf5d7caa"></a>
 
 ## El nivel de análisis: civilización/sistema/grupos/ramas/individuos &#x2013; 6 y 8 de octubre
 
 
-<a id="org41ee0c0"></a>
+<a id="org24ec838"></a>
 
 ### El poder compartido
 
 -   DE FIGUEIREDO-JACOBI-WEINGAST The new separation-of-powers approach to American Politics (2006) 21 pp.
 
 
-<a id="orgdab7de3"></a>
+<a id="orgc47f8a2"></a>
 
 ### Los grupos de interés
 
@@ -237,12 +203,12 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   BATES Markets and States in Tropical Africa (19xx) cap. 1 19 pp.
 
 
-<a id="orgcf46181"></a>
+<a id="org4e56021"></a>
 
 ## Los dilemas colectivos &#x2013; 13, 15 y 20 de octubre
 
 
-<a id="org627cbc7"></a>
+<a id="orgc54531c"></a>
 
 ### El problema del ejido
 
@@ -251,14 +217,14 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   O'GORMAN Global warming as tragedy of the commons (2010) 12 pp.
 
 
-<a id="orge359088"></a>
+<a id="org70a8999"></a>
 
 ### El problema de coordinación
 
 -   MCCUBBINS y ROSENBLUTH Party provision for personal politics (1995) 19 pp.
 
 
-<a id="org231e04a"></a>
+<a id="orgba6151e"></a>
 
 ### La inestabilidad social
 
@@ -268,12 +234,12 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   Mongin, Philippe. 1997. “Expected Utility Theory.” In J. Davis, W. Hands, and U. Maki, eds. Handbook of Economic Methodology. London, Edward Elgar. Pages 342-350.
 
 
-<a id="orgf3c5fec"></a>
+<a id="org0b1b757"></a>
 
 # Conozca a la facultad del departamento (5 clases)
 
 
-<a id="orgcc769f0"></a>
+<a id="org842ed94"></a>
 
 ## Antonella BANDIERA &#x2013; 22 de octubre
 
@@ -282,39 +248,39 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 **de octubre**
 
 
-<a id="orgdb673a3"></a>
+<a id="orgf225a9f"></a>
 
 ## Adrián LUCARDI &#x2013; 27 de octubre
 
 
-<a id="orge25ff10"></a>
+<a id="org7296723"></a>
 
 ## Alberto SIMPSER &#x2013; 29 de octubre
 
 -   GREENE et al. Interacting as equals reduces partisan polarization (2024) 13 pp.
 
 
-<a id="org2bc332b"></a>
+<a id="org60e9f69"></a>
 
 ## Vidal ROMERO &#x2013; 5 de noviembre
 
 
-<a id="org8659e29"></a>
+<a id="orga0b16ab"></a>
 
 ## Adriana ALFARO &#x2013; 10 de noviembre
 
 
-<a id="org9051477"></a>
+<a id="org8ec5c6c"></a>
 
 # SEGUNDO EXAMEN PARCIAL &#x2013; 12 de noviembre
 
 
-<a id="orga0c3a41"></a>
+<a id="orgc2a0174"></a>
 
 # Bufet de conceptos para el análisis &#x2013; parte II
 
 
-<a id="org193527e"></a>
+<a id="org165dd42"></a>
 
 ## La teoría espacial del voto &#x2013; 19 de noviembre
 
@@ -322,7 +288,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
     -   cap. 4 de Diez textos básicos
 
 
-<a id="org01c3bff"></a>
+<a id="org06fc2a8"></a>
 
 ## El modelo distributivo, clientelismo y populismo &#x2013; 24 y 26 de noviembre
 
@@ -335,7 +301,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
     -   [The real reasons for AMLO's popularity](https://americasquarterly.org/article/the-real-reasons-for-amlos-popularity/) (2023).
 
 
-<a id="org51c35c0"></a>
+<a id="org2edc622"></a>
 
 ## La organización &#x2013; 1 y 3 de diciembre
 
@@ -345,6 +311,6 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   CORG basics? Theo of the firm?
 
 
-<a id="orge84b92c"></a>
+<a id="org749ae61"></a>
 
 # demás
