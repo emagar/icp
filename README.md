@@ -1,40 +1,39 @@
-- [Para delimitar la política](#org7513719)
-  - [13 de agosto](#org82378e7)
-  - [18 de agosto](#org208af89)
-- [El análisis político](#org2c1ed31)
-  - [20 y 25 de agosto](#org55c6e0c)
-- [El estado-nación](#org9c21baa)
-  - [27 de agosto y 1 de septiembre](#org8f52a3e)
-- [Modernización y democracia](#orgb437dfc)
-  - [3 y 8 de septiembre](#org8a7d400)
-- [PRIMER EXAMEN PARCIAL &#x2013; 10 de septiembre](#org8c9710b)
-- [Estructuras en ciencia social](#orga2f707d)
-  - [Materialismo &#x2013; 17 de septiembre](#orgb3ae506)
-  - [Institucionalismo &#x2013; 22 y 24 de septiembre](#org5549586)
-  - [Culturalismo &#x2013; 29 de septiembre](#org2ca7874)
-- [Menú de conceptos para el análisis &#x2013; parte I](#org7929713)
-  - [El tipo ideal &#x2013; 1 de octubre](#org1ad08d6)
-  - [El nivel de análisis: civilización/sistema/grupos/ramas/individuos &#x2013; 6 y 8 de octubre](#org1038ea4)
-    - [El poder compartido](#org8391e99)
-    - [Los grupos de interés](#org9faf23d)
-  - [Los dilemas colectivos &#x2013; 13, 15 y 20 de octubre](#orge34fcb0)
-    - [El problema del ejido](#orgd0d543d)
-    - [El problema de coordinación](#org28e5d1d)
-    - [La inestabilidad social](#org8e03757)
-- [SEGUNDO EXAMEN PARCIAL &#x2013; Se entrega el 10 de octubre](#org31fdd6d)
-- [Conozca a la facultad del departamento](#org2a2acb5)
-  - [Antonella BANDIERA &#x2013; 22 de octubre](#orgd78432c)
-  - [Adrián LUCARDI &#x2013; 27 de octubre](#org9975207)
-  - [Alberto SIMPSER &#x2013; 29 de octubre](#orgacb0a11)
-  - [Vidal ROMERO &#x2013; 5 de noviembre](#org777ec95)
-  - [Adriana ALFARO &#x2013; 10 de noviembre](#orgafaed86)
-- [Menú de conceptos para el análisis &#x2013; continuación](#org5146c0e)
-  - [La teoría espacial del voto &#x2013; 12 de noviembre](#org7084f31)
-  - [El modelo distributivo, clientelismo y populismo &#x2013; 19 y 24 de noviembre](#org0c3118f)
-  - [La organización &#x2013; 26 de noviembre y 1 de diciembre](#orgcbbdc0e)
-- [Recapitulación](#org09208d0)
-  - [3 de diciembre](#org0943540)
-- [demás](#orgbaba055)
+- [Para delimitar la política](#org45b7b5d)
+  - [13 de agosto](#orgb9aac8a)
+  - [18 de agosto](#org307806a)
+- [El análisis político](#org4f18d81)
+  - [20 y 25 de agosto](#orgdf1d86b)
+- [El estado-nación](#orgc6ad5ea)
+  - [27 de agosto y 1 de septiembre](#orga2c6bbb)
+- [Modernización y democracia](#orgf2fd0d8)
+  - [3 y 8 de septiembre](#org293c9f9)
+- [PRIMER EXAMEN PARCIAL &#x2013; 10 de septiembre](#org53fa6be)
+- [Estructuras en ciencia social](#org8a389ca)
+  - [Materialismo &#x2013; 17 de septiembre](#org0b04c37)
+  - [Institucionalismo &#x2013; 22 y 24 de septiembre](#org268fb82)
+  - [Culturalismo &#x2013; 29 de septiembre](#org256f7d3)
+- [Menú de conceptos para el análisis &#x2013; parte I](#org8636839)
+  - [El tipo ideal &#x2013; 1 de octubre](#orgdab174b)
+  - [El nivel de análisis: civilización/sistema/grupos/ramas/individuos &#x2013; 6 y 8 de octubre](#org324624d)
+    - [El poder compartido](#org8061653)
+    - [Los grupos de interés](#org54acf49)
+  - [Los dilemas colectivos &#x2013; 13, 15 y 20 de octubre](#orgdda6e99)
+    - [El problema del ejido](#org60ebb47)
+    - [El problema de coordinación](#org91e2d40)
+    - [La inestabilidad social](#orgbad5ef3)
+- [SEGUNDO EXAMEN PARCIAL &#x2013; Se entrega el 10 de octubre](#orga29ce58)
+- [Conozca a la facultad del departamento](#orgb15530b)
+  - [Antonella BANDIERA &#x2013; 22 de octubre](#org451bfa2)
+  - [Adrián LUCARDI &#x2013; 27 de octubre](#org13dbb5c)
+  - [Alberto SIMPSER &#x2013; 29 de octubre](#org8a5f483)
+  - [Vidal ROMERO &#x2013; 5 de noviembre](#org0644270)
+  - [Adriana ALFARO &#x2013; 10 de noviembre](#orgb7f8946)
+- [Menú de conceptos para el análisis &#x2013; continuación](#org54dd9ed)
+  - [La teoría espacial del voto &#x2013; 12 de noviembre](#org094fc74)
+  - [El modelo distributivo, clientelismo y populismo &#x2013; 19 y 24 de noviembre](#orgd7f55d5)
+  - [La organización &#x2013; 26 de noviembre y 1 de diciembre](#orga1e44c4)
+- [Recapitulación](#orge26ef42)
+  - [3 de diciembre](#org697bff2)
 
 ITAM Depto. de ciencia política, otoño 2025
 
@@ -46,9 +45,9 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 
 *Objetivo*: Este curso es el cimiento del programa de ciencia política. Para construirlo, busca contribuir a la formación básica del estudiante en tres ámbitos importantes. Primero, las alumnas y los alumnos aprenderán conceptos clave que serán base y referencia permanente de su educación profesional. El temario aborda los grandes problemas que han ocupado al pensamiento político. Segundo, hace hincapié en el fortalecimiento de sus capacidades analíticas. Estudiaremos las principales escuelas de la ciencia social para discernir el modo particular con que cada una aborda los fenómenos políticos fundamentales como son la organización, el conflicto y la cooperación, o la competencia. Tercero, el curso busca desarrollar los buenos hábitos de trabajo de sus estudiantes.
 
-*Tareas y evaluación*: De cada estudiante espero que asista puntualmente a todas las clases habiendo hecho, previamente, todas las lecturas asignadas; que complete las tareas en tiempo y forma; y que participe activamente en clase. La evaluación incluye dos exámenes parciales (25% de la calificación cada uno), un examen final acumulativo (25%), controles de lectura (15%) y participación en clase (10%). Los **exámenes** evaluarán el conocimiento de las lecturas del curso, especialmente la capacidad del estudiante para hacer una reflexión crítica de ellas. A fin de cubrir la evaluación de **controles de lectura**, cada estudiante deberá entregar al profesor un total de 15 fichas sintéticas. Cada ficha de lectura será de una sola página, impresa y bien formada, que sintetice claramente el argumento central de alguno de los textos asignados para la clase del día. Las fichas se entregan al inicio de la clase y no aceptaré fichas adelantadas ni atrasadas. La **participación** en clase valorará la impresión general de sus intervenciones a lo largo del semestre.
+*Tareas y evaluación*: De cada estudiante espero que asista puntualmente a todas las clases habiendo hecho, previamente, todas las lecturas asignadas; que complete las tareas en tiempo y forma; y que participe activamente en el grupo. La evaluación incluye dos exámenes parciales (25% de la calificación cada uno), un examen final acumulativo (25%), controles de lectura (15%) y participación en clase (10%). Los **exámenes** evaluarán el conocimiento de las lecturas del curso, especialmente la capacidad del estudiante para hacer una reflexión crítica de ellas. A fin de cubrir la evaluación de **controles de lectura**, cada estudiante deberá entregar al profesor un total de 15 fichas sintéticas. Cada ficha de lectura será de una sola página, impresa y bien formada, que sintetice claramente el argumento central de alguno de los textos asignados para la clase del día. Las fichas se entregan al inicio de cada sesión y no aceptaré fichas adelantadas ni atrasadas. La **participación** en clase valorará la impresión general de sus intervenciones a lo largo del semestre.
 
-*El buen uso de la inteligencia artificial*: Quien usa las herramientas de IA debe también tener criterio para verificar y evaluar críticamente lo que nos arroja. Si usted usa IA para la elaboración de su ficha, es imperativo reportarlo como nota al final, y estar preparada para elaborar las solicitudes que usó, cómo las fue refinando, y cómo contrasta el resultado con la síntesis que elaboró a partir de su propia lectura.
+*El buen uso de la inteligencia artificial*: Quien usa las herramientas de IA debe también ser capaz de verificar y evaluar críticamente lo que nos arroja. Si usted usara la IA para la elaboración de su ficha, es imperativo reportarlo como nota al final, y estar en posibilidad para elaborar acerca de las solicitudes que usó, cómo las fue refinando, y cómo contrasta el resultado arrojado con la síntesis que elaboró a partir de su propia lectura.
 
 *Horas de oficina*: los lunes y miércoles de 13:00 a 13:30, o con cita.
 
@@ -65,31 +64,31 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 ---
 
 
-<a id="org7513719"></a>
+<a id="org45b7b5d"></a>
 
 # Para delimitar la política
 
 
-<a id="org82378e7"></a>
+<a id="orgb9aac8a"></a>
 
 ## 13 de agosto
 
 -   SCHMITTER y BLEHER *Politics as a Science: A Prolegomenon* Cap 1 (2021) 13 pp.
 
 
-<a id="org208af89"></a>
+<a id="org307806a"></a>
 
 ## 18 de agosto
 
 -   DAHL The concept of power (1957) 15 pp.
 
 
-<a id="org2c1ed31"></a>
+<a id="org4f18d81"></a>
 
 # El análisis político
 
 
-<a id="org55c6e0c"></a>
+<a id="orgdf1d86b"></a>
 
 ## 20 y 25 de agosto
 
@@ -101,12 +100,12 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   BHATTACHERJEE (2012) *Social Science Research* cap 1 8 pp. <https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1002&context=oa_textbooks>
 
 
-<a id="org9c21baa"></a>
+<a id="orgc6ad5ea"></a>
 
 # El estado-nación
 
 
-<a id="org8f52a3e"></a>
+<a id="orga2c6bbb"></a>
 
 ## 27 de agosto y 1 de septiembre
 
@@ -116,12 +115,12 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   NORTH A neoclassical theory of the state (1981) 13 pp.
 
 
-<a id="orgb437dfc"></a>
+<a id="orgf2fd0d8"></a>
 
 # Modernización y democracia
 
 
-<a id="org8a7d400"></a>
+<a id="org293c9f9"></a>
 
 ## 3 y 8 de septiembre
 
@@ -131,17 +130,17 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   WEINGAST The political foundations of democracy and the rule of law (1997) 22 pp.
 
 
-<a id="org8c9710b"></a>
+<a id="org53fa6be"></a>
 
 # PRIMER EXAMEN PARCIAL &#x2013; 10 de septiembre
 
 
-<a id="orga2f707d"></a>
+<a id="org8a389ca"></a>
 
 # Estructuras en ciencia social
 
 
-<a id="orgb3ae506"></a>
+<a id="org0b04c37"></a>
 
 ## Materialismo &#x2013; 17 de septiembre
 
@@ -150,7 +149,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   SPRUYT *War, Trade, and State Formation* (2007) 23 pp.
 
 
-<a id="org5549586"></a>
+<a id="org268fb82"></a>
 
 ## Institucionalismo &#x2013; 22 y 24 de septiembre
 
@@ -160,7 +159,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   Arts. 71 y 72 CPEUM.
 
 
-<a id="org2ca7874"></a>
+<a id="org256f7d3"></a>
 
 ## Culturalismo &#x2013; 29 de septiembre
 
@@ -169,12 +168,12 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   CRESPO Del Autoritarismo a la Democracia: el Mito Cultural (1988) 14 pp.
 
 
-<a id="org7929713"></a>
+<a id="org8636839"></a>
 
 # Menú de conceptos para el análisis &#x2013; parte I
 
 
-<a id="org1ad08d6"></a>
+<a id="orgdab174b"></a>
 
 ## El tipo ideal &#x2013; 1 de octubre
 
@@ -183,19 +182,19 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   LIJPHART\* *Modelos de democracia* (1999) cap. 3. El modelo consensual de democracia 15 pp.
 
 
-<a id="org1038ea4"></a>
+<a id="org324624d"></a>
 
 ## El nivel de análisis: civilización/sistema/grupos/ramas/individuos &#x2013; 6 y 8 de octubre
 
 
-<a id="org8391e99"></a>
+<a id="org8061653"></a>
 
 ### El poder compartido
 
 -   DE FIGUEIREDO-JACOBI-WEINGAST The new separation-of-powers approach to American Politics (2006) 21 pp.
 
 
-<a id="org9faf23d"></a>
+<a id="org54acf49"></a>
 
 ### Los grupos de interés
 
@@ -203,12 +202,12 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   BATES Markets and States in Tropical Africa (19xx) cap. 1 19 pp.
 
 
-<a id="orge34fcb0"></a>
+<a id="orgdda6e99"></a>
 
 ## Los dilemas colectivos &#x2013; 13, 15 y 20 de octubre
 
 
-<a id="orgd0d543d"></a>
+<a id="org60ebb47"></a>
 
 ### El problema del ejido
 
@@ -217,14 +216,14 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   O'GORMAN Global warming as tragedy of the commons (2010) 12 pp.
 
 
-<a id="org28e5d1d"></a>
+<a id="org91e2d40"></a>
 
 ### El problema de coordinación
 
 -   MCCUBBINS y ROSENBLUTH Party provision for personal politics (1995) 19 pp.
 
 
-<a id="org8e03757"></a>
+<a id="orgbad5ef3"></a>
 
 ### La inestabilidad social
 
@@ -234,17 +233,17 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   Mongin, Philippe. 1997. “Expected Utility Theory.” In J. Davis, W. Hands, and U. Maki, eds. Handbook of Economic Methodology. London, Edward Elgar. Pages 342-350.
 
 
-<a id="org31fdd6d"></a>
+<a id="orga29ce58"></a>
 
 # SEGUNDO EXAMEN PARCIAL &#x2013; Se entrega el 10 de octubre
 
 
-<a id="org2a2acb5"></a>
+<a id="orgb15530b"></a>
 
 # Conozca a la facultad del departamento
 
 
-<a id="orgd78432c"></a>
+<a id="org451bfa2"></a>
 
 ## Antonella BANDIERA &#x2013; 22 de octubre
 
@@ -253,47 +252,47 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 **de octubre**
 
 
-<a id="org9975207"></a>
+<a id="org13dbb5c"></a>
 
 ## Adrián LUCARDI &#x2013; 27 de octubre
 
 -   Lectura por asignar.
 
 
-<a id="orgacb0a11"></a>
+<a id="org8a5f483"></a>
 
 ## Alberto SIMPSER &#x2013; 29 de octubre
 
 -   GREENE et al. Interacting as equals reduces partisan polarization (2024) 13 pp.
 
 
-<a id="org777ec95"></a>
+<a id="org0644270"></a>
 
 ## Vidal ROMERO &#x2013; 5 de noviembre
 
 -   Lectura por asignar.
 
 
-<a id="orgafaed86"></a>
+<a id="orgb7f8946"></a>
 
 ## Adriana ALFARO &#x2013; 10 de noviembre
 
 -   Lectura por asignar.
 
 
-<a id="org5146c0e"></a>
+<a id="org54dd9ed"></a>
 
 # Menú de conceptos para el análisis &#x2013; continuación
 
 
-<a id="org7084f31"></a>
+<a id="org094fc74"></a>
 
 ## La teoría espacial del voto &#x2013; 12 de noviembre
 
 -   DOWNS *La teoría económica de la democracia* (1958) 19 pp.
 
 
-<a id="org0c3118f"></a>
+<a id="orgd7f55d5"></a>
 
 ## El modelo distributivo, clientelismo y populismo &#x2013; 19 y 24 de noviembre
 
@@ -306,7 +305,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
     -   [The real reasons for AMLO's popularity](https://americasquarterly.org/article/the-real-reasons-for-amlos-popularity/) (2023).
 
 
-<a id="orgcbbdc0e"></a>
+<a id="orga1e44c4"></a>
 
 ## La organización &#x2013; 26 de noviembre y 1 de diciembre
 
@@ -316,18 +315,13 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 112
 -   CORG basics? Theo of the firm?
 
 
-<a id="org09208d0"></a>
+<a id="orge26ef42"></a>
 
 # Recapitulación
 
 
-<a id="org0943540"></a>
+<a id="org697bff2"></a>
 
 ## 3 de diciembre
 
 -   Lecturas por asignar
-
-
-<a id="orgbaba055"></a>
-
-# demás
