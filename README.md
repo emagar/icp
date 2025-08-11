@@ -1,34 +1,3 @@
-- [Para delimitar la política](#org3f87557)
-  - [13 de agosto](#org517fc19)
-  - [18 de agosto](#org764f195)
-- [El análisis político](#org898b693)
-  - [20 y 25 de agosto](#org432aa57)
-- [El estado-nación](#org2853551)
-  - [27 de agosto y 1 de septiembre](#orgd1e999a)
-- [Modernización y democracia](#orgd4fc839)
-  - [3 y 8 de septiembre](#org06fb7c7)
-- [PRIMER EXAMEN PARCIAL &#x2013; 10 de septiembre](#orge48a2b2)
-- [Estructuras en ciencia social](#org8f64d92)
-  - [Materialismo &#x2013; 17 de septiembre](#orgd37620c)
-  - [Institucionalismo &#x2013; 22 y 24 de septiembre](#org56aa073)
-  - [Culturalismo &#x2013; 29 de septiembre](#org022dc27)
-- [Menú de conceptos para el análisis](#org6f0c8ee)
-  - [El tipo ideal &#x2013; 1 de octubre](#orgc799405)
-  - [El nivel de análisis: sistema/grupos/ramas/individuos &#x2013; 6 y 8 de octubre](#org197437b)
-  - [Los dilemas colectivos &#x2013; 13, 15 y 20 de octubre](#orge0fed2d)
-- [SEGUNDO EXAMEN PARCIAL &#x2013; Se entrega el 22 de octubre](#org3b54ceb)
-- [Conozca a la facultad del departamento](#orgb14cfed)
-  - [Antonella BANDIERA &#x2013; 22 de octubre](#org0c4bc7f)
-  - [Adrián LUCARDI &#x2013; 27 de octubre](#org75b6cda)
-  - [Alberto SIMPSER &#x2013; 29 de octubre](#org8db37d6)
-  - [Vidal ROMERO &#x2013; 5 de noviembre](#orgfebbdc1)
-  - [Adriana ALFARO &#x2013; 10 de noviembre](#orgf939280)
-- [Menú de conceptos para el análisis (cont.)](#orgfbf243a)
-- [La racionalidad instrumental &#x2013; 12 de noviembre](#org7fb7e00)
-  - [El modelo distributivo, clientelismo y populismo &#x2013; 19 y 24 de noviembre](#org67b0d53)
-  - [La organización &#x2013; 26 de noviembre y 1 de diciembre](#org0c907e0)
-- [Recapitulación &#x2013; 3 de diciembre](#org5cd90c7)
-
 ITAM Depto. de ciencia política, otoño 2025
 
 **Introducción a la ciencia política**
@@ -37,7 +6,7 @@ Profesor: Eric Magar Meurs ([emagar@itam.mx](mailto:emagar@itam.mx))
 
 Lunes y miércoles 11:30&#x2013;13:00 salón 112
 
-*Objetivo*: Este curso es el cimiento del programa de ciencia política. Con un temario que aborda los grandes problemas que han ocupado al pensamiento político, la materia busca contribuir a la formación básica del estudiante en tres ámbitos importantes. Primero, las alumnas y los alumnos aprenderán conceptos clave que serán base y referencia permanente de su educación profesional. Segundo, hace hincapié en el fortalecimiento de sus capacidades analíticas. Estudiaremos las principales escuelas de la ciencia social para discernir el modo particular con que cada una aborda los fenómenos políticos fundamentales como son la organización, el conflicto y la cooperación, o la competencia. Tercero, el curso busca desarrollar los buenos hábitos de trabajo de sus estudiantes.
+*Objetivo*: Este curso es el cimiento del programa de ciencia política. Busca contribuir a la formación básica del estudiante en tres ámbitos importantes. Primero, las alumnas y los alumnos aprenderán conceptos clave que serán base y referencia permanente de su educación profesional. Lo harán abordando los grandes problemas que han ocupado al pensamiento político. Segundo, se hace hincapié en el fortalecimiento de sus capacidades analíticas. Estudiaremos las principales escuelas de la ciencia social para discernir el modo particular con que cada una aborda los fenómenos políticos fundamentales como son la organización, el conflicto y la cooperación, o la competencia. Tercero, el curso busca desarrollar los buenos hábitos de trabajo de sus estudiantes.
 
 *Tareas y evaluación*: De cada estudiante espero que asista puntualmente a todas las clases habiendo hecho, previamente, todas las lecturas asignadas; que complete las tareas en tiempo y forma; y que participe activamente en el grupo. La evaluación incluye dos exámenes parciales (25% de la calificación cada uno), un examen final acumulativo (25%), controles de lectura (15%) y participación en clase (10%). Los **exámenes** evaluarán el conocimiento de las lecturas del curso, especialmente la capacidad del estudiante para hacer una reflexión crítica de ellas. A fin de cubrir la evaluación de **controles de lectura**, cada estudiante deberá entregar al profesor un total de 15 fichas sintéticas. Cada ficha de lectura será de una sola página, impresa y bien formada, que sintetice claramente el argumento central de alguno de los textos asignados para la clase del día. Las fichas se entregan al inicio de cada sesión y no aceptaré fichas adelantadas ni atrasadas. La **participación** en clase valorará la impresión general de sus intervenciones a lo largo del semestre.
 
@@ -56,31 +25,21 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 ---
 
 
-<a id="org3f87557"></a>
-
 # Para delimitar la política
 
-
-<a id="org517fc19"></a>
 
 ## 13 de agosto
 
 -   SCHMITTER y BLEHER *Politics as a Science: A Prolegomenon* [Cap 1](https://github.com/emagar/icp/blob/master/lecturas/schmitter.blecher-Politics-as-a-Science2021-cap1.pdf) (2021) 13 pp.
 
 
-<a id="org764f195"></a>
-
 ## 18 de agosto
 
 -   DAHL [The concept of power](https://github.com/emagar/icp/blob/master/lecturas/dahl-Power-1957.pdf) (1957) 15 pp.
 
 
-<a id="org898b693"></a>
-
 # El análisis político
 
-
-<a id="org432aa57"></a>
 
 ## 20 y 25 de agosto
 
@@ -93,12 +52,8 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-<a id="org2853551"></a>
-
 # El estado-nación
 
-
-<a id="orgd1e999a"></a>
 
 ## 27 de agosto y 1 de septiembre
 
@@ -108,12 +63,8 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   NORTH [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-<a id="orgd4fc839"></a>
-
 # Modernización y democracia
 
-
-<a id="org06fb7c7"></a>
 
 ## 3 y 8 de septiembre
 
@@ -123,17 +74,11 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   WEINGAST [The political foundations of democracy and the rule of law](https://github.com/emagar/icp/blob/master/lecturas/weingastDemocracy1997apsr.pdf) (1997) 22 pp.
 
 
-<a id="orge48a2b2"></a>
-
 # PRIMER EXAMEN PARCIAL &#x2013; 10 de septiembre
 
 
-<a id="org8f64d92"></a>
-
 # Estructuras en ciencia social
 
-
-<a id="orgd37620c"></a>
 
 ## Materialismo &#x2013; 17 de septiembre
 
@@ -141,8 +86,6 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   LEVIN [The evolution of cooperation](https://github.com/emagar/icp/blob/master/lecturas/levin-Evolution-of-cooperation2019.pdf) (2019) 7 pp.
 -   SPRUYT [*War, Trade, and State Formation*](https://github.com/emagar/icp/blob/master/lecturas/spruyt-War-trade-and-state-formation-2007arps.pdf) (2007) 23 pp.
 
-
-<a id="org56aa073"></a>
 
 ## Institucionalismo &#x2013; 22 y 24 de septiembre
 
@@ -152,8 +95,6 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   Arts. 71 y 72 CPEUM.
 
 
-<a id="org022dc27"></a>
-
 ## Culturalismo &#x2013; 29 de septiembre
 
 -   ALMOND y VERBA [*La cultura cívica*](https://github.com/emagar/icp/blob/master/lecturas/almond-verba-Cultura-civica1963.pdf) (1963) 31 pp.
@@ -161,12 +102,8 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   CRESPO [Del Autoritarismo a la Democracia: el Mito Cultural](https://github.com/emagar/icp/blob/master/lecturas/crespo-Cultura-politica1988.pdf) (1988) 14 pp.
 
 
-<a id="org6f0c8ee"></a>
-
 # Menú de conceptos para el análisis
 
-
-<a id="orgc799405"></a>
 
 ## El tipo ideal &#x2013; 1 de octubre
 
@@ -175,8 +112,6 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   KNAPP y MUELLER [Reliability and validity of instruments](https://github.com/emagar/icp/blob/master/lecturas/knapp-mueller-Reliability-validity-2010.pdf) (2010) 6 pp.
 -   LIJPHART\* *Modelos de democracia* [cap. 3. El modelo consensual de democracia](https://github.com/emagar/icp/blob/master/lecturas/lijphart-Modelos-Democ-Caps-2y3.pdf) (1999) 15 pp.
 
-
-<a id="org197437b"></a>
 
 ## El nivel de análisis: sistema/grupos/ramas/individuos &#x2013; 6 y 8 de octubre
 
@@ -191,8 +126,6 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   TRUMAN [El pluralismo](https://github.com/emagar/icp/blob/master/lecturas/truman-Governmental-process1951.pdf) (1951) 6 pp.
 -   BATES *Markets and States in Tropical Africa* [cap. 1](https://github.com/emagar/icp/blob/master/lecturas/bates-Markets-States1981-cap1.pdf) (1981) 19 pp.
 
-
-<a id="orge0fed2d"></a>
 
 ## Los dilemas colectivos &#x2013; 13, 15 y 20 de octubre
 
@@ -214,65 +147,45 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   SZPIRO *Numbers rule* [caps. 5 y 6](https://github.com/emagar/icp/blob/master/lecturas/szpiro2010-Numbers-rule-caps5-y-6.pdf) (2010) 29 pp.
 
 
-<a id="org3b54ceb"></a>
-
 # SEGUNDO EXAMEN PARCIAL &#x2013; Se entrega el 22 de octubre
 
-
-<a id="orgb14cfed"></a>
 
 # Conozca a la facultad del departamento
 
 
-<a id="org0c4bc7f"></a>
-
 ## Antonella BANDIERA &#x2013; 22 de octubre
 
--   MAGALONI et al. State-Evading Solutions to Violence: Organized Crime and Governance in Indigenous Mexico (2021) 38 pp.
+-   MAGALONI et al. [State-Evading Solutions to Violence: Organized Crime and Governance in Indigenous Mexico](https://github.com/emagar/icp/blob/master/lecturas/anto/ssrn-4007565.pdf) (2021) 38 pp.
 
-
-<a id="org75b6cda"></a>
 
 ## Adrián LUCARDI &#x2013; 27 de octubre
 
 -   Lectura por asignar.
 
 
-<a id="org8db37d6"></a>
-
 ## Alberto SIMPSER &#x2013; 29 de octubre
 
 -   GREENE et al. [Interacting as equals reduces partisan polarization](https://github.com/emagar/icp/blob/master/lecturas/Interacting-as-Equals-NHB.pdf) (2024) 13 pp.
 
-
-<a id="orgfebbdc1"></a>
 
 ## Vidal ROMERO &#x2013; 5 de noviembre
 
 -   ROMERO [Crossing the mental border: How public insecurity impacts individuals' willingness to migrate](https://github.com/emagar/icp/blob/master/lecturas/vidal/SecurityMigration_VidalRomero.pdf).
 
 
-<a id="orgf939280"></a>
-
 ## Adriana ALFARO &#x2013; 10 de noviembre
 
 -   Lectura por asignar.
 
 
-<a id="orgfbf243a"></a>
-
 # Menú de conceptos para el análisis (cont.)
 
-
-<a id="org7fb7e00"></a>
 
 # La racionalidad instrumental &#x2013; 12 de noviembre
 
 -   DOWNS [*La teoría económica de la democracia*](https://github.com/emagar/icp/blob/master/lecturas/downs-MVT1958.pdf) (1958) 19 pp.
 -   SHEPSLE *Analizing politics* [cap. 2](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010) (2010) 25 pp.
 
-
-<a id="org67b0d53"></a>
 
 ## El modelo distributivo, clientelismo y populismo &#x2013; 19 y 24 de noviembre
 
@@ -285,16 +198,12 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
     -   [The real reasons for AMLO's popularity](https://americasquarterly.org/article/the-real-reasons-for-amlos-popularity/) (2023).
 
 
-<a id="org0c907e0"></a>
-
 ## La organización &#x2013; 26 de noviembre y 1 de diciembre
 
 -   HIRSHMAN *Salida, voz y lealtad* [caps 1-3](https://github.com/emagar/icp/blob/master/lecturas/hirshman-Salida-voz-lealtad1977fce.pdf) (1970) 39 pp.
 -   MAGAR [Party subsidies, campaign decency, and entry barriers](https://github.com/emagar/icp/blob/master/lecturas/magarTheElectoralInstitutions2015jhup.pdf) (2015) 22 pp.
 -   ESTEVEZ en Xiuh???
 
-
-<a id="org5cd90c7"></a>
 
 # Recapitulación &#x2013; 3 de diciembre
 
