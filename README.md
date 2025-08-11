@@ -18,7 +18,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 
 *Días de asueto*: lunes 15 de septiembre (Independencia), lunes 3 de noviembre (Muertos) y lunes 17 de noviembre (Revolución).
 
-*Última clase*: miércoles 14 de mayo.
+*Última clase*: miércoles 3 de diciembre.
 
 *Exámenes finales*: del lunes 8 al sábado 20 de diciembre.
 
@@ -30,7 +30,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 
 ## 13 de agosto
 
--   SCHMITTER y BLEHER *Politics as a Science: A Prolegomenon* [Cap 1](https://github.com/emagar/icp/blob/master/lecturas/schmitter.blecher-Politics-as-a-Science2021-cap1.pdf) (2021) 13 pp.
+-   SCHMITTER y BLECHER *Politics as a Science: A Prolegomenon* [Cap 1](https://github.com/emagar/icp/blob/master/lecturas/schmitter.blecher-Politics-as-a-Science2021-cap1.pdf) (2021) 13 pp.
 
 
 ## 18 de agosto
