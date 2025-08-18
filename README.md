@@ -43,7 +43,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 
 ## 20 y 25 de agosto
 
--   MAQUIAVELO [*El príncipe*](https://github.com/emagar/icp/blob/master/lecturas/maquiavelo-principe.pdf) (1532) &#x2013; hay ejemplares en la librería:
+-   MAQUIAVELO [*El príncipe*](https://github.com/emagar/icp/blob/master/lecturas/maquiavelo-principe.pdf) (1532)
     -   Dedicatoria y caps. I-VI y IX 25 pp.
     -   Caps. XV-XIX(hasta 92) XXIII y XXV 19 pp.
 -   SHEPSLE *Analizing politics* [cap. 1](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap1-2010) (2010) pp. 3&#x2013;6 10&#x2013;12.
