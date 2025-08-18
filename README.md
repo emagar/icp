@@ -46,7 +46,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   MAQUIAVELO [*El príncipe*](https://github.com/emagar/icp/blob/master/lecturas/maquiavelo-principe.pdf) (1532)
     -   Dedicatoria y caps. I-VI y IX 25 pp.
     -   Caps. XV-XIX(hasta 92) XXIII y XXV 19 pp.
--   SHEPSLE *Analizing politics* [cap. 1](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap1-2010) (2010) pp. 3&#x2013;6 10&#x2013;12.
+-   SHEPSLE *Analizing politics* [cap. 1](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap1-2010.pdf) (2010) pp. 3&#x2013;6 10&#x2013;12.
 
 -   VILLORO [Ciencia política, filosofía e ideología](https://github.com/emagar/icp/blob/master/lecturas/villoro-CPol-1988.pdf) (1988) 5 pp.
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
@@ -184,7 +184,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 # La racionalidad instrumental &#x2013; 12 de noviembre
 
 -   DOWNS [*La teoría económica de la democracia*](https://github.com/emagar/icp/blob/master/lecturas/downs-MVT1958.pdf) (1958) 19 pp.
--   SHEPSLE *Analizing politics* [cap. 2](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010) (2010) 25 pp.
+-   SHEPSLE *Analizing politics* [cap. 2](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010.pdf) (2010) 25 pp.
 -   RIKER. 1990. Political Science and Rational Choice. En James E. Alt and Kenneth A. Shepsle, eds., Perspectives on Political Economy. Cambridge: Cambridge University Press.
 
 
