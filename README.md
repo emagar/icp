@@ -43,7 +43,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 
 ## 20 y 25 de agosto
 
--   MAQUIAVELO *El príncipe* (1532) &#x2013; hay ejemplares en la librería:
+-   MAQUIAVELO [*El príncipe*](https://github.com/emagar/icp/blob/master/lecturas/maquiavelo-principe.pdf) (1532) &#x2013; hay ejemplares en la librería:
     -   Dedicatoria y caps. I-VI y IX 25 pp.
     -   Caps. XV-XIX(hasta 92) XXIII y XXV 19 pp.
 -   SHEPSLE *Analizing politics* [cap. 1](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap1-2010) (2010) pp. 3&#x2013;6 10&#x2013;12.
@@ -185,6 +185,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 
 -   DOWNS [*La teoría económica de la democracia*](https://github.com/emagar/icp/blob/master/lecturas/downs-MVT1958.pdf) (1958) 19 pp.
 -   SHEPSLE *Analizing politics* [cap. 2](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010) (2010) 25 pp.
+-   RIKER. 1990. Political Science and Rational Choice. En James E. Alt and Kenneth A. Shepsle, eds., Perspectives on Political Economy. Cambridge: Cambridge University Press.
 
 
 ## El modelo distributivo, clientelismo y populismo &#x2013; 19 y 24 de noviembre
@@ -202,7 +203,6 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 
 -   HIRSHMAN *Salida, voz y lealtad* [caps 1-3](https://github.com/emagar/icp/blob/master/lecturas/hirshman-Salida-voz-lealtad1977fce.pdf) (1970) 39 pp.
 -   MAGAR [Party subsidies, campaign decency, and entry barriers](https://github.com/emagar/icp/blob/master/lecturas/magarTheElectoralInstitutions2015jhup.pdf) (2015) 22 pp.
--   ESTEVEZ en Xiuh???
 
 
 # Recapitulación &#x2013; 3 de diciembre
