@@ -170,7 +170,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 
 ## Vidal ROMERO &#x2013; 5 de noviembre
 
--   ROMERO [Crossing the mental border: How public insecurity impacts individuals' willingness to migrate](https://github.com/emagar/icp/blob/master/lecturas/vidal/SecurityMigration_VidalRomero.pdf).
+-   ROMERO [Living in fear: The dynamics of extorsion in Mexico's drug war](https://github.com/emagar/icp/blob/master/lecturas/vidal/magaloni-etal.Living-in-fear2019cps.pdf) 42 pp.
 
 
 ## Adriana ALFARO &#x2013; 10 de noviembre
