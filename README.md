@@ -163,12 +163,12 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   Lectura por asignar.
 
 
-## Alberto SIMPSER &#x2013; 29 de octubre
+## Denise DRESSER &#x2013; 29 de octubre
 
--   GREENE et al. [Interacting as equals reduces partisan polarization](https://github.com/emagar/icp/blob/master/lecturas/Interacting-as-Equals-NHB.pdf) (2024) 13 pp.
+-   Lectura por asignar.
 
 
-## Vidal ROMERO &#x2013; 5 de noviembre
+## Vidal ROMERO &#x2013; 5 de noviembre (esta clase será en el salón 110)
 
 -   ROMERO [Living in fear: The dynamics of extorsion in Mexico's drug war](https://github.com/emagar/icp/blob/master/lecturas/vidal/magaloni-etal.Living-in-fear2019cps.pdf) 42 pp.
 
