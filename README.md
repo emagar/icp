@@ -1,3 +1,13 @@
+---
+
+<h2> Anuncios </h2>
+
+<sup><sub>2025-08-25</sub></sup> Sea **puntual**. A partir del miércoles 27, no admitiré a nadie al salón después de haber pasado la lista de asistencia.
+
+<sup><sub>2025-08-25</sub></sup> Haga una cita para presentarse con el **tutor** que le asignó la directora del programa. (Conmigo, sola una persona ha venido.)
+
+---
+
 ITAM Depto. de ciencia política, otoño 2025
 
 **Introducción a la ciencia política**
@@ -170,7 +180,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 
 ## Vidal ROMERO &#x2013; 5 de noviembre (esta clase será en el salón 110)
 
--   ROMERO [Living in fear: The dynamics of extorsion in Mexico's drug war](https://github.com/emagar/icp/blob/master/lecturas/vidal/magaloni-etal.Living-in-fear2019cps.pdf) 42 pp.
+-   ROMERO et al. [Living in fear: The dynamics of extorsion in Mexico's drug war](https://github.com/emagar/icp/blob/master/lecturas/vidal/magaloni-etal.Living-in-fear2019cps.pdf) 42 pp.
 
 
 ## Adriana ALFARO &#x2013; 10 de noviembre
