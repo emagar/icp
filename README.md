@@ -2,9 +2,9 @@
 
 <h2> Anuncios </h2>
 
-<sup><sub>2025-08-25</sub></sup> Sea **puntual**. A partir del miércoles 27, no admitiré a nadie al salón después de haber pasado la lista de asistencia.
+<sup><sub>2025-08-25</sub></sup> Sea **puntual**. No admitiré más a nadie al salón después de haber pasado la lista de asistencia.
 
-<sup><sub>2025-08-25</sub></sup> Haga una cita para presentarse con el **tutor** que le asignó la directora del programa. (Conmigo, sola una persona ha venido.)
+<sup><sub>2025-08-25</sub></sup> Haga una cita para presentarse con el **tutor** que le asignó la directora del programa. (A mí, sola una persona ha venido a verme.)
 
 ---
 
