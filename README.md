@@ -70,7 +70,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   WEBER La política como vocación (1919) pp. 81-106 &#x2013; hay ejemplares en la librería.
 -   HOBBES *Leviatán* [caps. 13, 17 y 18](https://github.com/emagar/icp/blob/master/lecturas/hobbes-Leviatan-13-17-18.pdf) (1651) 18 pp.
 
--   NORTH [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
+-   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
 # Modernización y democracia
