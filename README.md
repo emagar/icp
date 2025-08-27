@@ -67,7 +67,10 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 
 ## 27 de agosto y 1 de septiembre
 
--   WEBER La política como vocación (1919) pp. 81-106 &#x2013; hay ejemplares en la librería.
+-   WEBER La política como vocación (1919) [pp. 243-254](https://github.com/emagar/icp/blob/master/lecturas/weber.La-politica-como-vocacion1919.pdf) (hasta &#x2026; para conseguir la seguridad en este sentido)
+
+(version française [ici](https://github.com/emagar/icp/blob/master/lecturas/weber.Le-savant-et-le-politique1919.pdf)).
+
 -   HOBBES *Leviatán* [caps. 13, 17 y 18](https://github.com/emagar/icp/blob/master/lecturas/hobbes-Leviatan-13-17-18.pdf) (1651) 18 pp.
 
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
