@@ -2,6 +2,8 @@
 
 <h2> Anuncios </h2>
 
+<sup><sub>2025-08-25</sub></sup> Las fichas de lectura que he revisado pueden pasarlas a buscar a la **Facultad Menor** de Ciencia Política, que encontrarán sobre el corredor que conduce al Departamento de Ciencia Política.
+
 <sup><sub>2025-08-25</sub></sup> Sea **puntual**. No admitiré más a nadie al salón después de haber pasado la lista de asistencia.
 
 <sup><sub>2025-08-25</sub></sup> Haga una cita para presentarse con el **tutor** que le asignó la directora del programa. (A mí, sola una persona ha venido a verme.)
