@@ -53,7 +53,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 # El análisis político
 
 
-## 20 y 25 de agosto
+## 20, 25 y 27 de agosto
 
 -   MAQUIAVELO [*El príncipe*](https://github.com/emagar/icp/blob/master/lecturas/maquiavelo-principe.pdf) (1532)
     -   Dedicatoria y caps. I-VI y IX 25 pp.
@@ -67,7 +67,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 # El estado-nación
 
 
-## 27 de agosto y 1 de septiembre
+## 1 y 3 de septiembre
 
 -   WEBER La política como vocación (1919) [pp. 243-254](https://github.com/emagar/icp/blob/master/lecturas/weber.La-politica-como-vocacion1919.pdf) (hasta &#x2026; para conseguir la seguridad en este sentido)
 
@@ -81,7 +81,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 # Modernización y democracia
 
 
-## 3 y 8 de septiembre
+## 8 de septiembre
 
 -   LIPSET [*El hombre político*](https://github.com/emagar/icp/blob/master/lecturas/lipset-Ho-pol-1960.pdf) (1960) 32 pp.
 -   PRZEWORSKI y LIMONGI [Modernization: Theories and Facts](https://github.com/emagar/icp/blob/master/lecturas/przeworski-limongi-Modernization1997wp.pdf) (1997) 24 pp.
