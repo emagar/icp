@@ -176,6 +176,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 ## Adrián LUCARDI &#x2013; 27 de octubre
 
 -   BUENO DE MESQUITA [Leopold II and the selectorate: An account in contrast to a racial explanation](https://github.com/emagar/icp/blob/master/lecturas/lucardi/bueno-de-mesquita-Leopold-II-and-the-Selectorate2007hsr.pdf) 20 pp.
+-   BUENO DE MESQUITA-SMITH\* The Dictator's Handbook.
 
 
 ## Denise DRESSER &#x2013; 29 de octubre
