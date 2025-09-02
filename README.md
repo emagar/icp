@@ -86,7 +86,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   LIPSET [*El hombre político*](https://github.com/emagar/icp/blob/master/lecturas/lipset-Ho-pol-1960.pdf) (1960) 32 pp.
 -   PRZEWORSKI y LIMONGI [Modernization: Theories and Facts](https://github.com/emagar/icp/blob/master/lecturas/przeworski-limongi-Modernization1997wp.pdf) (1997) 24 pp.
 -   LINZ [El régimen autoritario](https://github.com/emagar/icp/blob/master/lecturas/linz-autoritarismo1990.pdf) (1990) 7 pp.
--   WEINGAST [The political foundations of democracy and the rule of law](https://github.com/emagar/icp/blob/master/lecturas/weingastDemocracy1997apsr.pdf) (1997) 22 pp.
+-   WEINGAST\* [The political foundations of democracy and the rule of law](https://github.com/emagar/icp/blob/master/lecturas/weingastDemocracy1997apsr.pdf) (1997) 22 pp.
 
 
 # PRIMER EXAMEN PARCIAL &#x2013; 10 de septiembre
