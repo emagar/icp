@@ -84,7 +84,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 ## 8 de septiembre
 
 -   LIPSET [*El hombre político*](https://github.com/emagar/icp/blob/master/lecturas/lipset-Ho-pol-1960.pdf) (1960) 32 pp.
--   PRZEWORSKI y LIMONGI [Modernization: Theories and Facts](https://github.com/emagar/icp/blob/master/lecturas/przeworski-limongi-Modernization1997wp.pdf) (1997) 24 pp.
+-   PRZEWORSKI y LIMONGI [Modernization: theories and facts](https://github.com/emagar/icp/blob/master/lecturas/przeworski-limongi-Modernization1997wp.pdf) (1997) 24 pp.
 -   LINZ [El régimen autoritario](https://github.com/emagar/icp/blob/master/lecturas/linz-autoritarismo1990.pdf) (1990) 7 pp.
 -   WEINGAST\* [The political foundations of democracy and the rule of law](https://github.com/emagar/icp/blob/master/lecturas/weingastDemocracy1997apsr.pdf) (1997) 22 pp.
 
@@ -113,8 +113,8 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 ## Culturalismo &#x2013; 29 de septiembre
 
 -   ALMOND y VERBA [*La cultura cívica*](https://github.com/emagar/icp/blob/master/lecturas/almond-verba-Cultura-civica1963.pdf) (1963) 31 pp.
+-   CRESPO [Del autoritarismo a la democracia: el mito cultural](https://github.com/emagar/icp/blob/master/lecturas/crespo-Cultura-politica1988.pdf) (1988) 14 pp.
 -   SEGOVIA\* *La politización del niño mexicano* (1977).
--   CRESPO [Del Autoritarismo a la Democracia: el Mito Cultural](https://github.com/emagar/icp/blob/master/lecturas/crespo-Cultura-politica1988.pdf) (1988) 14 pp.
 
 
 # Menú de conceptos para el análisis
@@ -175,7 +175,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 
 ## Adrián LUCARDI &#x2013; 27 de octubre
 
--   Lectura por asignar.
+-   BUENO DE MESQUITA [Leopold II and the selectorate: An account in contrast to a racial explanation](https://github.com/emagar/icp/blob/master/lecturas/lucardi/bueno-de-mesquita-Leopold-II-and-the-Selectorate2007hsr.pdf) 20 pp.
 
 
 ## Denise DRESSER &#x2013; 29 de octubre
