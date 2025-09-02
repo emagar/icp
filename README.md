@@ -2,7 +2,7 @@
 
 <h2> Anuncios </h2>
 
-<sup><sub>2025-09-02</sub></sup> Cambié
+<sup><sub>2025-09-02</sub></sup> Cambié unas **fechas y lecturas** el mié3sep cerraré Weber y Hobbes (ese día pueden entregar fichas de estos textos) y el lun8sep será íntegro para modernización (ese día pueden entregar fichas de Przeworski-Limongi y Linz, que son lecturas obligatorias, así como de Lipset y Weingast, que son optativas).
 
 <sup><sub>2025-09-01</sub></sup> Las **fichas de lectura** que he revisado pueden pasarlas a buscar a la **Facultad Menor** de Ciencia Política, que encontrarán sobre el corredor que conduce al Departamento de Ciencia Política.
 
@@ -64,7 +64,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="org4c67be4"></a>
+# El estado-nación<a id="orgfe4e221"></a>
 
 
 ## 1 y 3 de septiembre
@@ -78,7 +78,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="orgf29497c"></a>
+# Modernización y democracia<a id="orga364efb"></a>
 
 
 ## 8 de septiembre
