@@ -2,9 +2,11 @@
 
 <h2> Anuncios </h2>
 
-<sup><sub>2025-09-08</sub></sup> Un podcast interesante sobre la IA en educación superior [aquí](https://open.spotify.com/episode/2bYRtBzSVbAlIr16h6GGb0?si=cqoeYmkzS2a7EOIHBWj4Ew). En particular, de 50' en adelante (alumnos).
+<sup><sub>2025-09-16</sub></sup> Extravié el enlace al blog de Levin&#x2026; por ello he quitado la lectura para la clase de mañana.
 
-<sup><sub>2025-09-02</sub></sup> Cambié unas **fechas y lecturas** el mié3sep cerraré Weber y Hobbes (ese día pueden entregar fichas de estos textos) y el lun8sep será íntegro para modernización (ese día pueden entregar fichas de Przeworski-Limongi y Linz, que son lecturas obligatorias, así como de Lipset y Weingast, que son optativas).
+<sup><sub>2025-09-10</sub></sup> Las lecturas para el miércoles 17 son Marx-Engels ~~y Levin~~ (Spruyt es opcional). ¡Disfruten el puente!
+
+<sup><sub>2025-09-08</sub></sup> Un podcast interesante sobre la IA en educación superior [aquí](https://open.spotify.com/episode/2bYRtBzSVbAlIr16h6GGb0?si=cqoeYmkzS2a7EOIHBWj4Ew). En particular, de 50' en adelante (alumnos).
 
 ---
 
@@ -62,7 +64,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="orgc68fce1"></a>
+# El estado-nación<a id="org0637a20"></a>
 
 
 ## 1 y 3 de septiembre
@@ -76,7 +78,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="org126eeaf"></a>
+# Modernización y democracia<a id="org7bcd467"></a>
 
 
 ## 8 de septiembre
@@ -97,7 +99,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 
 -   MARX y ENGELS [*El manifiesto del partido comunista*](https://github.com/emagar/icp/blob/master/lecturas/marx-engels-El-manifiesto-del-pc1848.pdf) (1848) 42 pp.
 -   LEVIN [The evolution of cooperation](https://github.com/emagar/icp/blob/master/lecturas/levin-Evolution-of-cooperation2019.pdf) (2019) 7 pp.
--   SPRUYT [*War, Trade, and State Formation*](https://github.com/emagar/icp/blob/master/lecturas/spruyt-War-trade-and-state-formation-2007arps.pdf) (2007) 23 pp.
+-   SPRUYT\* [*War, Trade, and State Formation*](https://github.com/emagar/icp/blob/master/lecturas/spruyt-War-trade-and-state-formation-2007arps.pdf) (2007) 23 pp.
 
 
 ## Institucionalismo &#x2013; 22 y 24 de septiembre
