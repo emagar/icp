@@ -2,6 +2,8 @@
 
 <h2> Anuncios </h2>
 
+<sup><sub>2025-09-24</sub></sup> Las lecturas para el lunes 29 de septiembre serán Bravo y los artículos de la constitución (OJO <span class="underline">no</span> leeremos aún a Almond y Verba, como había anunciado).
+
 <sup><sub>2025-09-16</sub></sup> Las lecturas para el ~~lunes 22~~ miércoles 24 de septiembre serán Aristóteles y Hamilton&#x2013;Madison&#x2013;Jay.
 
 <sup><sub>2025-09-08</sub></sup> Un podcast interesante sobre la IA en educación superior [aquí](https://open.spotify.com/episode/2bYRtBzSVbAlIr16h6GGb0?si=cqoeYmkzS2a7EOIHBWj4Ew). En particular, de 50' en adelante.
@@ -62,7 +64,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="org4c37e2f"></a>
+# El estado-nación<a id="orge46d06f"></a>
 
 
 ## 1 y 3 de septiembre
@@ -76,7 +78,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="org53b3f44"></a>
+# Modernización y democracia<a id="orga569923"></a>
 
 
 ## 8 de septiembre
