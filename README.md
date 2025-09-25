@@ -2,8 +2,6 @@
 
 <h2> Anuncios </h2>
 
-<sup><sub>2025-09-20</sub></sup> No habrá clase el lunes 22 por contagio.
-
 <sup><sub>2025-09-16</sub></sup> Las lecturas para el ~~lunes 22~~ miércoles 24 de septiembre serán Aristóteles y Hamilton&#x2013;Madison&#x2013;Jay.
 
 <sup><sub>2025-09-08</sub></sup> Un podcast interesante sobre la IA en educación superior [aquí](https://open.spotify.com/episode/2bYRtBzSVbAlIr16h6GGb0?si=cqoeYmkzS2a7EOIHBWj4Ew). En particular, de 50' en adelante.
@@ -64,7 +62,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="orgb77a245"></a>
+# El estado-nación<a id="org4c37e2f"></a>
 
 
 ## 1 y 3 de septiembre
@@ -78,7 +76,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="orge237c1f"></a>
+# Modernización y democracia<a id="org53b3f44"></a>
 
 
 ## 8 de septiembre
@@ -108,7 +106,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   ARISTOTELES [*La política*](https://github.com/emagar/icp/blob/master/lecturas/aristoteles-Politica.pdf) Libro tercero caps. IV-VI (S. IV AC) 11 pp.
 -   HAMILTON, MADISON, JAY *El Federalista* ensayos [#1 #10 #51 #72 y #78](https://github.com/emagar/icp/blob/master/lecturas/federalista-1-10-51-72-78.pdf) (1787) 23 pp.
 -   BRAVO ORTIZ [¿Qué hay dentro de la caja negra? Control de agenda en la cámara de diputados](https://github.com/emagar/icp/blob/master/lecturas/bravo-Caja-negra-2025itam.pdf) (2025) pp. 6-57.
--   Arts. 71 y 72 CPEUM.
+-   Arts. 71 y 72 [CPEUM](https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf).
 
 
 ## Culturalismo &#x2013; 29 de septiembre
