@@ -2,7 +2,9 @@
 
 <h2> Anuncios </h2>
 
-<sup><sub>2025-09-24</sub></sup> Las lecturas para el lunes 29 de septiembre serán Bravo y los artículos de la constitución (OJO <span class="underline">no</span> leeremos aún a Almond y Verba, como había anunciado).
+<sup><sub>2025-09-29</sub></sup> La lectura para el miércoles 1 de octubre será Almond&#x2013;Verba.
+
+<sup><sub>2025-09-24</sub></sup> Las lecturas para el lunes 29 de septiembre serán Bravo y los artículos de la constitución.
 
 <sup><sub>2025-09-16</sub></sup> Las lecturas para el ~~lunes 22~~ miércoles 24 de septiembre serán Aristóteles y Hamilton&#x2013;Madison&#x2013;Jay.
 
@@ -64,7 +66,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="org717810a"></a>
+# El estado-nación<a id="org0bd1688"></a>
 
 
 ## 1 y 3 de septiembre
@@ -78,7 +80,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="org061fb55"></a>
+# Modernización y democracia<a id="org118837e"></a>
 
 
 ## 8 de septiembre
@@ -114,8 +116,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 ## Culturalismo &#x2013; 29 de septiembre
 
 -   ALMOND y VERBA [*La cultura cívica*](https://github.com/emagar/icp/blob/master/lecturas/almond-verba-Cultura-civica1963.pdf) (1963) 31 pp.
--   CRESPO [Del autoritarismo a la democracia: el mito cultural](https://github.com/emagar/icp/blob/master/lecturas/crespo-Cultura-politica1988.pdf) (1988) 14 pp.
--   SEGOVIA\* *La politización del niño mexicano* (1977).
+-   CRESPO\* [Del autoritarismo a la democracia: el mito cultural](https://github.com/emagar/icp/blob/master/lecturas/crespo-Cultura-politica1988.pdf) (1988) 14 pp.
 
 
 # Menú de conceptos para el análisis
