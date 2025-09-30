@@ -4,10 +4,6 @@
 
 <sup><sub>2025-09-29</sub></sup> La lectura para el miércoles 1 de octubre será Almond&#x2013;Verba.
 
-<sup><sub>2025-09-24</sub></sup> Las lecturas para el lunes 29 de septiembre serán Bravo y los artículos de la constitución.
-
-<sup><sub>2025-09-16</sub></sup> Las lecturas para el ~~lunes 22~~ miércoles 24 de septiembre serán Aristóteles y Hamilton&#x2013;Madison&#x2013;Jay.
-
 <sup><sub>2025-09-08</sub></sup> Un podcast interesante sobre la IA en educación superior [aquí](https://open.spotify.com/episode/2bYRtBzSVbAlIr16h6GGb0?si=cqoeYmkzS2a7EOIHBWj4Ew). En particular, de 50' en adelante.
 
 ---
@@ -66,7 +62,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="org0bd1688"></a>
+# El estado-nación<a id="org3e2e548"></a>
 
 
 ## 1 y 3 de septiembre
@@ -80,7 +76,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="org118837e"></a>
+# Modernización y democracia<a id="orgcfcbc44"></a>
 
 
 ## 8 de septiembre
@@ -113,21 +109,13 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   Arts. 71 y 72 [CPEUM](https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf).
 
 
-## Culturalismo &#x2013; 29 de septiembre
+## Culturalismo &#x2013; 1 de octubre
 
 -   ALMOND y VERBA [*La cultura cívica*](https://github.com/emagar/icp/blob/master/lecturas/almond-verba-Cultura-civica1963.pdf) (1963) 31 pp.
 -   CRESPO\* [Del autoritarismo a la democracia: el mito cultural](https://github.com/emagar/icp/blob/master/lecturas/crespo-Cultura-politica1988.pdf) (1988) 14 pp.
 
 
 # Menú de conceptos para el análisis
-
-
-## El tipo ideal &#x2013; 1 de octubre
-
--   DAHL [*La poliarquía*](https://github.com/emagar/icp/blob/master/lecturas/dahl-poliarquia1956.pdf) (1956) 16 pp.
--   DENK [How to measure polyarchy with Freedom House: a proposal for revision](https://github.com/emagar/icp/blob/master/lecturas/denk-Measure-polyarchy2013qq.pdf) (2013) 15 pp.
--   KNAPP y MUELLER [Reliability and validity of instruments](https://github.com/emagar/icp/blob/master/lecturas/knapp-mueller-Reliability-validity-2010.pdf) (2010) 6 pp.
--   LIJPHART\* *Modelos de democracia* [cap. 3. El modelo consensual de democracia](https://github.com/emagar/icp/blob/master/lecturas/lijphart-Modelos-Democ-Caps-2y3.pdf) (1999) 15 pp.
 
 
 ## El nivel de análisis: sistema/grupos/ramas/individuos &#x2013; 6 y 8 de octubre
