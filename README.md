@@ -4,7 +4,7 @@
 
 <sup><sub>2025-10-06</sub></sup> Hay una ilustración de la \`agenda mexicana' que vimos la semana pasada [aquí](https://www.elfinanciero.com.mx/opinion/raymundo-riva-palacio/2025/10/06/primer-round-claudia-vs-andres/).
 
-<sup><sub>2025-10-06</sub></sup> Ajusté las fechas para que las lecturas aparezcan en el orden correcto tras la clase que falté.
+<sup><sub>2025-10-06</sub></sup> Ajusté las fechas para recuperar el orden correcto tras la clase que falté.
 
 <sup><sub>2025-09-08</sub></sup> Un podcast interesante sobre la IA en educación superior [aquí](https://open.spotify.com/episode/2bYRtBzSVbAlIr16h6GGb0?si=cqoeYmkzS2a7EOIHBWj4Ew). En particular, de 50' en adelante.
 
@@ -64,7 +64,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="org410642e"></a>
+# El estado-nación<a id="orgedfc83e"></a>
 
 
 ## 1 y 3 de septiembre
@@ -78,7 +78,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="orgf2a338d"></a>
+# Modernización y democracia<a id="org70faea6"></a>
 
 
 ## 8 de septiembre
