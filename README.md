@@ -2,7 +2,9 @@
 
 <h2> Anuncios </h2>
 
-<sup><sub>2025-09-29</sub></sup> La lectura para el miércoles 1 de octubre será Almond&#x2013;Verba.
+<sup><sub>2025-10-06</sub></sup> Hay una ilustración de la \`agenda mexicana' que vimos la semana pasada [aquí](https://www.elfinanciero.com.mx/opinion/raymundo-riva-palacio/2025/10/06/primer-round-claudia-vs-andres/).
+
+<sup><sub>2025-10-06</sub></sup> Ajusté las fechas para que las lecturas aparezcan en el orden correcto tras la clase que falté.
 
 <sup><sub>2025-09-08</sub></sup> Un podcast interesante sobre la IA en educación superior [aquí](https://open.spotify.com/episode/2bYRtBzSVbAlIr16h6GGb0?si=cqoeYmkzS2a7EOIHBWj4Ew). En particular, de 50' en adelante.
 
@@ -62,7 +64,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="org3e2e548"></a>
+# El estado-nación<a id="org410642e"></a>
 
 
 ## 1 y 3 de septiembre
@@ -76,7 +78,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="orgcfcbc44"></a>
+# Modernización y democracia<a id="orgf2a338d"></a>
 
 
 ## 8 de septiembre
@@ -152,15 +154,15 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   SZPIRO *Numbers rule* [caps. 5 y 6](https://github.com/emagar/icp/blob/master/lecturas/szpiro2010-Numbers-rule-caps5-y-6.pdf) (2010) 29 pp.
 
 
+## NUEVA CLASE &#x2013; 22 de octubre
+
+-   Lectura y tema por asignar.
+
+
 # SEGUNDO EXAMEN PARCIAL &#x2013; Se entrega el 22 de octubre
 
 
 # Conozca a la facultad del departamento
-
-
-## Antonella BANDIERA &#x2013; 22 de octubre
-
--   MAGALONI et al. [State-Evading Solutions to Violence: Organized Crime and Governance in Indigenous Mexico](https://github.com/emagar/icp/blob/master/lecturas/anto/ssrn-4007565.pdf) (2021) 38 pp.
 
 
 ## Adrián LUCARDI &#x2013; 27 de octubre
@@ -169,9 +171,9 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   BUENO DE MESQUITA-SMITH\* The Dictator's Handbook.
 
 
-## Denise DRESSER &#x2013; 29 de octubre
+## Antonella BANDIERA &#x2013; 29 de octubre
 
--   Lectura por asignar.
+-   MAGALONI et al. [State-Evading Solutions to Violence: Organized Crime and Governance in Indigenous Mexico](https://github.com/emagar/icp/blob/master/lecturas/anto/ssrn-4007565.pdf) (2021) 38 pp.
 
 
 ## Vidal ROMERO &#x2013; 5 de noviembre (esta clase será en el salón 110)
