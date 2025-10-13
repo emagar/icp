@@ -62,7 +62,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="org16bcbd7"></a>
+# El estado-nación<a id="org4b81996"></a>
 
 
 ## 1 y 3 de septiembre
@@ -76,7 +76,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="org924ae21"></a>
+# Modernización y democracia<a id="orgbb0f89b"></a>
 
 
 ## 8 de septiembre
@@ -152,11 +152,9 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   SZPIRO *Numbers rule* [caps. 5 y 6](https://github.com/emagar/icp/blob/master/lecturas/szpiro2010-Numbers-rule-caps5-y-6.pdf) (2010) 29 pp.
 
 
-## La racionalidad instrumental &#x2013; 22 de octubre
+## Sistemas electoral y de partidos &#x2013; 22 de octubre
 
--   DOWNS [*La teoría económica de la democracia*](https://github.com/emagar/icp/blob/master/lecturas/downs-MVT1958.pdf) (1958) 19 pp.
--   SHEPSLE *Analizing politics* [cap. 2](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010.pdf) (2010) 25 pp.
--   RIKER. 1990. Political Science and Rational Choice. En James E. Alt and Kenneth A. Shepsle, eds., Perspectives on Political Economy. Cambridge: Cambridge University Press.
+-   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
 
 # SEGUNDO EXAMEN PARCIAL &#x2013; Se entrega el 22 de octubre
@@ -189,9 +187,11 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 # Menú de conceptos para el análisis (cont.)
 
 
-# Sistemas electoral y de partidos &#x2013; 12 de noviembre
+## La racionalidad instrumental &#x2013; 12 de noviembre
 
--   Lecturas por asignar.
+-   DOWNS [*La teoría económica de la democracia*](https://github.com/emagar/icp/blob/master/lecturas/downs-MVT1958.pdf) (1958) 19 pp.
+-   SHEPSLE *Analizing politics* [cap. 2](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010.pdf) (2010) 25 pp.
+-   RIKER\* Political Science and Rational Choice (1990).
 
 
 ## El modelo distributivo, clientelismo y populismo &#x2013; 19 y 24 de noviembre
