@@ -2,6 +2,8 @@
 
 <h2> Anuncios </h2>
 
+<sup><sub>2025-10-14</sub></sup> La lectura para el miércoles 15 de octubre es Riker sobre Duverger.
+
 <sup><sub>2025-10-06</sub></sup> Hay una ilustración de la \`agenda mexicana' que vimos la semana pasada [aquí](https://www.elfinanciero.com.mx/opinion/raymundo-riva-palacio/2025/10/06/primer-round-claudia-vs-andres/).
 
 <sup><sub>2025-09-08</sub></sup> Un podcast interesante sobre la IA en educación superior [aquí](https://open.spotify.com/episode/2bYRtBzSVbAlIr16h6GGb0?si=cqoeYmkzS2a7EOIHBWj4Ew). En particular, de 50' en adelante.
@@ -62,7 +64,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="org4b81996"></a>
+# El estado-nación<a id="org484edbb"></a>
 
 
 ## 1 y 3 de septiembre
@@ -76,7 +78,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="orgbb0f89b"></a>
+# Modernización y democracia<a id="orgbefc09f"></a>
 
 
 ## 8 de septiembre
