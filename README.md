@@ -2,7 +2,7 @@
 
 <h2> Anuncios </h2>
 
-<sup><sub>2025-10-14</sub></sup> La lectura para el miércoles 15 de octubre es Riker sobre Duverger.
+<sup><sub>2025-10-14</sub></sup> La lectura para el miércoles 15 de octubre es [Riker](#orgaf3a497) sobre Duverger.
 
 <sup><sub>2025-10-06</sub></sup> Hay una ilustración de la \`agenda mexicana' que vimos la semana pasada [aquí](https://www.elfinanciero.com.mx/opinion/raymundo-riva-palacio/2025/10/06/primer-round-claudia-vs-andres/).
 
@@ -64,7 +64,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="org484edbb"></a>
+# El estado-nación<a id="org13acf49"></a>
 
 
 ## 1 y 3 de septiembre
@@ -78,7 +78,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="orgbefc09f"></a>
+# Modernización y democracia<a id="org50f6788"></a>
 
 
 ## 8 de septiembre
@@ -134,7 +134,12 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   BATES *Markets and States in Tropical Africa* [cap. 1](https://github.com/emagar/icp/blob/master/lecturas/bates-Markets-States1981-cap1.pdf) (1981) 19 pp.
 
 
-## Los dilemas colectivos &#x2013; 13, 15 y 20 de octubre
+## Sistemas electoral y de partidos &#x2013; 13 de octubre<a id="orgaf3a497"></a>
+
+-   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
+
+
+## Los dilemas colectivos &#x2013; 15, 20 y 22 de octubre
 
 
 ### El problema del ejido
@@ -152,11 +157,6 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 ### La inestabilidad social
 
 -   SZPIRO *Numbers rule* [caps. 5 y 6](https://github.com/emagar/icp/blob/master/lecturas/szpiro2010-Numbers-rule-caps5-y-6.pdf) (2010) 29 pp.
-
-
-## Sistemas electoral y de partidos &#x2013; 22 de octubre
-
--   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
 
 # SEGUNDO EXAMEN PARCIAL &#x2013; Se entrega el 22 de octubre
