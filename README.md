@@ -64,7 +64,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="orgf14c3b9"></a>
+# El estado-nación<a id="org5954d9b"></a>
 
 
 ## 1 y 3 de septiembre
@@ -78,7 +78,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="org7c635e7"></a>
+# Modernización y democracia<a id="org683f010"></a>
 
 
 ## 8 de septiembre
@@ -120,7 +120,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 # Menú de conceptos para el análisis
 
 
-## Sistemas electoral y de partidos &#x2013; 6 de octubre<a id="org70d5cc3"></a>
+## Sistemas electoral y de partidos &#x2013; 6 de octubre<a id="org633ef5f"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
@@ -159,7 +159,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   SZPIRO *Numbers rule* [caps. 5 y 6](https://github.com/emagar/icp/blob/master/lecturas/szpiro2010-Numbers-rule-caps5-y-6.pdf) (2010) 29 pp.
 
 
-# SEGUNDO EXAMEN PARCIAL &#x2013; Se entrega el 22 de octubre
+# SEGUNDO EXAMEN PARCIAL &#x2013; Se entrega el 27 de octubre
 
 
 # Conozca a la facultad del departamento
