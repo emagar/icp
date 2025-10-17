@@ -2,7 +2,7 @@ Aquí las instrucciones para la entrega del segundo examen parcial.
 
 -   He cambiado en el temario la fecha de entrega para el **lunes 27 de octubre**. Como ese día tendrán clase con Adrián Lucardi, les pido que por favor me envíen sus trabajos como anexo de un email ([emagar@itam.mx](mailto:emagar@itam.mx)).
 
--   El miércoles 22 de octubre (inclusive) cerrará el periodo para hacer entrevistas. Sólo hará excepción si ya tuviera una entrevista agendada previamente para pasado el límite.
+-   El miércoles 22 de octubre (inclusive) **cerrará el periodo** para hacer entrevistas. Sólo hará excepción si ya tuviera una entrevista agendada previamente para pasado este límite.
 
 -   La entrega consistirá en un **reporte de su trabajo como entrevistador**. El reporte abrirá con el siguiente resumen:
 
