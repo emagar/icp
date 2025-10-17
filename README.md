@@ -4,7 +4,7 @@
 
 <sup><sub>2025-10-17</sub></sup> Encontrará instrucciones para la entrega del segundo examen parcial [aquí](./parcial2/instrucciones-entrega.md).
 
-<sup><sub>2025-10-16</sub></sup> La lectura para el lunes 22 de octubre es McCubbins y Rosenbluth.
+<sup><sub>2025-10-17</sub></sup> Fechas de lecturas próximas para la entrega de fichas: 20oct=McCubbins-Rosenbluth, 22oct=Szpiro, 27oct=Bueno de Mesquita, 29oct=Magaloni et al., 5nov=Romero et al.
 
 <sup><sub>2025-10-06</sub></sup> Hay una ilustración de la \`agenda mexicana' que vimos la semana pasada [aquí](https://www.elfinanciero.com.mx/opinion/raymundo-riva-palacio/2025/10/06/primer-round-claudia-vs-andres/).
 
@@ -66,7 +66,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="org9f416a2"></a>
+# El estado-nación<a id="orgdb2bfaa"></a>
 
 
 ## 1 y 3 de septiembre
@@ -80,7 +80,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="orgfc3513d"></a>
+# Modernización y democracia<a id="org2f2de80"></a>
 
 
 ## 8 de septiembre
@@ -122,7 +122,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 # Menú de conceptos para el análisis
 
 
-## Sistemas electoral y de partidos &#x2013; 6 de octubre<a id="org80395cf"></a>
+## Sistemas electoral y de partidos &#x2013; 6 de octubre<a id="org6b0bcfc"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
@@ -170,7 +170,6 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 ## Adrián LUCARDI &#x2013; 27 de octubre
 
 -   BUENO DE MESQUITA [Leopold II and the selectorate: An account in contrast to a racial explanation](https://github.com/emagar/icp/blob/master/lecturas/lucardi/bueno-de-mesquita-Leopold-II-and-the-Selectorate2007hsr.pdf) 20 pp.
--   BUENO DE MESQUITA-SMITH\* The Dictator's Handbook.
 
 
 ## Antonella BANDIERA &#x2013; 29 de octubre
