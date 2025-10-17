@@ -4,7 +4,7 @@
 
 <sup><sub>2025-10-17</sub></sup> Encontrará instrucciones para la entrega del segundo examen parcial [aquí](./parcial2/instrucciones-entrega.md).
 
-<sup><sub>2025-10-17</sub></sup> Fechas de lecturas próximas para la entrega de fichas: 20oct&#x2013;McCubbins-Rosenbluth, 22oct&#x2013;Szpiro, 27oct&#x2013;Bueno de Mesquita, 29oct&#x2013;Magaloni et al., 5nov&#x2013;Romero et al.
+<sup><sub>2025-10-17</sub></sup> Fechas de lecturas próximas para la entrega de fichas 20oct&#x2013;McCubbins-Rosenbluth, 22oct&#x2013;Szpiro, 27oct&#x2013;Bueno de Mesquita, 29oct&#x2013;Magaloni et al., 5nov&#x2013;Romero et al.
 
 <sup><sub>2025-10-06</sub></sup> Hay una ilustración de la \`agenda mexicana' que vimos la semana pasada [aquí](https://www.elfinanciero.com.mx/opinion/raymundo-riva-palacio/2025/10/06/primer-round-claudia-vs-andres/).
 
@@ -66,7 +66,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="org54d6a8c"></a>
+# El estado-nación<a id="orgcb6046a"></a>
 
 
 ## 1 y 3 de septiembre
@@ -80,7 +80,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="org8c0c80f"></a>
+# Modernización y democracia<a id="orgd97f5bb"></a>
 
 
 ## 8 de septiembre
@@ -122,7 +122,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 # Menú de conceptos para el análisis
 
 
-## Sistemas electoral y de partidos &#x2013; 6 de octubre<a id="org2b57dee"></a>
+## Sistemas electoral y de partidos &#x2013; 6 de octubre<a id="org92ec13d"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
