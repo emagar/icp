@@ -2,13 +2,11 @@
 
 <h2> Anuncios </h2>
 
+<sup><sub>2025-11-5</sub></sup> Ya subí la lectura para la clase del lunes 10 de noviembre [aquí](#orgd634d7e).
+
 <sup><sub>2025-11-4</sub></sup> La captura de los datos de la encuesta está lista. La encontrarán [aquí](https://github.com/emagar/icp/blob/master/parcial2/data/).
 
 <sup><sub>2025-10-23</sub></sup> Para su cultura general, hay un reportaje sobre el envenenamiento por plomo entre *homo neanderthalensis* [aquí](https://github.com/emagar/icp/blob/master/lecturas/prensa/economist-Lead-poisoning20251015.pdf).
-
-<sup><sub>2025-10-17</sub></sup> Encontrará instrucciones para la entrega del segundo examen parcial [aquí](./parcial2/instrucciones-entrega.md).
-
-<sup><sub>2025-10-17</sub></sup> Fechas de lecturas próximas para la entrega de fichas 20oct&#x2013;McCubbins-Rosenbluth, 22oct&#x2013;Szpiro, 27oct&#x2013;Bueno de Mesquita, 29oct&#x2013;Magaloni et al., 5nov&#x2013;Romero et al.
 
 <sup><sub>2025-09-08</sub></sup> Un podcast interesante sobre la IA en educación superior [aquí](https://open.spotify.com/episode/2bYRtBzSVbAlIr16h6GGb0?si=cqoeYmkzS2a7EOIHBWj4Ew). En particular, de 50' en adelante.
 
@@ -68,7 +66,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="org1c24a63"></a>
+# El estado-nación<a id="org57f7077"></a>
 
 
 ## 1 y 3 de septiembre
@@ -82,7 +80,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="orgd2e21b8"></a>
+# Modernización y democracia<a id="org194ff65"></a>
 
 
 ## 8 de septiembre
@@ -124,7 +122,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 # Menú de conceptos para el análisis
 
 
-## Sistemas electoral y de partidos &#x2013; 6 de octubre<a id="org011ee49"></a>
+## Sistemas electoral y de partidos &#x2013; 6 de octubre<a id="orgfef0ef5"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
@@ -184,7 +182,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   ROMERO et al. [Living in fear: The dynamics of extorsion in Mexico's drug war](https://github.com/emagar/icp/blob/master/lecturas/vidal/magaloni-etal.Living-in-fear2019cps.pdf) 42 pp.
 
 
-## Adriana ALFARO &#x2013; 10 de noviembre
+## Adriana ALFARO &#x2013; 10 de noviembre<a id="orgd634d7e"></a>
 
 -   White e Ypi. [The Meaning of Partisanship](https://github.com/emagar/icp/blob/master/lecturas/adriana/White-Ypi-The-meaning-of-partisanship2016book.pdf) pp 8-31.
 
