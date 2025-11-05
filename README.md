@@ -68,7 +68,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="orgdd518f9"></a>
+# El estado-nación<a id="org1c24a63"></a>
 
 
 ## 1 y 3 de septiembre
@@ -82,7 +82,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="org2d933ef"></a>
+# Modernización y democracia<a id="orgd2e21b8"></a>
 
 
 ## 8 de septiembre
@@ -124,7 +124,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 # Menú de conceptos para el análisis
 
 
-## Sistemas electoral y de partidos &#x2013; 6 de octubre<a id="orgeede80c"></a>
+## Sistemas electoral y de partidos &#x2013; 6 de octubre<a id="org011ee49"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
@@ -186,7 +186,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 
 ## Adriana ALFARO &#x2013; 10 de noviembre
 
--   Lectura por asignar.
+-   White e Ypi. [The Meaning of Partisanship](https://github.com/emagar/icp/blob/master/lecturas/adriana/White-Ypi-The-meaning-of-partisanship2016book.pdf) pp 8-31.
 
 
 # Menú de conceptos para el análisis (cont.)
