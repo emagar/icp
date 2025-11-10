@@ -2,7 +2,7 @@
 
 <h2> Anuncios </h2>
 
-<sup><sub>2025-11-5</sub></sup> Ya subí la lectura para la clase del lunes 10 de noviembre [aquí](#orgd634d7e).
+<sup><sub>2025-11-5</sub></sup> Ya subí la lectura para la clase del lunes 10 de noviembre [aquí](#org4d414bc).
 
 <sup><sub>2025-11-4</sub></sup> La captura de los datos de la encuesta está lista. La encontrarán [aquí](https://github.com/emagar/icp/blob/master/parcial2/data/).
 
@@ -66,7 +66,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="org57f7077"></a>
+# El estado-nación<a id="org9d525ce"></a>
 
 
 ## 1 y 3 de septiembre
@@ -80,7 +80,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="org194ff65"></a>
+# Modernización y democracia<a id="org5a19707"></a>
 
 
 ## 8 de septiembre
@@ -122,7 +122,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 # Menú de conceptos para el análisis
 
 
-## Sistemas electoral y de partidos &#x2013; 6 de octubre<a id="orgfef0ef5"></a>
+## Sistemas electoral y de partidos &#x2013; 6 de octubre<a id="org3a0a934"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
@@ -182,7 +182,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   ROMERO et al. [Living in fear: The dynamics of extorsion in Mexico's drug war](https://github.com/emagar/icp/blob/master/lecturas/vidal/magaloni-etal.Living-in-fear2019cps.pdf) 42 pp.
 
 
-## Adriana ALFARO &#x2013; 10 de noviembre<a id="orgd634d7e"></a>
+## Adriana ALFARO &#x2013; 10 de noviembre<a id="org4d414bc"></a>
 
 -   White e Ypi. [The Meaning of Partisanship](https://github.com/emagar/icp/blob/master/lecturas/adriana/White-Ypi-The-meaning-of-partisanship2016book.pdf) pp 8-31.
 
@@ -190,14 +190,23 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 # Menú de conceptos para el análisis (cont.)
 
 
-## La racionalidad instrumental &#x2013; 12 de noviembre
+## Clase para recapitular &#x2013; 12 de noviembre
+
+-   No hay lectura.
+
+
+## La racionalidad instrumental &#x2013; 19 de noviembre
 
 -   DOWNS [*La teoría económica de la democracia*](https://github.com/emagar/icp/blob/master/lecturas/downs-MVT1958.pdf) (1958) 19 pp.
 -   SHEPSLE *Analizing politics* [cap. 2](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010.pdf) (2010) 25 pp.
--   RIKER\* Political Science and Rational Choice (1990).
 
 
-## El modelo distributivo, clientelismo y populismo &#x2013; 19 y 24 de noviembre
+## La capacidad estatal &#x2013; 24 de noviembre
+
+-   GARFIAS [Elite competition and state capacity development](https://github.com/emagar/icp/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) (2018) 18 pp.
+
+
+## El modelo distributivo, clientelismo y populismo &#x2013; 26 de noviembre y 1 de diciembre
 
 -   Proyectaré la película All the King's Men de R. Rossen (1949).
 -   SCOTT [Patron-client politics and political change in Southeast Asia](https://github.com/emagar/icp/blob/master/lecturas/scott-Patron-client-instrumental-friends-1972apsr.pdf) (1972) 23 pp.
@@ -208,7 +217,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
     -   [The real reasons for AMLO's popularity](https://americasquarterly.org/article/the-real-reasons-for-amlos-popularity/) (2023).
 
 
-## La organización &#x2013; 26 de noviembre y 1 de diciembre
+## La organización &#x2013; saqué este tema
 
 -   HIRSHMAN *Salida, voz y lealtad* [caps 1-3](https://github.com/emagar/icp/blob/master/lecturas/hirshman-Salida-voz-lealtad1977fce.pdf) (1970) 39 pp.
 -   MAGAR [Party subsidies, campaign decency, and entry barriers](https://github.com/emagar/icp/blob/master/lecturas/magarTheElectoralInstitutions2015jhup.pdf) (2015) 22 pp.
