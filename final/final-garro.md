@@ -1,4 +1,4 @@
-En vez de examen final hará un trabajo, que desarrollará individualmente en casa. La fecha de entrega será el día y hora que asigne dirección escolar para el examen final de la materia.
+En vez de examen final hará un trabajo, que desarrollará individualmente en casa. La fecha de entrega será el ~~día y hora que asigne dirección escolar para el examen final de la materia~~ **miércoles 17 de diciembre a las 10am**.
 
 
 # El trabajo
@@ -21,5 +21,10 @@ Encontrará [aquí](https://github.com/emagar/icp/blob/master/lecturas/riker1986
 # Extensión
 
 La extensión de su reseña será 1,200 palabras (+/&#x2013; 10 por ciento).
+
+
+# Nota sobre la IAG
+
+No hay necesidad de usar inteligencia artificial generativa para hacer este trabajo. Sus notas de lectura, su creatividad en el uso de los conceptos de análisis político y su esfuerzo bastan para escribir una reseña buena e interesante. Si, a pesar de lo anterior, usted echa mano de alguna herramienta de IAG, es imperativo que lo diga explícitamente y que añada a su reseña un apéndice que justifique su uso y discuta los prompts que articuló.
 
 ¡Mucha suerte!
