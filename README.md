@@ -2,7 +2,7 @@
 
 <h2> Anuncios </h2>
 
-<sup><sub>2025-11-20</sub></sup> El monero Gary Larson sobre [la paradoja de la caza mayor](./anuncios/pics/larson-big-game.png).
+<sup><sub>2025-11-20</sub></sup> [La paradoja de la caza mayor](./anuncios/pics/larson-big-game.png) desde la óptica del monero Gary Larson.
 
 <sup><sub>2025-11-12</sub></sup> Encontrará el enunciado del **trabajo final** [aquí](https://github.com/emagar/icp/blob/master/final/final-garro.md).
 
@@ -68,7 +68,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="org7db1a9f"></a>
+# El estado-nación<a id="org0ef0ac3"></a>
 
 
 ## 1 y 3 de septiembre
@@ -82,7 +82,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="org6a50753"></a>
+# Modernización y democracia<a id="org0ccc71a"></a>
 
 
 ## 8 de septiembre
@@ -124,7 +124,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 # Menú de conceptos para el análisis
 
 
-## Sistemas electoral y de partidos &#x2013; 6 de octubre<a id="org621e918"></a>
+## Sistemas electoral y de partidos &#x2013; 6 de octubre<a id="org58811ad"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
@@ -184,7 +184,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   ROMERO et al. [Living in fear: The dynamics of extorsion in Mexico's drug war](https://github.com/emagar/icp/blob/master/lecturas/vidal/magaloni-etal.Living-in-fear2019cps.pdf) 42 pp.
 
 
-## Adriana ALFARO &#x2013; 10 de noviembre<a id="org1473ef4"></a>
+## Adriana ALFARO &#x2013; 10 de noviembre<a id="orgafcd668"></a>
 
 -   White e Ypi. [The Meaning of Partisanship](https://github.com/emagar/icp/blob/master/lecturas/adriana/White-Ypi-The-meaning-of-partisanship2016book.pdf) pp 8-31.
 
