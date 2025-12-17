@@ -36,7 +36,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 
 *Última clase*: miércoles 3 de diciembre.
 
-*Exámenes finales*: del lunes 8 al sábado 20 de diciembre.
+*Examen final*: 2025-12-17 10:00-12:45, salón 102.
 
 ---
 
@@ -68,7 +68,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="orge8997bb"></a>
+# El estado-nación<a id="org2dab023"></a>
 
 
 ## 1 y 3 de septiembre
@@ -82,7 +82,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="orga4b38bd"></a>
+# Modernización y democracia<a id="org16f09ff"></a>
 
 
 ## 8 de septiembre
@@ -124,7 +124,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 # Menú de conceptos para el análisis
 
 
-## Sistemas electoral y de partidos &#x2013; 6 de octubre<a id="org099d2ea"></a>
+## Sistemas electoral y de partidos &#x2013; 6 de octubre<a id="orgd5c4be7"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
@@ -184,7 +184,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   ROMERO et al. [Living in fear: The dynamics of extorsion in Mexico's drug war](https://github.com/emagar/icp/blob/master/lecturas/vidal/magaloni-etal.Living-in-fear2019cps.pdf) 42 pp.
 
 
-## Adriana ALFARO &#x2013; 10 de noviembre<a id="orgd4c6ea9"></a>
+## Adriana ALFARO &#x2013; 10 de noviembre<a id="org63ace19"></a>
 
 -   White e Ypi. [The Meaning of Partisanship](https://github.com/emagar/icp/blob/master/lecturas/adriana/White-Ypi-The-meaning-of-partisanship2016book.pdf) pp 8-31.
 
