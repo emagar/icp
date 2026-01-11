@@ -4,14 +4,6 @@
 
 <sup><sub>2026-01-12</sub></sup> ¡Bienvenid@s! No hay lectura para la clase de hoy.
 
-<sup><sub>2025-11-20</sub></sup> [La paradoja de la caza mayor](./anuncios/pics/larson-big-game.png) desde la óptica del monero Gary Larson.
-
-<sup><sub>2025-09-01</sub></sup> Las **fichas de lectura** que he revisado pueden pasarlas a buscar a la **Facultad Menor** de Ciencia Política, que encontrarán sobre el corredor que conduce al Departamento de Ciencia Política.
-
-<sup><sub>2025-08-25</sub></sup> Sea **puntual**. No admitiré más a nadie al salón después de haber pasado la lista de asistencia.
-
-<sup><sub>2025-08-25</sub></sup> Haga una cita para presentarse con el **tutor** que le asignó la directora del programa. (A mí, sola una persona ha venido a verme.)
-
 ---
 
 ITAM Depto. de ciencia política, primavera 2026
@@ -75,7 +67,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="orgf2f0796"></a>
+# El estado-nación<a id="org62e0d25"></a>
 
 
 ## 4 y 9 de febrero
@@ -89,7 +81,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="org719ed85"></a>
+# Modernización y democracia<a id="org8563b3b"></a>
 
 
 ## 11 de febrero
@@ -131,7 +123,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 # Menú de conceptos para el análisis
 
 
-## Sistemas electoral y de partidos &#x2013; 18 de marzo<a id="org59253cd"></a>
+## Sistemas electoral y de partidos &#x2013; 18 de marzo<a id="org494212a"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
@@ -191,7 +183,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   ROMERO et al. [Living in fear: The dynamics of extorsion in Mexico's drug war](https://github.com/emagar/icp/blob/master/lecturas/vidal/magaloni-etal.Living-in-fear2019cps.pdf) 42 pp.
 
 
-## Adriana ALFARO &#x2013; 27 de abril<a id="org289c367"></a>
+## Adriana ALFARO &#x2013; 27 de abril<a id="org766509a"></a>
 
 -   White e Ypi. [The Meaning of Partisanship](https://github.com/emagar/icp/blob/master/lecturas/adriana/White-Ypi-The-meaning-of-partisanship2016book.pdf) pp 8-31.
 
