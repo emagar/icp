@@ -1,26 +1,12 @@
 ---
 
-<h2> Anuncios </h2>
+ITAM Depto. de ciencia política, primavera 2026
 
-<sup><sub>2025-11-20</sub></sup> [La paradoja de la caza mayor](./anuncios/pics/larson-big-game.png) desde la óptica del monero Gary Larson.
-
-<sup><sub>2025-11-12</sub></sup> Encontrará el enunciado del **trabajo final** [aquí](https://github.com/emagar/icp/blob/master/final/final-garro.md).
-
-<sup><sub>2025-11-4</sub></sup> La captura de los datos de la encuesta está lista. La encontrarán [aquí](https://github.com/emagar/icp/blob/master/parcial2/data/).
-
-<sup><sub>2025-10-23</sub></sup> Para su cultura general, hay un reportaje sobre el envenenamiento por plomo entre *homo neanderthalensis* [aquí](https://github.com/emagar/icp/blob/master/lecturas/prensa/economist-Lead-poisoning20251015.pdf).
-
-<sup><sub>2025-09-08</sub></sup> Un podcast interesante sobre la IA en educación superior [aquí](https://open.spotify.com/episode/2bYRtBzSVbAlIr16h6GGb0?si=cqoeYmkzS2a7EOIHBWj4Ew). En particular, de 50' en adelante.
-
----
-
-ITAM Depto. de ciencia política, otoño 2025
-
-**Introducción a la ciencia política**
+**Introducción a la ciencia política** (CSO-10001)
 
 Profesor: Eric Magar Meurs ([emagar@itam.mx](mailto:emagar@itam.mx))
 
-Lunes y miércoles 11:30&#x2013;13:00 salón 112
+Lunes y miércoles 11:30&#x2013;13:00 salón 212
 
 *Objetivo*: Este curso es el cimiento del programa de ciencia política. Busca contribuir a la formación básica del estudiante en tres ámbitos importantes. Primero, las alumnas y los alumnos aprenderán conceptos clave que serán base y referencia permanente de su educación profesional. Lo harán abordando los grandes problemas que han ocupado al pensamiento político. Segundo, se hace hincapié en el fortalecimiento de sus capacidades analíticas. Estudiaremos las principales escuelas de la ciencia social para discernir el modo particular con que cada una aborda los fenómenos políticos fundamentales como son la organización, el conflicto y la cooperación, o la competencia. Tercero, el curso busca desarrollar los buenos hábitos de trabajo de sus estudiantes.
 
@@ -32,46 +18,53 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 
 *Horas de oficina*: los lunes y miércoles de 13:00 a 13:45 o con cita.
 
-*Días de asueto*: lunes 15 de septiembre (Independencia), lunes 3 de noviembre (Muertos) y lunes 17 de noviembre (Revolución).
+*Días de asueto*: lunes 2 de febrero (Constitución), lunes 16 de marzo (Benito Juárez), lunes 30 de marzo y miércoles 1 de abril (Semana Santa).
 
-*Última clase*: miércoles 3 de diciembre.
+*No habrá clases*: lunes 16 y miércoles 18 de febrero.
 
-*Examen final*: 2025-12-17 10:00-12:45, salón 102.
+*Última clase*: miércoles 13 de mayo.
+
+*Exámenes finales*: del lunes 18 al sábado 30 de mayo.
 
 ---
+
+**Nota**: Las lecturas marcadas con asterisco son opcionales.
 
 
 # Para delimitar la política
 
 
-## 13 de agosto
+## Presentación del curso y asuntos logísticos &#x2013; 12 de enero
 
--   SCHMITTER y BLECHER *Politics as a Science: A Prolegomenon* [Cap 1](https://github.com/emagar/icp/blob/master/lecturas/schmitter.blecher-Politics-as-a-Science2021-cap1.pdf) (2021) 13 pp.
+-   Sin lectura asignada.
 
 
-## 18 de agosto
+## 14 de enero
 
--   DAHL [The concept of power](https://github.com/emagar/icp/blob/master/lecturas/dahl-Power-1957.pdf) (1957) 15 pp.
+-   SHEPSLE *Analizing politics* [cap. 1](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap1-2010.pdf) (2010) pp. 3&#x2013;12.
+
+
+## 19 de enero
+
+-   DAHL\* [The concept of power](https://github.com/emagar/icp/blob/master/lecturas/dahl-Power-1957.pdf) (1957) 15 pp.
 
 
 # El análisis político
 
 
-## 20, 25 y 27 de agosto
+## 21, 26 y 28 de enero
 
 -   MAQUIAVELO [*El príncipe*](https://github.com/emagar/icp/blob/master/lecturas/maquiavelo-principe.pdf) (1532)
     -   Dedicatoria y caps. I-VI y IX 25 pp.
     -   Caps. XV-XIX(hasta 92) XXIII y XXV 19 pp.
--   SHEPSLE *Analizing politics* [cap. 1](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap1-2010.pdf) (2010) pp. 3&#x2013;6 10&#x2013;12.
-
 -   VILLORO [Ciencia política, filosofía e ideología](https://github.com/emagar/icp/blob/master/lecturas/villoro-CPol-1988.pdf) (1988) 5 pp.
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="org2dab023"></a>
+# El estado-nación<a id="org8c37e31"></a>
 
 
-## 1 y 3 de septiembre
+## 4 y 9 de febrero
 
 -   WEBER La política como vocación (1919) [pp. 243-254](https://github.com/emagar/icp/blob/master/lecturas/weber.La-politica-como-vocacion1919.pdf) (hasta &#x2026; para conseguir la seguridad en este sentido)
 
@@ -82,10 +75,10 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="org16f09ff"></a>
+# Modernización y democracia<a id="org66800e4"></a>
 
 
-## 8 de septiembre
+## 11 de febrero
 
 -   LIPSET\* [*El hombre político*](https://github.com/emagar/icp/blob/master/lecturas/lipset-Ho-pol-1960.pdf) (1960) 32 pp.
 -   PRZEWORSKI y LIMONGI [Modernization: theories and facts](https://github.com/emagar/icp/blob/master/lecturas/przeworski-limongi-Modernization1997wp.pdf) (1997) 24 pp.
@@ -93,13 +86,13 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   WEINGAST\* [The political foundations of democracy and the rule of law](https://github.com/emagar/icp/blob/master/lecturas/weingastDemocracy1997apsr.pdf) (1997) 22 pp.
 
 
-# PRIMER EXAMEN PARCIAL &#x2013; 10 de septiembre
+# PRIMER EXAMEN PARCIAL &#x2013; 23 de febrero
 
 
 # Estructuras en ciencia social
 
 
-## Materialismo &#x2013; 17 de septiembre
+## Materialismo &#x2013; 25 de febrero
 
 -   MARX y ENGELS [*El manifiesto del partido comunista*](https://github.com/emagar/icp/blob/master/lecturas/marx-engels-El-manifiesto-del-pc1848.pdf) (1848) 42 pp.
 -   MCCLAIN [How presidential elections are impacted by a 100 million year old coastline](https://deepseanews.com/2012/06/how-presidential-elections-are-impacted-by-a-100-million-year-old-coastline/) 5 pp.
@@ -107,7 +100,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   SPRUYT\* [*War, Trade, and State Formation*](https://github.com/emagar/icp/blob/master/lecturas/spruyt-War-trade-and-state-formation-2007arps.pdf) (2007) 23 pp.
 
 
-## Institucionalismo &#x2013; 22 y 24 de septiembre
+## Institucionalismo &#x2013; 2, 4 y 9 de marzo
 
 -   ARISTOTELES [*La política*](https://github.com/emagar/icp/blob/master/lecturas/aristoteles-Politica.pdf) Libro tercero caps. IV-VI (S. IV AC) 11 pp.
 -   HAMILTON, MADISON, JAY *El Federalista* ensayos [#1 #10 #51 #72 y #78](https://github.com/emagar/icp/blob/master/lecturas/federalista-1-10-51-72-78.pdf) (1787) 23 pp.
@@ -115,7 +108,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 -   Arts. 71 y 72 [CPEUM](https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf).
 
 
-## Culturalismo &#x2013; 1 de octubre
+## Culturalismo &#x2013; 11 de marzo
 
 -   ALMOND y VERBA [*La cultura cívica*](https://github.com/emagar/icp/blob/master/lecturas/almond-verba-Cultura-civica1963.pdf) (1963) 31 pp.
 -   CRESPO\* [Del autoritarismo a la democracia: el mito cultural](https://github.com/emagar/icp/blob/master/lecturas/crespo-Cultura-politica1988.pdf) (1988) 14 pp.
@@ -124,67 +117,67 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 # Menú de conceptos para el análisis
 
 
-## Sistemas electoral y de partidos &#x2013; 6 de octubre<a id="orgd5c4be7"></a>
+## Sistemas electoral y de partidos &#x2013; 18 de marzo<a id="org5fd4b51"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
 
-## El nivel de análisis: sistemas, grupos, individuos &#x2013; 8 y 13 de octubre
+## El nivel de análisis: sistemas, grupos, individuos
 
 
-### El poder compartido
+### El poder compartido &#x2013; 23 de marzo
 
 -   DE FIGUEIREDO et al. [The new separation-of-powers approach to American Politics](https://github.com/emagar/icp/blob/master/lecturas/de-figueiredo-et-al-New-separation-of-powers.pdf) (2006) 21 pp.
 
 
-### Los grupos de interés
+### Los grupos de interés &#x2013; 25 de marzo
 
 -   TRUMAN [El pluralismo](https://github.com/emagar/icp/blob/master/lecturas/truman-Governmental-process1951.pdf) (1951) 6 pp.
 -   BATES *Markets and States in Tropical Africa* [cap. 1](https://github.com/emagar/icp/blob/master/lecturas/bates-Markets-States1981-cap1.pdf) (1981) 19 pp.
 
 
-## Los dilemas colectivos &#x2013; 15, 20 y 22 de octubre
+## Los dilemas colectivos
 
 
-### El problema del ejido
+### El problema del ejido &#x2013; 6  de abril
 
 -   OLSON [*La lógica de la acción colectiva*](https://github.com/emagar/icp/blob/master/lecturas/olson-Logica-AC1965.pdf) (1965) 18 pp.
 
 -   O'GORMAN\* [Global warming as tragedy of the commons](https://github.com/emagar/icp/blob/master/lecturas/ogorman-Global-warming-Tragedy-of-the-Commons.pdf) (2010) 12 pp.
 
 
-### El problema de coordinación
+### El problema de coordinación &#x2013; 8 de abril
 
 -   MCCUBBINS y ROSENBLUTH [Party provision for personal politics](https://github.com/emagar/icp/blob/master/lecturas/mccubbins.rosenbluth-Party-for-personal.pdf) (1995) 19 pp.
 
 
-### La inestabilidad social
+### La inestabilidad social &#x2013; 13 de abril
 
 -   SZPIRO *Numbers rule* [caps. 5 y 6](https://github.com/emagar/icp/blob/master/lecturas/szpiro2010-Numbers-rule-caps5-y-6.pdf) (2010) 29 pp.
 
 
-# SEGUNDO EXAMEN PARCIAL &#x2013; Se entrega el 27 de octubre
+# SEGUNDO EXAMEN PARCIAL &#x2013; Se entrega el 15 de abril
 
 
 # Conozca a la facultad del departamento
 
 
-## Adrián LUCARDI &#x2013; 27 de octubre
+## Adrián LUCARDI &#x2013; 15 de abril
 
 -   BUENO DE MESQUITA [Leopold II and the selectorate: An account in contrast to a racial explanation](https://github.com/emagar/icp/blob/master/lecturas/lucardi/bueno-de-mesquita-Leopold-II-and-the-Selectorate2007hsr.pdf) 20 pp.
 
 
-## Antonella BANDIERA &#x2013; 29 de octubre
+## Antonella BANDIERA &#x2013; 20 de abril
 
 -   MAGALONI et al. [State-Evading Solutions to Violence: Organized Crime and Governance in Indigenous Mexico](https://github.com/emagar/icp/blob/master/lecturas/anto/ssrn-4007565.pdf) (2021) 38 pp.
 
 
-## Vidal ROMERO &#x2013; 5 de noviembre (esta clase será en el salón 110)
+## Vidal ROMERO &#x2013; 22 de abril
 
 -   ROMERO et al. [Living in fear: The dynamics of extorsion in Mexico's drug war](https://github.com/emagar/icp/blob/master/lecturas/vidal/magaloni-etal.Living-in-fear2019cps.pdf) 42 pp.
 
 
-## Adriana ALFARO &#x2013; 10 de noviembre<a id="org63ace19"></a>
+## Adriana ALFARO &#x2013; 27 de abril<a id="org2386ac6"></a>
 
 -   White e Ypi. [The Meaning of Partisanship](https://github.com/emagar/icp/blob/master/lecturas/adriana/White-Ypi-The-meaning-of-partisanship2016book.pdf) pp 8-31.
 
@@ -192,25 +185,21 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
 # Menú de conceptos para el análisis (cont.)
 
 
-## Clase para recapitular &#x2013; 12 de noviembre
-
--   No hay lectura.
-
-
-## La racionalidad instrumental &#x2013; 19 de noviembre
+## La racionalidad instrumental &#x2013; 29 de abril
 
 -   DOWNS [*La teoría económica de la democracia*](https://github.com/emagar/icp/blob/master/lecturas/downs-MVT1958.pdf) (1958) 19 pp.
 -   SHEPSLE *Analizing politics* [cap. 2](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010.pdf) (2010) 25 pp.
 
 
-## La capacidad estatal &#x2013; 24 de noviembre
+## La capacidad estatal &#x2013; 4 de mayo
 
 -   GARFIAS [Elite competition and state capacity development](https://github.com/emagar/icp/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) (2018) 18 pp.
 
 
-## El modelo distributivo, clientelismo y populismo &#x2013; 26 de noviembre y 1 de diciembre
+## El modelo distributivo, clientelismo y populismo &#x2013; 6 y 11 de mayo
 
--   Proyectaré la película [All the King's Men](https://drive.google.com/drive/folders/1BT-gwgaIQd0HHubk4VTtkHBzaa2IeVNB?usp=sharing) de R. Rossen (1949).
+-   Proyectaré la película The Last Hurrah de J. Ford (1958).
+
 -   SCOTT [Patron-client politics and political change in Southeast Asia](https://github.com/emagar/icp/blob/master/lecturas/scott-Patron-client-instrumental-friends-1972apsr.pdf) (1972) 23 pp.
 -   DIAZ CAYEROS, ESTEVEZ Y MAGALONI [Political machines and vote buying](https://github.com/emagar/icp/blob/master/lecturas/diaz-cayeros-estevez-magaloni2016cap3.pdf) (2016) 19 pp.
 -   COX y MCCUBBINS\* [Electoral politics as a distributive game](https://github.com/emagar/icp/blob/master/lecturas/cox.mccubbins-Redistributive-game1986jop.pdf) (1986) 20 pp.
@@ -219,12 +208,6 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 112
     -   [The real reasons for AMLO's popularity](https://americasquarterly.org/article/the-real-reasons-for-amlos-popularity/) (2023).
 
 
-## La organización &#x2013; saqué este tema
-
--   HIRSHMAN *Salida, voz y lealtad* [caps 1-3](https://github.com/emagar/icp/blob/master/lecturas/hirshman-Salida-voz-lealtad1977fce.pdf) (1970) 39 pp.
--   MAGAR [Party subsidies, campaign decency, and entry barriers](https://github.com/emagar/icp/blob/master/lecturas/magarTheElectoralInstitutions2015jhup.pdf) (2015) 22 pp.
-
-
-# Recapitulación &#x2013; 3 de diciembre
+# Recapitulación &#x2013; 13 de mayo
 
 -   Lectura por asignar
