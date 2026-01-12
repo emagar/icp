@@ -18,7 +18,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 
 *Tareas y evaluación*: De cada estudiante espero que asista puntualmente a todas las clases habiendo hecho, previamente, todas las lecturas asignadas; que complete las tareas en tiempo y forma; y que participe activamente en el grupo. La evaluación incluye dos exámenes parciales (25% de la calificación cada uno), un examen final acumulativo (25%), controles de lectura (15%) y participación en clase (10%). Los **exámenes** evaluarán el conocimiento de las lecturas del curso, especialmente la capacidad del estudiante para hacer una reflexión crítica de ellas. A fin de cubrir la evaluación de **controles de lectura**, cada estudiante deberá entregar al profesor un total de 15 fichas sintéticas. Cada ficha de lectura será de una sola página, impresa y bien formada, que sintetice claramente el argumento central de alguno de los textos asignados para la clase del día. Las fichas se entregan al inicio de cada sesión y no aceptaré fichas adelantadas ni atrasadas. La **participación** en clase valorará la impresión general de sus intervenciones a lo largo del semestre.
 
-*El buen uso de la inteligencia artificial*: Quien usa las herramientas de IA debe también ser capaz de verificar y evaluar críticamente lo que nos arroja. Si usted usara la IA para la elaboración de su ficha, es imperativo reportarlo como nota al final, y estar en posibilidad para elaborar acerca de las solicitudes que usó, cómo las fue refinando, y cómo contrasta el resultado arrojado con la síntesis que elaboró a partir de su propia lectura.
+*El buen uso de la inteligencia artificial*: Quien usa las herramientas de IA debe también ser capaz de verificar y evaluar críticamente lo que nos arroja. Si usted usara la IA para la elaboración de cualquier trabajo, es imperativo reportarlo como nota al final, y estar en posibilidad para elaborar acerca de los *prompts* que usó, cómo los fue refinando, y cómo contrasta el resultado arrojado con la síntesis que elaboró a partir de su propia lectura.
 
 *Notas*: (1) La página del curso es <https://github.com/emagar/icp/>. Alberga este temario, las lecturas y el material adicional. (2) El temario probablemente sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto con anticipación en clase.
 
@@ -67,7 +67,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="orgd5d1c45"></a>
+# El estado-nación<a id="orge6bf01d"></a>
 
 
 ## 4 y 9 de febrero
@@ -81,14 +81,14 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="orge35e160"></a>
+# Modernización y democracia<a id="orga7ee21d"></a>
 
 
 ## 11 de febrero
 
--   LIPSET\* [*El hombre político*](https://github.com/emagar/icp/blob/master/lecturas/lipset-Ho-pol-1960.pdf) (1960) 32 pp.
 -   PRZEWORSKI y LIMONGI [Modernization: theories and facts](https://github.com/emagar/icp/blob/master/lecturas/przeworski-limongi-Modernization1997wp.pdf) (1997) 24 pp.
 -   LINZ [El régimen autoritario](https://github.com/emagar/icp/blob/master/lecturas/linz-autoritarismo1990.pdf) (1990) 7 pp.
+-   LIPSET\* [*El hombre político*](https://github.com/emagar/icp/blob/master/lecturas/lipset-Ho-pol-1960.pdf) (1960) 32 pp.
 -   WEINGAST\* [The political foundations of democracy and the rule of law](https://github.com/emagar/icp/blob/master/lecturas/weingastDemocracy1997apsr.pdf) (1997) 22 pp.
 
 
@@ -123,7 +123,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 # Menú de conceptos para el análisis
 
 
-## Sistemas electoral y de partidos &#x2013; 18 de marzo<a id="orgb0ab331"></a>
+## Sistemas electoral y de partidos &#x2013; 18 de marzo<a id="orgb5025aa"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
@@ -183,7 +183,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   ROMERO et al. [Living in fear: The dynamics of extorsion in Mexico's drug war](https://github.com/emagar/icp/blob/master/lecturas/vidal/magaloni-etal.Living-in-fear2019cps.pdf) 42 pp.
 
 
-## Adriana ALFARO &#x2013; 27 de abril<a id="orged560aa"></a>
+## Adriana ALFARO &#x2013; 27 de abril<a id="org68aa8ee"></a>
 
 -   White e Ypi. [The Meaning of Partisanship](https://github.com/emagar/icp/blob/master/lecturas/adriana/White-Ypi-The-meaning-of-partisanship2016book.pdf) pp 8-31.
 
