@@ -2,7 +2,7 @@
 
 <h2> Anuncios </h2>
 
-<sup><sub>2026-01-21</sub></sup> Las lecturas para el miércoles 21-ene son Maquiavelo Dedicatoria y caps. I-VI y IX 25 pp. Para el lunes 26-ene son Maquiavelo caps. XV-XIX (hasta el párrafo 92), XXIII y XXV así como el ensayo de Villoro.
+<sup><sub>2026-01-26</sub></sup> Las lecturas para el miércoles 28-ene son Villoro y Bhattacherjee.
 
 <sup><sub>2026-01-19</sub></sup> Haga una cita para presentarse con el **tutor** que le asignó la directora del programa.
 
@@ -69,7 +69,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="org75bc4b1"></a>
+# El estado-nación<a id="orgc0fe3f0"></a>
 
 
 ## 4 y 9 de febrero
@@ -83,7 +83,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="orgcf8a68e"></a>
+# Modernización y democracia<a id="org6c1a9ff"></a>
 
 
 ## 11 de febrero
@@ -125,7 +125,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 # Menú de conceptos para el análisis
 
 
-## Sistemas electoral y de partidos &#x2013; 18 de marzo<a id="org9fb9c1e"></a>
+## Sistemas electoral y de partidos &#x2013; 18 de marzo<a id="org1b5ed06"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
@@ -185,7 +185,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   ROMERO et al. [Living in fear: The dynamics of extorsion in Mexico's drug war](https://github.com/emagar/icp/blob/master/lecturas/vidal/magaloni-etal.Living-in-fear2019cps.pdf) 42 pp.
 
 
-## Adriana ALFARO &#x2013; 27 de abril<a id="orge37ced0"></a>
+## Adriana ALFARO &#x2013; 27 de abril<a id="org1c86abd"></a>
 
 -   White e Ypi. [The Meaning of Partisanship](https://github.com/emagar/icp/blob/master/lecturas/adriana/White-Ypi-The-meaning-of-partisanship2016book.pdf) pp 8-31.
 
