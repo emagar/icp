@@ -2,6 +2,8 @@
 
 <h2> Anuncios </h2>
 
+<sup><sub>2026-01-28</sub></sup> La lectura para el miércoles 4-feb es Weber.
+
 <sup><sub>2026-01-26</sub></sup> Las lecturas para el miércoles 28-ene son Villoro y Bhattacherjee.
 
 <sup><sub>2026-01-19</sub></sup> Haga una cita para presentarse con el **tutor** que le asignó la directora del programa.
@@ -60,30 +62,32 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 # El análisis político
 
 
-## 21, 26 y 28 de enero
+## Conservación del poder &#x2014; 21 y 26 de enero
 
 -   MAQUIAVELO [*El príncipe*](https://github.com/emagar/icp/blob/master/lecturas/maquiavelo-principe.pdf) (1532)
     -   Dedicatoria y caps. I-VI y IX 25 pp.
     -   Caps. XV-XIX(hasta 92) XXIII y XXV 19 pp.
+
+
+## Lo normativo y lo positivo &#x2014; 28 de enero
+
 -   VILLORO [Ciencia política, filosofía e ideología](https://github.com/emagar/icp/blob/master/lecturas/villoro-CPol-1988.pdf) (1988) 5 pp. (Hay una versión en puro texto [aquí](https://github.com/emagar/icp/blob/master/lecturas/villoro-Ciencia-politica-filosifia-e-ideologia1988vuelta.txt), copie y péguela para traducirla al sueco o inglés.)
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="orgc0fe3f0"></a>
+# El estado-nación<a id="org07139b9"></a>
 
 
 ## 4 y 9 de febrero
 
--   WEBER La política como vocación (1919) [pp. 243-254](https://github.com/emagar/icp/blob/master/lecturas/weber.La-politica-como-vocacion1919.pdf) (hasta &#x2026; para conseguir la seguridad en este sentido)
-
-(version française [ici](https://github.com/emagar/icp/blob/master/lecturas/weber.Le-savant-et-le-politique1919.pdf)).
+-   WEBER La política como vocación (1919) [pp. 243-254](https://github.com/emagar/icp/blob/master/lecturas/weber.La-politica-como-vocacion1919.pdf) (hasta &#x2026; para conseguir la seguridad en este sentido) (English version [here](https://github.com/emagar/icp/blob/master/lecturas/weber-Politics-as-vocation.pdf))
 
 -   HOBBES *Leviatán* [caps. 13, 17 y 18](https://github.com/emagar/icp/blob/master/lecturas/hobbes-Leviatan-13-17-18.pdf) (1651) 18 pp.
 
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="org6c1a9ff"></a>
+# Modernización y democracia<a id="org585b525"></a>
 
 
 ## 11 de febrero
@@ -125,7 +129,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 # Menú de conceptos para el análisis
 
 
-## Sistemas electoral y de partidos &#x2013; 18 de marzo<a id="org1b5ed06"></a>
+## Sistemas electoral y de partidos &#x2013; 18 de marzo<a id="org539dd32"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
@@ -185,7 +189,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   ROMERO et al. [Living in fear: The dynamics of extorsion in Mexico's drug war](https://github.com/emagar/icp/blob/master/lecturas/vidal/magaloni-etal.Living-in-fear2019cps.pdf) 42 pp.
 
 
-## Adriana ALFARO &#x2013; 27 de abril<a id="org1c86abd"></a>
+## Adriana ALFARO &#x2013; 27 de abril<a id="orgaa04336"></a>
 
 -   White e Ypi. [The Meaning of Partisanship](https://github.com/emagar/icp/blob/master/lecturas/adriana/White-Ypi-The-meaning-of-partisanship2016book.pdf) pp 8-31.
 
