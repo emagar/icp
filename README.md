@@ -75,7 +75,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="org07139b9"></a>
+# El estado-nación<a id="org99f10fc"></a>
 
 
 ## 4 y 9 de febrero
@@ -87,15 +87,15 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Modernización y democracia<a id="org585b525"></a>
+# Conozca a la facultad del departamento (parte 1)
 
 
-## 11 de febrero
+## Alejandro MORENO &#x2013; 11 de febrero (esta clase será en la Sala de Maestros)
 
--   PRZEWORSKI y LIMONGI [Modernization: theories and facts](https://github.com/emagar/icp/blob/master/lecturas/przeworski-limongi-Modernization1997wp.pdf) (1997) 24 pp.
--   LINZ [El régimen autoritario](https://github.com/emagar/icp/blob/master/lecturas/linz-autoritarismo1990.pdf) (1990) 7 pp.
--   LIPSET\* [*El hombre político*](https://github.com/emagar/icp/blob/master/lecturas/lipset-Ho-pol-1960.pdf) (1960) 32 pp.
--   WEINGAST\* [The political foundations of democracy and the rule of law](https://github.com/emagar/icp/blob/master/lecturas/weingastDemocracy1997apsr.pdf) (1997) 22 pp.
+-   MORENO [*La evolución cultural en México*](https://github.com/emagar/icp/blob/master/lecturas/moreno-Evolucion-cultural-Mexico2025book.pdf) (2025)
+    -   Presentación 3 pp.
+    -   cap 6 Poliarquistas, populistas y sus antípodas 30 pp.
+    -   cap 8 Colores mexicanos: viejas y nuevas identidades sociales 18 pp.
 
 
 # PRIMER EXAMEN PARCIAL &#x2013; 23 de febrero
@@ -129,7 +129,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 # Menú de conceptos para el análisis
 
 
-## Sistemas electoral y de partidos &#x2013; 18 de marzo<a id="org539dd32"></a>
+## Sistemas electoral y de partidos &#x2013; 18 de marzo<a id="orga7b7700"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
@@ -179,17 +179,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   BUENO DE MESQUITA [Leopold II and the selectorate: An account in contrast to a racial explanation](https://github.com/emagar/icp/blob/master/lecturas/lucardi/bueno-de-mesquita-Leopold-II-and-the-Selectorate2007hsr.pdf) 20 pp.
 
 
-## Alejandro MORENO &#x2013; 20 de abril
-
--   Lectura por asignar
-
-
-## Vidal ROMERO &#x2013; 22 de abril
-
--   ROMERO et al. [Living in fear: The dynamics of extorsion in Mexico's drug war](https://github.com/emagar/icp/blob/master/lecturas/vidal/magaloni-etal.Living-in-fear2019cps.pdf) 42 pp.
-
-
-## Adriana ALFARO &#x2013; 27 de abril<a id="orgaa04336"></a>
+## Adriana ALFARO &#x2013; 13 de abril<a id="orgc2948a1"></a>
 
 -   White e Ypi. [The Meaning of Partisanship](https://github.com/emagar/icp/blob/master/lecturas/adriana/White-Ypi-The-meaning-of-partisanship2016book.pdf) pp 8-31.
 
