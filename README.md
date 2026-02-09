@@ -75,7 +75,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="org99f10fc"></a>
+# El estado-nación<a id="org3a38a98"></a>
 
 
 ## 4 y 9 de febrero
@@ -90,7 +90,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 # Conozca a la facultad del departamento (parte 1)
 
 
-## Alejandro MORENO &#x2013; 11 de febrero (esta clase será en la Sala de Maestros)
+## Alejandro MORENO &#x2013; 11 de febrero (la clase será en la [Sala de Maestros](https://escolar.itam.mx/servicios_escolares/Docuemntos/mapa_Rio_hondo_finales.pdf))
 
 -   MORENO [*La evolución cultural en México*](https://github.com/emagar/icp/blob/master/lecturas/moreno-Evolucion-cultural-Mexico2025book.pdf) (2025)
     -   Presentación 3 pp.
@@ -129,7 +129,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 # Menú de conceptos para el análisis
 
 
-## Sistemas electoral y de partidos &#x2013; 18 de marzo<a id="orga7b7700"></a>
+## Sistemas electoral y de partidos &#x2013; 18 de marzo<a id="org4181138"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
@@ -179,7 +179,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   BUENO DE MESQUITA [Leopold II and the selectorate: An account in contrast to a racial explanation](https://github.com/emagar/icp/blob/master/lecturas/lucardi/bueno-de-mesquita-Leopold-II-and-the-Selectorate2007hsr.pdf) 20 pp.
 
 
-## Adriana ALFARO &#x2013; 13 de abril<a id="orgc2948a1"></a>
+## Adriana ALFARO &#x2013; 13 de abril<a id="orga4e4d3a"></a>
 
 -   White e Ypi. [The Meaning of Partisanship](https://github.com/emagar/icp/blob/master/lecturas/adriana/White-Ypi-The-meaning-of-partisanship2016book.pdf) pp 8-31.
 
