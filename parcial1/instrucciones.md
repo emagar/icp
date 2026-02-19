@@ -1,21 +1,23 @@
-- [Instructions for the midterm exam](#org3cd40ae)
+- [Instructions for the midterm exam (in English)](#org20c8e3d)
+
+**Instrucciones para el primer examen parcial**
 
 El examen parcial será el lunes 23 de febrero a la hora de clase. Cubrirá las lecturas no opcionales del temario, desde el principio hasta HOBBES (inclusive).
 
 Una parte del examen pedirá que relacione algunos de los conceptos que presentan los autores. Como preparación para esta parte, haga un \`acordeón' de una página que resuma los aspectos relevantes de las lecturas.
 
-Para la otra parte del examen, leerá el paper de MAGALONI ET AL (que encuentra [aquí](https://github.com/emagar/icp/blob/master/lecturas/anto/ssrn-4007565.pdf)). Elabore una ficha-resumen de una página, igual que las que han estado entregándome. No espero que entiendan los modelos estadísticos que presentan los autores, pero sí que hagan un esfuerzo sincero, leyendo el texto que discute los cuadros estadísticos, por entender la evidencia que cada prueba está aportando.
+Para la otra parte del examen, leerá el paper de MAGALONI ET AL (que encuentra [aquí](https://github.com/emagar/icp/blob/master/lecturas/anto/ssrn-4007565.pdf)). Elabore una ficha-resumen de una página, igual que las que han estado entregándome. No espero que entiendan necesariamente los modelos estadísticos que presentan los autores, pero sí que hagan un esfuerzo sincero, leyendo el texto que discute los cuadros estadísticos, por entender la evidencia que cada prueba está aportando.
 
 El día del examen cada quien traerá una pluma, el acordeón de lecturas, el paper de MAGALONI ET AL y la ficha correspondiente.
 
 Escriban por favor a emagar@itam.mx en caso de necesitar alguna aclaración.
 
 
-<a id="org3cd40ae"></a>
+<a id="org20c8e3d"></a>
 
-# Instructions for the midterm exam
+# Instructions for the midterm exam (in English)
 
-The course's first midterm exam will be Monday 23 February during class hours. It will cover all non-optional readings in the syllabus from the start up to HOBBES (inclusive).
+The course's first midterm exam will be Monday 23 February during class hours. It will cover all non-optional readings in the syllabus from the start up to HOBBES (inclusive). You can write your answers in English.
 
 Part 1 of the exam will ask you to relate some of the concepts that the authors present. To prepare for this part, make a one-page \`cheat-sheet' where you summarize key points in the readings.
 
