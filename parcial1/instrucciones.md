@@ -1,9 +1,9 @@
-- [Instrucciones para el primer examen parcial](#orgde8f022)
-- [Instructions for the midterm exam (in English)](#orgf1f9d87)
+- [Instrucciones para el primer examen parcial](#orgb4011fe)
+- [Instructions for the midterm exam (in English)](#org634a151)
 
 
 
-<a id="orgde8f022"></a>
+<a id="orgb4011fe"></a>
 
 # Instrucciones para el primer examen parcial
 
@@ -11,14 +11,14 @@ El examen parcial será el lunes 23 de febrero a la hora de clase. Cubrirá las 
 
 Una parte del examen pedirá que relacione algunos de los conceptos que presentan los autores. Como preparación para esta parte, haga un \`acordeón' de una página que resuma los aspectos relevantes de las lecturas.
 
-Para la otra parte del examen, leerá el paper de MAGALONI ET AL (que encuentra [aquí](https://github.com/emagar/icp/blob/master/lecturas/anto/ssrn-4007565.pdf)). Elabore una ficha-resumen de una página, igual que las que han estado entregándome. No espero que entiendan necesariamente los modelos estadísticos que presentan los autores, pero sí que hagan un esfuerzo sincero, leyendo el texto que discute los cuadros estadísticos, por entender la evidencia que cada prueba está aportando.
+Para la otra parte del examen, leerá el paper de MAGALONI ET AL (que encuentra [aquí](https://github.com/emagar/icp/blob/master/lecturas/anto/ssrn-4007565.pdf)). Elabore una ficha-resumen de una página, igual que las que han estado entregándome. No espero que entienda necesariamente los modelos estadísticos que presentan los autores, pero sí que haga un esfuerzo sincero, leyendo el texto que discute los cuadros estadísticos, por entender la evidencia que cada prueba está aportando.
 
 El día del examen traerá una pluma, el acordeón de lecturas, el paper de MAGALONI ET AL y la ficha correspondiente.
 
 Escriba por favor a emagar@itam.mx en caso de necesitar alguna aclaración.
 
 
-<a id="orgf1f9d87"></a>
+<a id="org634a151"></a>
 
 # Instructions for the midterm exam (in English)
 
