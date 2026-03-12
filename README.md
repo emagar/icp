@@ -2,7 +2,7 @@
 
 <h2> Anuncios </h2>
 
-<sup><sub>2026-03-04</sub></sup> Las lecturas para el [lunes 9 de marzo](#orga4b59d8) son los ensayos de *El Federalista* y los artículos de la constitución. (No me dará tiempo de cubrirlo, pero pueden entregar ficha del texto de Bravo Ortiz para ese día.)
+<sup><sub>2026-03-12</sub></sup> Hay un cambio de lectura. Para el [miércoles 18 de marzo](#orgf445f7c) leerán Przeworski y Limongi en vez de Riker, como había anunciado&#x2014;A Riker lo he movido para más adelante en el curso.
 
 ---
 
@@ -71,7 +71,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="org4573d05"></a>
+# El estado-nación<a id="orgedf7ddb"></a>
 
 
 ## 4 y 9 de febrero
@@ -86,7 +86,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 # Conozca a la facultad del departamento (parte 1)
 
 
-## Alejandro MORENO &#x2013; 11 de febrero (la clase será en la [Sala de Maestros](https://escolar.itam.mx/servicios_escolares/Docuemntos/mapa_Rio_hondo_finales.pdf))<a id="org8d4d407"></a>
+## Alejandro MORENO &#x2013; 11 de febrero (la clase será en la [Sala de Maestros](https://escolar.itam.mx/servicios_escolares/Docuemntos/mapa_Rio_hondo_finales.pdf))<a id="orgb6f6f5d"></a>
 
 -   MORENO [*La evolución cultural en México*](https://github.com/emagar/icp/blob/master/lecturas/moreno-Evolucion-cultural-Mexico2025book.pdf) (2025)
     -   Presentación 3 pp.
@@ -108,7 +108,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   SPRUYT\* [*War, Trade, and State Formation*](https://github.com/emagar/icp/blob/master/lecturas/spruyt-War-trade-and-state-formation-2007arps.pdf) (2007) 23 pp.
 
 
-## Institucionalismo &#x2013; 2, 4 y 9 de marzo<a id="orga4b59d8"></a>
+## Institucionalismo &#x2013; 2, 4 y 9 de marzo<a id="org2372f63"></a>
 
 -   ARISTOTELES [*La política*](https://github.com/emagar/icp/blob/master/lecturas/aristoteles-Politica.pdf) Libro tercero caps. IV-VI (S. IV AC) 11 pp.
 -   HAMILTON, MADISON, JAY *El Federalista* ensayos [#1 #10 #51 #72 y #78](https://github.com/emagar/icp/blob/master/lecturas/federalista-1-10-51-72-78.pdf) (1787) 23 pp.
@@ -128,9 +128,14 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 # Menú de conceptos para el análisis
 
 
-## Sistemas electoral y de partidos &#x2013; 18 de marzo<a id="org3f08b69"></a>
+# Modernización y democracia<a id="orgf445f7c"></a>
 
--   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
+
+## 18 de marzo
+
+-   PRZEWORSKI y LIMONGI [Modernization: theories and facts](https://github.com/emagar/icp/blob/master/lecturas/przeworski-limongi-Modernization1997wp.pdf) (1997) 24 pp.
+
+-   LIPSET\* [*El hombre político*](https://github.com/emagar/icp/blob/master/lecturas/lipset-Ho-pol-1960.pdf) (1960) 32 pp.
 
 
 ## El nivel de análisis: sistemas, grupos, individuos
@@ -174,12 +179,17 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 # Conozca a la facultad del departamento (parte 2)
 
 
-## Adriana ALFARO &#x2013; 13 de abril<a id="org8e2cd6d"></a>
+## Adriana ALFARO &#x2013; 15 de abril<a id="org67c3997"></a>
 
 -   White e Ypi. [The Meaning of Partisanship](https://github.com/emagar/icp/blob/master/lecturas/adriana/White-Ypi-The-meaning-of-partisanship2016book.pdf) pp 8-31.
 
 
-# Ejercicio de integración &#x2013; 15 de abril
+## Adrián LUCARDI &#x2013; 20 de abril
+
+-   BUENO DE MESQUITA [Leopold II and the selectorate: An account in contrast to a racial explanation](https://github.com/emagar/icp/blob/master/lecturas/lucardi/bueno-de-mesquita-Leopold-II-and-the-Selectorate2007hsr.pdf) 20 pp.
+
+
+# Ejercicio de integración &#x2013; 22 de abril
 
 Dedicaremos esta clase para escuchar presentaciones personales. Pronto daré los detalles.
 
@@ -187,10 +197,15 @@ Dedicaremos esta clase para escuchar presentaciones personales. Pronto daré los
 # Menú de conceptos para el análisis (cont.)
 
 
-## La racionalidad instrumental &#x2013; 29 de abril
+## La racionalidad instrumental &#x2013; 27 de abril
 
 -   DOWNS [*La teoría económica de la democracia*](https://github.com/emagar/icp/blob/master/lecturas/downs-MVT1958.pdf) (1958) 19 pp.
 -   SHEPSLE *Analizing politics* [cap. 2](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010.pdf) (2010) 25 pp.
+
+
+## Sistemas electoral y de partidos &#x2013; 29 de abril<a id="org7a8afd5"></a>
+
+-   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
 
 ## La capacidad estatal &#x2013; 4 de mayo
