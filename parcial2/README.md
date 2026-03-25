@@ -1,27 +1,23 @@
-- [Objetivo](#orgfa2a470)
-- [Análisis](#org9b88859)
-- [Descripcioń de los datos](#orga70375c)
-- [Algunos recursos](#orgebfe883)
-
-| **Introducción a la ciencia política** |
-| Segundo examen parcial                 |
-| 23-3-2026                              |
+- [Objetivo](#orge6433e3)
+- [Análisis](#org38196f7)
+- [Descripcioń de los datos](#orgb9c69c4)
+- [Algunos recursos](#org3d288be)
 
 **La elección judicial de 2025**
 
 
-<a id="orgfa2a470"></a>
+<a id="orge6433e3"></a>
 
 # Objetivo
 
-Su tarea consite en escribir una **nota breve que reporte claramente** las elecciones de ministros de la Suprema Corte de junio pasado. La nota deberá reportar la evidencia que acompaña a este enunciado y tener una extensión de 750&#x2013;1000 palabras.
+Su tarea consite en escribir una **nota breve que reporte claramente** las elecciones de ministros de la Suprema Corte de junio pasado. La nota deberá reportar la evidencia que acompaña a este enunciado y tener una extensión de 750&#x2013;1000 palabras. La entrega es el **15 de abril en clase**.
 
 Ignore las elecciones de otras clases de jueces para concentrar su atención en la elección de cinco ministras de sexo femenino y la elección de cuatro ministros de sexo masculino.
 
 La evidencia que analizará se encuentra en el archivo adjunto `ministros2025edo.xlsx`, que describo más abajo.
 
 
-<a id="org9b88859"></a>
+<a id="org38196f7"></a>
 
 # Análisis
 
@@ -32,7 +28,7 @@ Para ilustrar los retos monumentales de un voto informado, intente hacer un orde
 Evalúe la participación electoral, mire variaciones entre estados e intente detectar en los datos el efecto de los acordeones.
 
 
-<a id="orga70375c"></a>
+<a id="orgb9c69c4"></a>
 
 # Descripcioń de los datos
 
@@ -46,7 +42,7 @@ Las filas de la hoja se dividen en cuatro partes:
 -   La D **identifica** los candidatos por nombre y sexo, así como el poder que los postuló.
 
 
-<a id="orgebfe883"></a>
+<a id="org3d288be"></a>
 
 # Algunos recursos
 

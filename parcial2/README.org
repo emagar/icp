@@ -1,11 +1,10 @@
-| *Introducción a la ciencia política* |
-| Segundo examen parcial               |
-| 23-3-2026                            |
+#+TITLE: Instrucciones para el segundo examen parcial
+#+DATE: 25-mar-2026
 
 *La elección judicial de 2025*
 
 * Objetivo
-Su tarea consite en escribir una *nota breve que reporte claramente* las elecciones de ministros de la Suprema Corte de junio pasado. La nota deberá reportar la evidencia que acompaña a este enunciado y tener una extensión de 750--1000 palabras. 
+Su tarea consite en escribir una *nota breve que reporte claramente* las elecciones de ministros de la Suprema Corte de junio pasado. La nota deberá reportar la evidencia que acompaña a este enunciado y tener una extensión de 750--1000 palabras. La entrega es el *15 de abril en clase*.
 
 Ignore las elecciones de otras clases de jueces para concentrar su atención en la elección de cinco ministras de sexo femenino y la elección de cuatro ministros de sexo masculino. 
 
