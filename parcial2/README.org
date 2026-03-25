@@ -17,6 +17,8 @@ Para ilustrar los retos monumentales de un voto informado, intente hacer un orde
 
 Evalúe la participación electoral, mire variaciones entre estados e intente detectar en los datos el efecto de los acordeones. 
 
+Su nota deberá basarse en lo que haya investigado y necesariamente reportará patrones que usted detecte en los datos. 
+
 # 2. Como estaba prohibido gastar dinero para hacer campaña y los partidos no podían patrocinar candidatos, era casi imposible para la ciudadanía votar informadamente. La situación era parecida a la de quien echa una moneda al aire para decidir a quienes apoyar. Por todo esto, eran de esperar dos cosas: que los votos se distribuyeran de manera uniforme entre las candidatas y entre los candidatos de esperar una tasa de participación raquítica y que la decisión de cada votante fuera como un volado. 
 
 * Descripcioń de los datos

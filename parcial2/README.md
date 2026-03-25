@@ -1,12 +1,12 @@
-- [Objetivo](#orge6433e3)
-- [Análisis](#org38196f7)
-- [Descripcioń de los datos](#orgb9c69c4)
-- [Algunos recursos](#org3d288be)
+- [Objetivo](#orgee3a5c6)
+- [Análisis](#org53cbea7)
+- [Descripcioń de los datos](#orgea65fda)
+- [Algunos recursos](#orgf100847)
 
 **La elección judicial de 2025**
 
 
-<a id="orge6433e3"></a>
+<a id="orgee3a5c6"></a>
 
 # Objetivo
 
@@ -17,7 +17,7 @@ Ignore las elecciones de otras clases de jueces para concentrar su atención en 
 La evidencia que analizará se encuentra en el archivo adjunto `ministros2025edo.xlsx`, que describo más abajo.
 
 
-<a id="org38196f7"></a>
+<a id="org53cbea7"></a>
 
 # Análisis
 
@@ -27,8 +27,10 @@ Para ilustrar los retos monumentales de un voto informado, intente hacer un orde
 
 Evalúe la participación electoral, mire variaciones entre estados e intente detectar en los datos el efecto de los acordeones.
 
+Su nota deberá basarse en lo que haya investigado y necesariamente reportará patrones que usted detecte en los datos.
 
-<a id="orgb9c69c4"></a>
+
+<a id="orgea65fda"></a>
 
 # Descripcioń de los datos
 
@@ -42,7 +44,7 @@ Las filas de la hoja se dividen en cuatro partes:
 -   La D **identifica** los candidatos por nombre y sexo, así como el poder que los postuló.
 
 
-<a id="org3d288be"></a>
+<a id="orgf100847"></a>
 
 # Algunos recursos
 
