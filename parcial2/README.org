@@ -35,9 +35,8 @@ Las filas de la hoja se dividen en cuatro partes:
 - Esta [[https://www.nytimes.com/es/interactive/2025/06/01/espanol/america-latina/mexico-elecciones-judiciales-como-votar.html][nota]] del NYT describe las boletas. Concéntrese en la de ministros de la SCJN.
 - Una nota de SEGOB sobre cómo votar [[https://www.gob.mx/segob/prensa/explica-segob-la-forma-de-como-votar-en-la-eleccion-judicial][aquí]].
 - Un video de Expansión [[https://www.instagram.com/reels/DKBM72oOchs/][aquí]]. 
-- Hay fotos de un supuesto `acordeón' [[https://github.com/emagar/icp/blob/master/parcial2/extras/acordeon.png][aquí]]
-y de una boleta genérica 
-[[https://github.com/emagar/icp/blob/master/parcial2/extras/boleta.jpg][aquí]].  
+- Hay fotos de un supuesto `acordeón' [[https://github.com/emagar/icp/blob/master/parcial2/extras/acordeon.png][aquí]].
+- Y de una boleta genérica [[https://github.com/emagar/icp/blob/master/parcial2/extras/boleta.jpg][aquí]].  
 - Un infografía del proceso [[https://github.com/emagar/icp/blob/master/parcial2/extras/ELECCION2.pdf][aquí]]. 
 
 

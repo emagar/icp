@@ -1,12 +1,12 @@
-- [Objetivo](#orgee3a5c6)
-- [Análisis](#org53cbea7)
-- [Descripcioń de los datos](#orgea65fda)
-- [Algunos recursos](#orgf100847)
+- [Objetivo](#orgac7e6af)
+- [Análisis](#org0511034)
+- [Descripcioń de los datos](#orgfce4560)
+- [Algunos recursos](#orgec6c782)
 
 **La elección judicial de 2025**
 
 
-<a id="orgee3a5c6"></a>
+<a id="orgac7e6af"></a>
 
 # Objetivo
 
@@ -17,7 +17,7 @@ Ignore las elecciones de otras clases de jueces para concentrar su atención en 
 La evidencia que analizará se encuentra en el archivo adjunto `ministros2025edo.xlsx`, que describo más abajo.
 
 
-<a id="org53cbea7"></a>
+<a id="org0511034"></a>
 
 # Análisis
 
@@ -30,7 +30,7 @@ Evalúe la participación electoral, mire variaciones entre estados e intente de
 Su nota deberá basarse en lo que haya investigado y necesariamente reportará patrones que usted detecte en los datos.
 
 
-<a id="orgea65fda"></a>
+<a id="orgfce4560"></a>
 
 # Descripcioń de los datos
 
@@ -44,15 +44,13 @@ Las filas de la hoja se dividen en cuatro partes:
 -   La D **identifica** los candidatos por nombre y sexo, así como el poder que los postuló.
 
 
-<a id="orgf100847"></a>
+<a id="orgec6c782"></a>
 
 # Algunos recursos
 
 -   Esta [nota](https://www.nytimes.com/es/interactive/2025/06/01/espanol/america-latina/mexico-elecciones-judiciales-como-votar.html) del NYT describe las boletas. Concéntrese en la de ministros de la SCJN.
 -   Una nota de SEGOB sobre cómo votar [aquí](https://www.gob.mx/segob/prensa/explica-segob-la-forma-de-como-votar-en-la-eleccion-judicial).
 -   Un video de Expansión [aquí](https://www.instagram.com/reels/DKBM72oOchs/).
--   Hay fotos de un supuesto \`acordeón' [aquí](https://github.com/emagar/icp/blob/master/parcial2/extras/acordeon.png)
-
-y de una boleta genérica [aquí](https://github.com/emagar/icp/blob/master/parcial2/extras/boleta.jpg).
-
+-   Hay fotos de un supuesto \`acordeón' [aquí](https://github.com/emagar/icp/blob/master/parcial2/extras/acordeon.png).
+-   Y de una boleta genérica [aquí](https://github.com/emagar/icp/blob/master/parcial2/extras/boleta.jpg).
 -   Un infografía del proceso [aquí](https://github.com/emagar/icp/blob/master/parcial2/extras/ELECCION2.pdf).
