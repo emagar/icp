@@ -1,16 +1,16 @@
-- [Objetivo](#org9c3ca23)
-- [Análisis](#org56caaaa)
-- [Descripcioń de los datos](#org7c93246)
-- [Algunos recursos](#org8f66b68)
+- [Objetivo](#orgfa2a470)
+- [Análisis](#org9b88859)
+- [Descripcioń de los datos](#orga70375c)
+- [Algunos recursos](#orgebfe883)
 
-\noindent Introducción a la ciencia política \textbf{Segundo examen parcial} 23-3-2026 &#x2014; \makebox[0.75\textwidth]{Nombre:\enspace\hrulefill}
-
-\vspace{5mm}
+| **Introducción a la ciencia política** |
+| Segundo examen parcial                 |
+| 23-3-2026                              |
 
 **La elección judicial de 2025**
 
 
-<a id="org9c3ca23"></a>
+<a id="orgfa2a470"></a>
 
 # Objetivo
 
@@ -21,7 +21,7 @@ Ignore las elecciones de otras clases de jueces para concentrar su atención en 
 La evidencia que analizará se encuentra en el archivo adjunto `ministros2025edo.xlsx`, que describo más abajo.
 
 
-<a id="org56caaaa"></a>
+<a id="org9b88859"></a>
 
 # Análisis
 
@@ -32,7 +32,7 @@ Para ilustrar los retos monumentales de un voto informado, intente hacer un orde
 Evalúe la participación electoral, mire variaciones entre estados e intente detectar en los datos el efecto de los acordeones.
 
 
-<a id="org7c93246"></a>
+<a id="orga70375c"></a>
 
 # Descripcioń de los datos
 
@@ -46,7 +46,7 @@ Las filas de la hoja se dividen en cuatro partes:
 -   La D **identifica** los candidatos por nombre y sexo, así como el poder que los postuló.
 
 
-<a id="org8f66b68"></a>
+<a id="orgebfe883"></a>
 
 # Algunos recursos
 

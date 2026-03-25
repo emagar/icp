@@ -1,10 +1,6 @@
-\noindent 
-  Introducción a la ciencia política \\
-  \textbf{Segundo examen parcial} \\
-  23-3-2026 --- 
-  \makebox[0.75\textwidth]{Nombre:\enspace\hrulefill}
-
-\vspace{5mm}
+| *Introducción a la ciencia política* |
+| Segundo examen parcial               |
+| 23-3-2026                            |
 
 *La elección judicial de 2025*
 
