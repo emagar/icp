@@ -1,0 +1,149 @@
+*************************************************************************
+*	 	Elección de Ministra/o de Suprema Corte, 2025					
+*												
+*		Cómputos Distritales								
+
+*************************************************************************
+
+A. El Programa de Cómputos Web permite la descarga de la base de datos a través de un archivo .zip, el cual contiene archivos .csv.
+
+B. Los archivos .csv contienen la información de todas las actas de la base de datos y se nombran como "MIN_2025.csv" y "MIN_CANDIDATURAS_2025.csv".
+
+C.  La información en el archivo MIN_2025.csv se divide en dos secciones:
+
+    a. Primera sección, encabezado: 
+
+        i. Se presenta la hora y la fecha de la generación de reportes y son correspondientes a las que aparece en los reportes HTML. Ejemplo:
+            05/06/2025 08:00 (UTC-6)
+     
+        ii. Se presenta el estatus de las actas que se están incluyendo y sus respectivos porcentajes calculados, separados por comas ",", ejemplo:
+	
+            ACTAS_ESPERADAS,ACTAS_COMPUTADAS,PORCENTAJE_ACTAS_COMPUTADAS,LISTA_NOMINAL_ACTAS_COMPUTADAS,TOTAL_PERSONAS_VOTARON,PORCENTAJE_PARTICIPACION_CIUDADANA,TOTAL_VOTOS
+
+            La descripción de cada campo se muestra a continuación:
+
+            1. ACTAS_ESPERADAS - Número de Actas correspondientes, por cada tipo de elección, de todas las casillas seccionales aprobadas por el Consejo Distrital Federal. Este conjunto de Actas de Escrutinio y Cómputo conforma el Catálogo de Actas esperadas.
+
+            2. ACTAS_COMPUTADAS - Número de Actas de las casillas seccionales aprobadas, de las cuales se tiene su correspondiente Acta de Escrutinio y Cómputo al momento del corte de información.
+
+            3. PORCENTAJE_ACTAS_COMPUTADAS - Porcentaje de Actas calculado respecto del total de actas esperadas, que al momento del corte de información, han sido computadas. Los decimales son expresados a cuatro posiciones y el decimal de la cuarta posición es truncado y no redondeado.   
+
+            4. LISTA_NOMINAL_ACTAS_COMPUTADAS - Es el agregado del número de ciudadanos con derecho a votar respecto a las casillas que integran la lista nominal de las casillas aprobadas, cuyas actas ya han sido computadas.
+			
+			5. TOTAL_PERSONAS_VOTARON - El total de personas que votaron a nivel nacional mediante la suma que realiza automáticamente el sistema informático de Cómputos.
+
+            6. PORCENTAJE_PARTICIPACION_CIUDADANA - Porcentaje que se calcula considerando el total de personas que votaron multiplicado por 100, dividiendo el resultado entra la Lista Nominal de las Casillas Seccionales de actas computadas. El cálculo de la Participación ciudadana puede tener un desfase de la publicación de resultados de la votación, debido a que de manera simultánea se comienza con el escrutinio y cómputo del paquete electoral, a la vez se registra el número de personas que votaron y boletas sacadas de la urna, conforme aparecen anotadas en las Actas de Jornada Electoral de cada Casilla Seccional.
+
+            7. TOTAL_VOTOS - El total de votos emitidos. El total de votos se calcula mediante la suma que realiza automáticamente el sistema informático de Cómputos.
+
+    b.  Segunda sección, datos del Acta de Escrutinio y Cómputo. 
+    Corresponde a los datos de identificación del acta de escrutinio y cómputo, extraídos de la base de datos; cada línea corresponde a un acta, están separados por comas ",". Los datos son los siguientes:
+        CLAVE_CASILLA,CIRCUITO_JUDICIAL,DISTRITO_JUDICIAL_ELECTORAL,ID_ENTIDAD,ENTIDAD,ID_DISTRITO_FEDERAL,DISTRITO_FEDERAL,SECCION,ID_CASILLA,TIPO_CASILLA_SECCIONAL,CAND01,CAND02,CAND03,CAND04,CAND05,CAND06,...,CAND84,VOTOS_NULOS,RECUADROS_NO_UTILIZADOS,TOTAL_VOTOS_CASILLA,NUMERO_PERSONAS_VOTARON,LISTA_NOMINAL_CASILLA,ESTATUS_CASILLA,OBSERVACIONES,SHA,FECHA_HORA
+									
+		1. CLAVE_CASILLA - Clave única de casilla.		
+
+		2. CIRCUITO_JUDICIAL - Identifica el Circuito Judicial Federal que pertenece la casilla seccional
+		
+		3. DISTRITO_JUDICIAL_ELECTORAL - Identifica el Distrito Judicial al que pertenece del Circuito	
+
+        4. ID_ENTIDAD - Muestra el identificador de la Entidad.
+
+        5. ENTIDAD - Indica el nombre de la Entidad Federativa a la que corresponde el Acta.
+
+        6. ID_DISTRITO_FEDERAL - Número del Distrito Electoral de la Entidad acorde al tipo de elección.	
+
+        7. DISTRITO_FEDERAL - Nombre del distrito electoral de la entidad acorde al tipo de elección.
+
+        8. SECCION - Corresponde a la clave de la sección de la casilla.
+
+        9. ID_CASILLA - Número de la casilla. 
+
+        10. TIPO_CASILLA_SECCIONAL - Se refiere al tipo de casilla seccional:
+			
+                B.- Básica
+
+                C.- Contigua
+
+                S.- Especial
+				
+				A.- Voto anticipado
+
+        11. CAND01 - Número de votos para el CAND01
+
+        12. CAND02 - Número de votos para el CAND02
+
+        13. CAND03 - Número de votos para el CAND03
+
+        14. CAND04 - Número de votos para el CAND04
+
+        15. CAND05 - Número de votos para el CAND05
+		
+        16. CAND06 - Número de votos para el CAND06
+
+        17. CAND07 - Número de votos para el CAND07
+		
+        18. CAND08 - Número de votos para el CAND08
+				
+        19. CAND09 - Número de votos para el CAND09
+
+        94. CAND84 - Número de votos para el CAND84
+		
+		95. VOTOS_NULOS - Número de votos nulos - Son aquellos cuyas marcas realizadas por el elector no permitan identificar el sentido de un voto. 
+		
+		96. RECUADROS_NO_UTILIZADOS - Número de recuadros no utilizados - Son aquellos en los que el electorado no realizó marcas o registros.
+
+        97. TOTAL_VOTOS_CASILLA -  Total de votos asentados en las actas de casilla seccional para candidatos, votos nulos y recuadros no utilizados.
+		
+		98. NUMERO_PERSONAS_VOTARON - Total de personas que votaron en la casilla seccional.
+
+        99. LISTA_NOMINAL_CASILLA -  Número de ciudadanos con derecho a votar que integran la lista nominal de las Actas de Escrutinio y Cómputo computadas.
+
+        100. ESTATUS_CASILLA -  Estatus asignado a la casilla seccional para la captura de información:
+			
+			- Sin estatus: Identifica que la casilla seccional no ha sido computada.
+			
+			- Acta de Casilla Seccional: Son aquellas actas generadas en los consejos distritales, a partir del escrutinio y cómputo de los votos contenidos en cada paquete electoral.
+			
+			- Paquete no recibido: Cuando no se cuenta con el Acta de Escrutinio y Cómputo de boletas de la elección la Casilla Seccional, debido a que, al término de la Jornada Electoral, el paquete no es recibido en la sede del Consejo Distrital.
+			
+			- Casilla no instalada: Cuando no se cuenta con el Acta de Escrutinio y Cómputo debido a que el día de la Jornada Electoral la Casilla Seccional no fue instalada.
+			
+			- Paquete sin boletas: Paquetes que se recibieron en el Consejo Distrital, pero no cuentan con boletas electorales por tipo de elección del cargo. 
+			
+		101. OBSERVACIONES - Dependiendo del avance en la captura de la información de la casilla seccional se presentan los siguientes:
+			
+            - Sin captura: Identifica que la casilla seccional no ha sido computada.
+			
+			- Casilla completa: Identifica que la casilla seccional ha sido computada y cuenta con estatus casilla: Paquete no recibido, Casilla no instalada y Paquete sin boletas.
+			
+			- Casilla con acta de escrutinio y computo: Identifica que la casilla seccional ha sido computada y que su respectivo paquete ha sido capturado.
+			
+		102. SHA - Muestra el código de integridad de la imagen del acta de casilla seccional.
+
+        103. FECHA_HORA - Último movimiento registrado en el acta (Tiempo del Centro).
+		
+D. El archivo de candidaturas (en formato CSV) contiene la información de todas las candidaturas por postulante que participan en la elección y se nombra "MIN_CANDIDATURAS_2025.csv".
+
+    i. Presenta la información de todas las candidaturas por candidato que participan en la elección, separados por comas ",", ejemplo:
+
+        ID_ENTIDAD,ID_DISTRITO_FEDERAL,ID_CANDIDATO,NO_CANDIDATO,NOMBRE_CANDIDATO,GENERO,PODER_POSTULANTE
+
+        1. ID_ENTIDAD - Muestra el identificador de la Entidad.
+		
+		2. ID_DISTRITO_FEDERAL - Muestra el identificador del Distrito.
+		
+		3. ID_CANDIDATO - Establece la identificación del candidato.
+
+        4. NO_CANDIDATO - Establece la identificación del postulante en la cabecera del archivo MIN_2025.csv.
+
+        5. NOMBRE_CANDIDATO - Presenta el nombre de la candidata o el candidato por orden alfabético comenzando por Apellido Paterno, Apellido Materno y Nombre.
+		
+		6. GENERO - Establece el género de la candidata o el candidato.
+		
+		7. PODER_POSTULANTE - Poder(es) de la Unión que postula a la candidata o el candidato (PE, PJ, PL o EF).
+		
+		8. ESTATUS_CANCELADO - Establece que la candidatura ha sido cancelada derivado de la incompatibilidad para ser postuladas a más de un cargo de elección popular o por renuncia voluntaria.
+		
+			- Sí
+			
+			- No
