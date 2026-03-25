@@ -21,7 +21,7 @@ Su nota deberá basarse en lo que haya investigado y necesariamente reportará p
 
 # 2. Como estaba prohibido gastar dinero para hacer campaña y los partidos no podían patrocinar candidatos, era casi imposible para la ciudadanía votar informadamente. La situación era parecida a la de quien echa una moneda al aire para decidir a quienes apoyar. Por todo esto, eran de esperar dos cosas: que los votos se distribuyeran de manera uniforme entre las candidatas y entre los candidatos de esperar una tasa de participación raquítica y que la decisión de cada votante fuera como un volado. 
 
-* Descripcioń de los datos
+* Descripción de los datos
 El archivo ~ministros2025edo.xlsx~ es una hoja de cálculo en formato excel que reporta las votaciones de las elecciones de interés. Descárguelo  [[https://github.com/emagar/icp/blob/master/parcial2/ministros2025edo.xlsx][aquí]].
 
 Las filas de la hoja se dividen en cuatro partes:
@@ -37,7 +37,7 @@ Las filas de la hoja se dividen en cuatro partes:
 - Un video de Expansión [[https://www.instagram.com/reels/DKBM72oOchs/][aquí]]. 
 - Hay fotos de un supuesto `acordeón' [[https://github.com/emagar/icp/blob/master/parcial2/extras/acordeon.png][aquí]].
 - Y de una boleta genérica [[https://github.com/emagar/icp/blob/master/parcial2/extras/boleta.jpg][aquí]].  
-- Un infografía del proceso [[https://github.com/emagar/icp/blob/master/parcial2/extras/ELECCION2.pdf][aquí]]. 
+- Una infografía del proceso [[https://github.com/emagar/icp/blob/master/parcial2/extras/ELECCION2.pdf][aquí]]. 
 
 
 

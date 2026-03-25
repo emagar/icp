@@ -1,12 +1,12 @@
-- [Objetivo](#orgac7e6af)
-- [Análisis](#org0511034)
-- [Descripcioń de los datos](#orgfce4560)
-- [Algunos recursos](#orgec6c782)
+- [Objetivo](#org6df0fde)
+- [Análisis](#org41aca70)
+- [Descripción de los datos](#org1187fdb)
+- [Algunos recursos](#org104bc4b)
 
 **La elección judicial de 2025**
 
 
-<a id="orgac7e6af"></a>
+<a id="org6df0fde"></a>
 
 # Objetivo
 
@@ -17,7 +17,7 @@ Ignore las elecciones de otras clases de jueces para concentrar su atención en 
 La evidencia que analizará se encuentra en el archivo adjunto `ministros2025edo.xlsx`, que describo más abajo.
 
 
-<a id="org0511034"></a>
+<a id="org41aca70"></a>
 
 # Análisis
 
@@ -30,9 +30,9 @@ Evalúe la participación electoral, mire variaciones entre estados e intente de
 Su nota deberá basarse en lo que haya investigado y necesariamente reportará patrones que usted detecte en los datos.
 
 
-<a id="orgfce4560"></a>
+<a id="org1187fdb"></a>
 
-# Descripcioń de los datos
+# Descripción de los datos
 
 El archivo `ministros2025edo.xlsx` es una hoja de cálculo en formato excel que reporta las votaciones de las elecciones de interés. Descárguelo [aquí](https://github.com/emagar/icp/blob/master/parcial2/ministros2025edo.xlsx).
 
@@ -44,7 +44,7 @@ Las filas de la hoja se dividen en cuatro partes:
 -   La D **identifica** los candidatos por nombre y sexo, así como el poder que los postuló.
 
 
-<a id="orgec6c782"></a>
+<a id="org104bc4b"></a>
 
 # Algunos recursos
 
@@ -53,4 +53,4 @@ Las filas de la hoja se dividen en cuatro partes:
 -   Un video de Expansión [aquí](https://www.instagram.com/reels/DKBM72oOchs/).
 -   Hay fotos de un supuesto \`acordeón' [aquí](https://github.com/emagar/icp/blob/master/parcial2/extras/acordeon.png).
 -   Y de una boleta genérica [aquí](https://github.com/emagar/icp/blob/master/parcial2/extras/boleta.jpg).
--   Un infografía del proceso [aquí](https://github.com/emagar/icp/blob/master/parcial2/extras/ELECCION2.pdf).
+-   Una infografía del proceso [aquí](https://github.com/emagar/icp/blob/master/parcial2/extras/ELECCION2.pdf).
