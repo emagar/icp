@@ -71,7 +71,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="orgc562c46"></a>
+# El estado-nación<a id="org0140aa3"></a>
 
 
 ## 4 y 9 de febrero
@@ -86,7 +86,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 # Conozca a la facultad del departamento (parte 1)
 
 
-## Alejandro MORENO &#x2013; 11 de febrero (la clase será en la [Sala de Maestros](https://escolar.itam.mx/servicios_escolares/Docuemntos/mapa_Rio_hondo_finales.pdf))<a id="org48c3fe0"></a>
+## Alejandro MORENO &#x2013; 11 de febrero (la clase será en la [Sala de Maestros](https://escolar.itam.mx/servicios_escolares/Docuemntos/mapa_Rio_hondo_finales.pdf))<a id="orge90351c"></a>
 
 -   MORENO [*La evolución cultural en México*](https://github.com/emagar/icp/blob/master/lecturas/moreno-Evolucion-cultural-Mexico2025book.pdf) (2025)
     -   Presentación 3 pp.
@@ -108,7 +108,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   SPRUYT\* [*War, Trade, and State Formation*](https://github.com/emagar/icp/blob/master/lecturas/spruyt-War-trade-and-state-formation-2007arps.pdf) (2007) 23 pp.
 
 
-## Institucionalismo &#x2013; 2, 4 y 9 de marzo<a id="orgba7a91d"></a>
+## Institucionalismo &#x2013; 2, 4 y 9 de marzo<a id="org3df027c"></a>
 
 -   ARISTOTELES [*La política*](https://github.com/emagar/icp/blob/master/lecturas/aristoteles-Politica.pdf) Libro tercero caps. IV-VI (S. IV AC) 11 pp.
 -   HAMILTON, MADISON, JAY *El Federalista* ensayos [#1 #10 #51 #72 y #78](https://github.com/emagar/icp/blob/master/lecturas/federalista-1-10-51-72-78.pdf) (1787) 23 pp.
@@ -125,7 +125,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   CRESPO\* [Del autoritarismo a la democracia: el mito cultural](https://github.com/emagar/icp/blob/master/lecturas/crespo-Cultura-politica1988.pdf) (1988) 14 pp.
 
 
-# Modernización y democracia &#x2013; 18 de marzo<a id="org22b7a50"></a>
+# Modernización y democracia &#x2013; 18 de marzo<a id="org01a09b2"></a>
 
 -   PRZEWORSKI y LIMONGI [Modernization: theories and facts](https://github.com/emagar/icp/blob/master/lecturas/przeworski-limongi-Modernization1997wp.pdf) (1997) 24 pp.
 
@@ -176,9 +176,9 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 # Conozca a la facultad del departamento (parte 2)
 
 
-## Adriana ALFARO &#x2013; 15 de abril<a id="orgc0287e0"></a>
+## Adriana ALFARO &#x2013; 15 de abril<a id="org923c15d"></a>
 
--   White e Ypi. [The Meaning of Partisanship](https://github.com/emagar/icp/blob/master/lecturas/adriana/White-Ypi-The-meaning-of-partisanship2016book.pdf) pp 8-31.
+-   NUSSBAUM [Compassion: The Basic Social Emotion](https://github.com/emagar/icp/blob/master/lecturas/adriana/Nussbaum-Compassion1996.pdf) 32pp.
 
 
 ## Adrián LUCARDI &#x2013; 20 de abril
@@ -200,7 +200,7 @@ Dedicaremos esta clase para escuchar presentaciones personales. Pronto daré los
 -   SHEPSLE *Analizing politics* [cap. 2](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010.pdf) (2010) 25 pp.
 
 
-## Sistemas electoral y de partidos &#x2013; 29 de abril<a id="orgf2c05a2"></a>
+## Sistemas electoral y de partidos &#x2013; 29 de abril<a id="org6b237e4"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
