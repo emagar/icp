@@ -2,9 +2,9 @@
 
 <h2> Anuncios </h2>
 
-<sup><sub>2026-04-18</sub></sup> Ojo, cambio en el temario, he intercalado una clase de corrección del parcial el miércoles 22-abr y recorrí las [presentaciones personales](#org81fcf7e) para el lunes 27-abr.
+<sup><sub>2026-04-18</sub></sup> Ojo, cambio en el temario, he intercalado una clase de corrección del parcial el miércoles 22-abr y recorrí las [presentaciones personales](#orga94b2b2) para el lunes 27-abr.
 
-<sup><sub>2026-04-16</sub></sup> La lectura para el lunes 20-abr es Lucardi-Romero.
+<sup><sub>2026-04-16</sub></sup> La lectura para el lunes 20-abr es [Lucardi-Romero](#orgf031b6f).
 
 ---
 
@@ -73,7 +73,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
 
 
-# El estado-nación<a id="org0d79692"></a>
+# El estado-nación<a id="orgac905ca"></a>
 
 
 ## 4 y 9 de febrero
@@ -88,7 +88,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 # Conozca a la facultad del departamento (parte 1)
 
 
-## Alejandro MORENO &#x2013; 11 de febrero (la clase será en la [Sala de Maestros](https://escolar.itam.mx/servicios_escolares/Docuemntos/mapa_Rio_hondo_finales.pdf))<a id="orgc60c7c4"></a>
+## Alejandro MORENO &#x2013; 11 de febrero (la clase será en la [Sala de Maestros](https://escolar.itam.mx/servicios_escolares/Docuemntos/mapa_Rio_hondo_finales.pdf))<a id="orgeb371a1"></a>
 
 -   MORENO [*La evolución cultural en México*](https://github.com/emagar/icp/blob/master/lecturas/moreno-Evolucion-cultural-Mexico2025book.pdf) (2025)
     -   Presentación 3 pp.
@@ -110,7 +110,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   SPRUYT\* [*War, Trade, and State Formation*](https://github.com/emagar/icp/blob/master/lecturas/spruyt-War-trade-and-state-formation-2007arps.pdf) (2007) 23 pp.
 
 
-## Institucionalismo &#x2013; 2, 4 y 9 de marzo<a id="org8e3099d"></a>
+## Institucionalismo &#x2013; 2, 4 y 9 de marzo<a id="org693fbf8"></a>
 
 -   ARISTOTELES [*La política*](https://github.com/emagar/icp/blob/master/lecturas/aristoteles-Politica.pdf) Libro tercero caps. IV-VI (S. IV AC) 11 pp.
 -   HAMILTON, MADISON, JAY *El Federalista* ensayos [#1 #10 #51 #72 y #78](https://github.com/emagar/icp/blob/master/lecturas/federalista-1-10-51-72-78.pdf) (1787) 23 pp.
@@ -127,7 +127,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   CRESPO\* [Del autoritarismo a la democracia: el mito cultural](https://github.com/emagar/icp/blob/master/lecturas/crespo-Cultura-politica1988.pdf) (1988) 14 pp.
 
 
-# Modernización y democracia &#x2013; 18 de marzo<a id="orgeda9a78"></a>
+# Modernización y democracia &#x2013; 18 de marzo<a id="orgc5fda06"></a>
 
 -   PRZEWORSKI y LIMONGI [Modernization: theories and facts](https://github.com/emagar/icp/blob/master/lecturas/przeworski-limongi-Modernization1997wp.pdf) (1997) 24 pp.
 
@@ -178,12 +178,12 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 # Conozca a la facultad del departamento (parte 2)
 
 
-## Adriana ALFARO &#x2013; 15 de abril<a id="org3f2e477"></a>
+## Adriana ALFARO &#x2013; 15 de abril<a id="org09d8021"></a>
 
 -   NUSSBAUM [Compassion: The Basic Social Emotion](https://github.com/emagar/icp/blob/master/lecturas/adriana/Nussbaum-Compassion1996.pdf) 32pp.
 
 
-## Adrián LUCARDI &#x2013; 20 de abril
+## Adrián LUCARDI &#x2013; 20 de abril<a id="orgf031b6f"></a>
 
 -   LUCARDI-ROMERO [Opposition Coordination in Authoritarian Regimes: Evidence from Mexico's 1988 Election](https://github.com/emagar/icp/blob/master/lecturas/lucardi/lucardi-romero-2026-Coordination-in-Mexico-1988.pdf) 27 pp.
 
@@ -193,7 +193,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón 212
 -   No hay lectura.
 
 
-# Ejercicio de integración &#x2013; 27 de abril<a id="org81fcf7e"></a>
+# Ejercicio de integración &#x2013; 27 de abril<a id="orga94b2b2"></a>
 
 Dedicaremos esta clase para escuchar presentaciones personales. Pronto daré los detalles.
 
@@ -207,7 +207,7 @@ Dedicaremos esta clase para escuchar presentaciones personales. Pronto daré los
 -   SHEPSLE *Analizing politics* [cap. 2](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010.pdf) (2010) 25 pp.
 
 
-## Sistemas electoral y de partidos &#x2013; 4 de mayo<a id="org334a526"></a>
+## Sistemas electoral y de partidos &#x2013; 4 de mayo<a id="org4aea866"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
