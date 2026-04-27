@@ -1,8 +1,8 @@
-- [Enlaces a las presentaciones](#org0eec1f3)
+- [Enlaces a las presentaciones](#org001c264)
 
 
 
-<a id="org0eec1f3"></a>
+<a id="org001c264"></a>
 
 # Enlaces a las presentaciones
 
@@ -14,5 +14,6 @@
 -   Inés [aquí](https://itam2-my.sharepoint.com/:b:/g/personal/ibokermo_itam_mx/IQDeSrJaznihR7_tGGeqn-ROAZuOqUnxf3pqAP9wsgWOdjM)
 -   Laura [aquí](https://github.com/emagar/icp/blob/master/presentaciones-personales/laura-swe.pdf)
 -   Lu [https://canva.link/bh90gsy1u09fi96](https://canva.link/bh90gsy1u09fi96)
+-   Rebecca [here](https://canva.link/uj8rmllh8x58skr)
 
 git checkout master README.md presentaciones-personales/daniela.pdf presentaciones-personales/en-canvas.md presentaciones-personales/laura-swe.pdf presentaciones-personales/randonnees.odp presentaciones-personales/randonnees.pdf
