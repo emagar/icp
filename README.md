@@ -18,19 +18,21 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 
 *Tareas y evaluación*: De cada estudiante espero que asista puntualmente a todas las clases habiendo hecho, previamente, todas las lecturas asignadas; que complete las tareas en tiempo y forma; y que participe activamente en el grupo. La evaluación incluye dos exámenes parciales (25% de la calificación cada uno), un examen final acumulativo (25%), controles de lectura (15%) y participación en clase (10%). Los **exámenes** evaluarán el conocimiento de las lecturas del curso, especialmente la capacidad del estudiante para hacer una reflexión crítica de ellas. A fin de cubrir la evaluación de **controles de lectura**, cada estudiante deberá entregar al profesor un total de 15 fichas sintéticas. Cada ficha de lectura será de una sola página, impresa y bien formada, que sintetice claramente el argumento central de alguno de los textos asignados para la clase del día. Las fichas se entregan al inicio de cada sesión y no aceptaré fichas adelantadas ni atrasadas. La **participación** en clase valorará la impresión general de sus intervenciones a lo largo del semestre.
 
-*El buen uso de la inteligencia artificial*: Quien usa las herramientas de IA debe también ser capaz de verificar y evaluar críticamente lo que nos arroja. Si usted usara la IA para la elaboración de cualquier trabajo, es imperativo reportarlo como nota al final, y estar en posibilidad para elaborar acerca de los *prompts* que usó, cómo los fue refinando, y cómo contrasta el resultado arrojado con la síntesis que elaboró a partir de su propia lectura. Tome en cuenta que la IA no sustituye su esfuerzo y dedicación para leer y entender el material y para formar su propio mapa de la literatura política. De hecho, su abuso perjudica su formación.
+*El buen uso de la inteligencia artificial generativa*: Quien usa las herramientas de IAgen debe también ser capaz de verificar y evaluar críticamente lo que nos arroja. Las herramientas son ya ubicuas y tienen un potencial para disparar la productividad, pero conllevan riesgos para quien las usa sin cierto escepticismo, sin bases éticas o sin transparencia. ([Este artículo](https://www.tandfonline.com/doi/full/10.1080/0142159X.2025.2607513) ofrece lineamientos interesantes en el contexto de la investigación en salud, lo leeremos más adelante.) Si usted usara la IAgen para la elaboración de cualquier trabajo, es imperativo **reportarlo como nota al final**, y estar en posibilidad para elaborar acerca de los *prompts* que usó, cómo los fue refinando, y cómo contrasta el resultado arrojado con la síntesis que elaboró a partir de su propia lectura. Tome en cuenta que la IA no sustituye su esfuerzo y dedicación para leer y entender el material y para formar su propio mapa de la literatura política. De hecho, su abuso perjudicará su formación.
 
 *Notas*: (1) La página del curso es <https://github.com/emagar/icp/>. Alberga este temario, las lecturas y el material adicional. (2) El temario probablemente sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto con anticipación en clase.
 
 *Horas de oficina*: los lunes y miércoles de 13:00 a 13:45 o con cita.
 
-*Días de asueto*: miercoles 16 de septiembre (Grito) y lunes 2 de noviembre (Muertos).
+*Días de asueto*: miercoles 16 de septiembre (Grito), lunes 16 de noviembre (Revolución) y lunes 2 de noviembre (Muertos).
 
 *No habrá clases*: lunes 26 y miércoles 28 de octubre.
 
+*Último día para dar materias de baja*: 18 de noviembre.
+
 *Última clase*: miércoles 13 de mayo.
 
-*Examen final*: 2026-05-29 13:00-15:45, salón 111.
+*Exámenes finales*: del lunes 7 al sábado 19 de diciembre.
 
 ---
 
@@ -58,7 +60,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 # El análisis político
 
 
-## Conservación del poder &#x2014; 19 y 24 de agosto
+## Conservar el poder &#x2014; 19 y 24 de agosto
 
 -   MAQUIAVELO [*El príncipe*](https://github.com/emagar/icp/blob/master/lecturas/maquiavelo-principe.pdf) (1532)
     -   Dedicatoria y caps. I-VI y IX 25 pp.
@@ -67,11 +69,12 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 
 ## Lo normativo y lo positivo &#x2014; 26 de agosto
 
--   VILLORO [Ciencia política, filosofía e ideología](https://github.com/emagar/icp/blob/master/lecturas/villoro-CPol-1988.pdf) (1988) 5 pp. (Hay una versión en puro texto [aquí](https://github.com/emagar/icp/blob/master/lecturas/villoro-Ciencia-politica-filosifia-e-ideologia1988vuelta.txt), copie y péguela para traducirla al sueco o inglés.)
--   BHATTACHERJEE *Social Science Research* [cap 1](https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf) (2012) 8 pp.
+-   VILLORO [Ciencia política, filosofía e ideología](https://github.com/emagar/icp/blob/master/lecturas/villoro-CPol-1988.pdf) (1988) 5 pp. (Hay una versión en puro texto [aquí](https://github.com/emagar/icp/blob/master/lecturas/villoro-Ciencia-politica-filosifia-e-ideologia1988vuelta.txt), copie y péguela para traducirla.)
+
+-   KING, KEOHANE y VERBA *Designing Social Inquiry* (1994) cap. 1 pp. 1-32.
 
 
-# El estado-nación<a id="org0e971ff"></a>
+# El estado-nación<a id="orgecc7c44"></a>
 
 
 ## 31 de agosto y 2 de septiembre
@@ -83,15 +86,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Conozca a la facultad del departamento (parte 1)
-
-
-## Alejandro MORENO &#x2013; 7 de septiembre (la clase será en la [Sala de Maestros](https://escolar.itam.mx/servicios_escolares/Docuemntos/mapa_Rio_hondo_finales.pdf))<a id="orgce4b441"></a>
-
--   MORENO [*La evolución cultural en México*](https://github.com/emagar/icp/blob/master/lecturas/moreno-Evolucion-cultural-Mexico2025book.pdf) (2025)
-    -   Presentación 3 pp.
-    -   cap 6 Poliarquistas, populistas y sus antípodas 30 pp.
-    -   cap 8 Colores mexicanos: viejas y nuevas identidades sociales 18 pp.
+# Ejercicio de integración &#x2013; 7 de septiembre<a id="orgb002c52"></a>
 
 
 # PRIMER EXAMEN PARCIAL &#x2013; 9 de septiembre
@@ -123,6 +118,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
     -   cap. 13 Group differences in political orientation pp. 377-401.
 
 -   CRESPO\* [Del autoritarismo a la democracia: el mito cultural](https://github.com/emagar/icp/blob/master/lecturas/crespo-Cultura-politica1988.pdf) (1988) 14 pp.
+-   MAGALONI et al. [State-Evading Solutions to Violence: Organized Crime and Governance in Indigenous Mexico](https://github.com/emagar/icp/blob/master/lecturas/anto/ssrn-4007565.pdf) (2021) 38 pp.
 
 
 # Modernización y democracia &#x2013; 5 de octubre
@@ -173,17 +169,21 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 # SEGUNDO EXAMEN PARCIAL &#x2013; Se entrega el 4 de noviembre
 
 
-# Conozca a la facultad del departamento (parte 2)
+# Conozca a la facultad del departamento
 
 
-## Adriana ALFARO &#x2013; 4 de noviembre<a id="org566611b"></a>
+## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="org653236d"></a>
 
--   NUSSBAUM [Compassion: The Basic Social Emotion](https://github.com/emagar/icp/blob/master/lecturas/adriana/Nussbaum-Compassion1996.pdf) 32pp.
+-   EMANUEL et al. [An ethical framework for global vaccine allocation](https://github.com/emagar/icp/blob/master/lecturas/ana/emanuel.etal-Ethical-framework-for-global-vaccine2020sc.pdf) (2020) 5 pp.
 
 
-## Adrián LUCARDI &#x2013; 9 de noviembre<a id="orgb658426"></a>
+## Felipe CURCÓ &#x2013; 9 de noviembre<a id="org2ca862c"></a>
 
--   LUCARDI-ROMERO [Opposition Coordination in Authoritarian Regimes: Evidence from Mexico's 1988 Election](https://github.com/emagar/icp/blob/master/lecturas/lucardi/lucardi-romero-2026-Coordination-in-Mexico-1988.pdf) 27 pp. ([Aquí](https://github.com/emagar/icp/blob/master/clases/lucardi/Lucardi-IntroCPol-2026-04-20.pdf) las láminas que circuló.)
+-   CURCÓ Emociones y Racionalidad
+
+-   Presentación 3 pp.
+-   cap 6 Poliarquistas, populistas y sus antípodas 30 pp.
+-   cap 8 Colores mexicanos: viejas y nuevas identidades sociales 18 pp.
 
 
 # Corrección del segundo parcial &#x2013; 11 de noviembre
@@ -191,7 +191,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 -   No hay lectura.
 
 
-# Ejercicio de integración &#x2013; 16 de noviembre<a id="org24b87f6"></a>
+# Ejercicio de integración &#x2013; 16 de noviembre<a id="orgcc77838"></a>
 
 Dedicaremos esta clase para escuchar presentaciones personales. Pronto daré los detalles.
 
@@ -205,7 +205,7 @@ Dedicaremos esta clase para escuchar presentaciones personales. Pronto daré los
 -   SHEPSLE *Analizing politics* [cap. 2](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010.pdf) (2010) 25 pp.
 
 
-## Sistemas electoral y de partidos &#x2013; 23 de noviembre<a id="org240ffe0"></a>
+## Sistemas electoral y de partidos &#x2013; 23 de noviembre<a id="orgb4af3dd"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
