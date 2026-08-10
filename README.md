@@ -74,7 +74,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 -   KING, KEOHANE y VERBA *Designing Social Inquiry* (1994) cap. 1 pp. 1-32.
 
 
-# El estado-nación<a id="org3bae615"></a>
+# El estado-nación<a id="org18bdc57"></a>
 
 
 ## 31 de agosto y 2 de septiembre
@@ -86,13 +86,13 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Ejercicio de integración &#x2013; 7 de septiembre<a id="org0846134"></a>
+# Ejercicio de integración &#x2013; 7 de septiembre<a id="org4be95c3"></a>
 
 
 # PRIMER EXAMEN PARCIAL &#x2013; 9 de septiembre
 
 
-# Estructuras en ciencia social
+# Las estructuras en ciencia social
 
 
 ## Materialismo &#x2013; 14 de septiembre
@@ -172,18 +172,14 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 # Conozca a la facultad del departamento
 
 
-## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="org55715c0"></a>
+## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="orge570766"></a>
 
 -   EMANUEL et al. [An ethical framework for global vaccine allocation](https://github.com/emagar/icp/blob/master/lecturas/ana/emanuel.etal-Ethical-framework-for-global-vaccine2020sc.pdf) (2020) 5 pp.
 
 
-## Felipe CURCÓ &#x2013; 9 de noviembre<a id="org93f6687"></a>
+## Felipe CURCÓ &#x2013; 9 de noviembre<a id="org50872d4"></a>
 
 -   CURCÓ Emociones y Racionalidad
-
--   Presentación 3 pp.
--   cap 6 Poliarquistas, populistas y sus antípodas 30 pp.
--   cap 8 Colores mexicanos: viejas y nuevas identidades sociales 18 pp.
 
 
 # Corrección del segundo parcial &#x2013; 11 de noviembre
@@ -191,7 +187,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 -   No hay lectura.
 
 
-# Ejercicio de integración &#x2013; 16 de noviembre<a id="orgc80072c"></a>
+# Ejercicio de integración &#x2013; 16 de noviembre<a id="org82bb2e5"></a>
 
 Dedicaremos esta clase para escuchar presentaciones personales. Pronto daré los detalles.
 
@@ -205,7 +201,7 @@ Dedicaremos esta clase para escuchar presentaciones personales. Pronto daré los
 -   SHEPSLE *Analizing politics* [cap. 2](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010.pdf) (2010) 25 pp.
 
 
-## Sistemas electoral y de partidos &#x2013; 23 de noviembre<a id="org22de939"></a>
+## Sistemas electoral y de partidos &#x2013; 23 de noviembre<a id="org3a0f215"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
