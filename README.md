@@ -18,7 +18,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 
 *Tareas y evaluación*: De cada estudiante espero que asista puntualmente a todas las clases habiendo hecho, previamente, todas las lecturas asignadas; que complete las tareas en tiempo y forma; y que participe activamente en el grupo. La evaluación incluye dos exámenes parciales (25% de la calificación cada uno), un examen final acumulativo (25%), controles de lectura (15%) y participación en clase (10%). Los **exámenes** evaluarán el conocimiento de las lecturas del curso, especialmente la capacidad del estudiante para hacer una reflexión crítica de ellas. A fin de cubrir la evaluación de **controles de lectura**, cada estudiante deberá entregar al profesor un total de 15 fichas sintéticas. Cada ficha de lectura será de una sola página, impresa y bien formada, que sintetice claramente el argumento central de alguno de los textos asignados para la clase del día. Las fichas se entregan al inicio de cada sesión y no aceptaré fichas adelantadas ni atrasadas. La **participación** en clase valorará la impresión general de sus intervenciones a lo largo del semestre.
 
-*El buen uso de la inteligencia artificial generativa*: Quien usa las herramientas de IAgen debe también ser capaz de verificar y evaluar críticamente lo que nos arroja. Las herramientas son ya ubicuas y tienen un potencial para disparar la productividad, pero conllevan riesgos para quien las usa sin cierto escepticismo, sin bases éticas o sin transparencia. ([Este artículo](https://www.tandfonline.com/doi/full/10.1080/0142159X.2025.2607513) ofrece lineamientos interesantes en el contexto de la investigación en salud, lo leeremos más adelante.) Si usted usara la IAgen para la elaboración de cualquier trabajo, es imperativo **reportarlo como nota al final**, y estar en posibilidad para elaborar acerca de los *prompts* que usó, cómo los fue refinando, y cómo contrasta el resultado arrojado con la síntesis que elaboró a partir de su propia lectura. Tome en cuenta que la IA no sustituye su esfuerzo y dedicación para leer y entender el material y para formar su propio mapa de la literatura política. De hecho, su abuso perjudicará su formación.
+*El buen uso de la inteligencia artificial generativa*: Quien usa las herramientas de IAgen debe también ser capaz de verificar y evaluar críticamente lo que nos arroja. Las herramientas son ya ubicuas y tienen un potencial para disparar la productividad, pero conllevan riesgos para quien las usa sin cierto escepticismo, sin bases éticas o sin transparencia. ([Este artículo](https://www.tandfonline.com/doi/full/10.1080/0142159X.2025.2607513) ofrece lineamientos interesantes en el contexto de la investigación en salud, lo leeremos más adelante.) Si usted usara la IAgen para la elaboración de cualquier trabajo, es imperativo **reportarlo como nota al final**, y estar en posibilidad para elaborar acerca de los *prompts* que usó, cómo los fue refinando, y cómo contrasta el resultado arrojado con la síntesis que elaboró a partir de su propia lectura. Tome en cuenta que la IAgen no sustituye su esfuerzo y dedicación para leer y entender el material y para formar su propio mapa de la literatura política. De hecho, su abuso perjudicará su formación.
 
 *Notas*: (1) La página del curso es <https://github.com/emagar/icp/>. Alberga este temario, las lecturas y el material adicional. (2) El temario probablemente sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto con anticipación en clase.
 
@@ -74,7 +74,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 -   KING, KEOHANE y VERBA *Designing Social Inquiry* (1994) cap. 1 pp. 1-32.
 
 
-# El estado-nación<a id="orgecc7c44"></a>
+# El estado-nación<a id="org3bae615"></a>
 
 
 ## 31 de agosto y 2 de septiembre
@@ -86,7 +86,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Ejercicio de integración &#x2013; 7 de septiembre<a id="orgb002c52"></a>
+# Ejercicio de integración &#x2013; 7 de septiembre<a id="org0846134"></a>
 
 
 # PRIMER EXAMEN PARCIAL &#x2013; 9 de septiembre
@@ -172,12 +172,12 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 # Conozca a la facultad del departamento
 
 
-## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="org653236d"></a>
+## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="org55715c0"></a>
 
 -   EMANUEL et al. [An ethical framework for global vaccine allocation](https://github.com/emagar/icp/blob/master/lecturas/ana/emanuel.etal-Ethical-framework-for-global-vaccine2020sc.pdf) (2020) 5 pp.
 
 
-## Felipe CURCÓ &#x2013; 9 de noviembre<a id="org2ca862c"></a>
+## Felipe CURCÓ &#x2013; 9 de noviembre<a id="org93f6687"></a>
 
 -   CURCÓ Emociones y Racionalidad
 
@@ -191,7 +191,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 -   No hay lectura.
 
 
-# Ejercicio de integración &#x2013; 16 de noviembre<a id="orgcc77838"></a>
+# Ejercicio de integración &#x2013; 16 de noviembre<a id="orgc80072c"></a>
 
 Dedicaremos esta clase para escuchar presentaciones personales. Pronto daré los detalles.
 
@@ -205,7 +205,7 @@ Dedicaremos esta clase para escuchar presentaciones personales. Pronto daré los
 -   SHEPSLE *Analizing politics* [cap. 2](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010.pdf) (2010) 25 pp.
 
 
-## Sistemas electoral y de partidos &#x2013; 23 de noviembre<a id="orgb4af3dd"></a>
+## Sistemas electoral y de partidos &#x2013; 23 de noviembre<a id="org22de939"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
