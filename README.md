@@ -74,7 +74,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 -   KING, KEOHANE y VERBA *Designing Social Inquiry* (1994) cap. 1 pp. 1-32.
 
 
-# El estado-nación<a id="org18bdc57"></a>
+# El estado-nación<a id="org599b9c6"></a>
 
 
 ## 31 de agosto y 2 de septiembre
@@ -86,7 +86,9 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Ejercicio de integración &#x2013; 7 de septiembre<a id="org4be95c3"></a>
+# Ejercicio de integración &#x2013; 7 de septiembre<a id="org0eb9f44"></a>
+
+Dedicaremos esta clase para escuchar presentaciones personales. Pronto daré los detalles.
 
 
 # PRIMER EXAMEN PARCIAL &#x2013; 9 de septiembre
@@ -172,12 +174,12 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 # Conozca a la facultad del departamento
 
 
-## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="orge570766"></a>
+## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="org6aa4e0e"></a>
 
 -   EMANUEL et al. [An ethical framework for global vaccine allocation](https://github.com/emagar/icp/blob/master/lecturas/ana/emanuel.etal-Ethical-framework-for-global-vaccine2020sc.pdf) (2020) 5 pp.
 
 
-## Felipe CURCÓ &#x2013; 9 de noviembre<a id="org50872d4"></a>
+## Felipe CURCÓ &#x2013; 9 de noviembre<a id="orgd6dacbb"></a>
 
 -   CURCÓ Emociones y Racionalidad
 
@@ -187,31 +189,26 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 -   No hay lectura.
 
 
-# Ejercicio de integración &#x2013; 16 de noviembre<a id="org82bb2e5"></a>
-
-Dedicaremos esta clase para escuchar presentaciones personales. Pronto daré los detalles.
-
-
 # Menú de conceptos para el análisis (cont.)
 
 
-## La racionalidad instrumental &#x2013; 18 de noviembre
+## La racionalidad instrumental &#x2013; 16 de noviembre
 
 -   DOWNS [*An Economic Theory of Democracy*](https://github.com/emagar/icp/blob/master/lecturas/downs-MVT1958.pdf) (1958) 28 pp.
 -   SHEPSLE *Analizing politics* [cap. 2](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010.pdf) (2010) 25 pp.
 
 
-## Sistemas electoral y de partidos &#x2013; 23 de noviembre<a id="org3a0f215"></a>
+## Sistemas electoral y de partidos &#x2013; 18 de noviembre<a id="orgd7feb31"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
 
-## La capacidad estatal &#x2013; 25 de noviembre
+## La capacidad estatal &#x2013; 23 de noviembre
 
 -   GARFIAS [Elite competition and state capacity development](https://github.com/emagar/icp/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf) (2018) 18 pp.
 
 
-## El modelo distributivo, clientelismo y populismo &#x2013; 30 de noviembre
+## El modelo distributivo, clientelismo y populismo &#x2013; 25 y 30 de noviembre
 
 -   Proyectaré la película The Last Hurrah de J. Ford (1958).
 
