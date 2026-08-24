@@ -2,7 +2,7 @@
 
 <h2> Anuncios </h2>
 
-<sup><sub>2026-08-10</sub></sup> ¡Bienvenid@s! No hay lectura para la clase de hoy.
+<sup><sub>2026-08-24</sub></sup> Necesitaré voluntari@s para hacer presentaciones personales el
 
 ---
 
@@ -71,10 +71,10 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 
 -   VILLORO [Ciencia política, filosofía e ideología](https://github.com/emagar/icp/blob/master/lecturas/villoro-CPol-1988.pdf) (1988) 5 pp. (Hay una versión en puro texto [aquí](https://github.com/emagar/icp/blob/master/lecturas/villoro-Ciencia-politica-filosifia-e-ideologia1988vuelta.txt), copie y péguela para traducirla.)
 
--   KING, KEOHANE y VERBA *Designing Social Inquiry* (1994) cap. 1 pp. 1-32.
+-   KING, KEOHANE y VERBA *Designing Social Inquiry* (1994) [cap. 1](https://github.com/emagar/icp/blob/master/lecturas/kkv1993ch1.pdf) pp. 3-12 (el resto del cap. les servirá de referencia futura).
 
 
-# El estado-nación<a id="orgddf152f"></a>
+# El estado-nación<a id="orgb0a9c3d"></a>
 
 
 ## 31 de agosto y 2 de septiembre
@@ -86,12 +86,12 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 -   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
-# Ejercicio de integración &#x2013; 7 de septiembre<a id="org3f3cd6b"></a>
-
-Dedicaremos esta clase para escuchar presentaciones personales. Pronto daré los detalles.
+# PRIMER EXAMEN PARCIAL &#x2013; 7 de septiembre
 
 
-# PRIMER EXAMEN PARCIAL &#x2013; 9 de septiembre
+# Ejercicio de integración &#x2013; 9 de septiembre<a id="orga473a59"></a>
+
+Dedicaremos esta clase para escuchar presentaciones personales. Daré los detalles en clase.
 
 
 # Las estructuras en ciencia social
@@ -174,12 +174,12 @@ Dedicaremos esta clase para escuchar presentaciones personales. Pronto daré los
 # Conozca a la facultad del departamento
 
 
-## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="org02e4af2"></a>
+## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="org6ab6d94"></a>
 
 -   EMANUEL et al. [An ethical framework for global vaccine allocation](https://github.com/emagar/icp/blob/master/lecturas/ana/emanuel.etal-Ethical-framework-for-global-vaccine2020sc.pdf) (2020) 5 pp.
 
 
-## Felipe CURCÓ &#x2013; 9 de noviembre<a id="orga9d04c4"></a>
+## Felipe CURCÓ &#x2013; 9 de noviembre<a id="org5d6a049"></a>
 
 -   CURCÓ Emociones y Racionalidad
 
@@ -198,7 +198,7 @@ Dedicaremos esta clase para escuchar presentaciones personales. Pronto daré los
 -   SHEPSLE *Analizing politics* [cap. 2](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010.pdf) (2010) 25 pp.
 
 
-## Sistemas electoral y de partidos &#x2013; 18 de noviembre<a id="orgb27c38b"></a>
+## Sistemas electoral y de partidos &#x2013; 18 de noviembre<a id="orgcb6177f"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
