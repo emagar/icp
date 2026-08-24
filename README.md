@@ -2,7 +2,7 @@
 
 <h2> Anuncios </h2>
 
-<sup><sub>2026-08-24</sub></sup> Necesitaré voluntari@s para hacer presentaciones personales el
+<sup><sub>2026-08-24</sub></sup> Necesitaré voluntari@s para hacer presentaciones personales el 9 de sept.
 
 ---
 
@@ -74,7 +74,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 -   KING, KEOHANE y VERBA *Designing Social Inquiry* (1994) [cap. 1](https://github.com/emagar/icp/blob/master/lecturas/kkv1993ch1.pdf) pp. 3-12 (el resto del cap. les servirá de referencia futura).
 
 
-# El estado-nación<a id="orgb0a9c3d"></a>
+# El estado-nación<a id="orgd6f3c81"></a>
 
 
 ## 31 de agosto y 2 de septiembre
@@ -89,7 +89,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 # PRIMER EXAMEN PARCIAL &#x2013; 7 de septiembre
 
 
-# Ejercicio de integración &#x2013; 9 de septiembre<a id="orga473a59"></a>
+# Ejercicio de integración &#x2013; 9 de septiembre<a id="org6218d7e"></a>
 
 Dedicaremos esta clase para escuchar presentaciones personales. Daré los detalles en clase.
 
@@ -174,12 +174,12 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 # Conozca a la facultad del departamento
 
 
-## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="org6ab6d94"></a>
+## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="org81223e1"></a>
 
 -   EMANUEL et al. [An ethical framework for global vaccine allocation](https://github.com/emagar/icp/blob/master/lecturas/ana/emanuel.etal-Ethical-framework-for-global-vaccine2020sc.pdf) (2020) 5 pp.
 
 
-## Felipe CURCÓ &#x2013; 9 de noviembre<a id="org5d6a049"></a>
+## Felipe CURCÓ &#x2013; 9 de noviembre<a id="orgaa5cec3"></a>
 
 -   CURCÓ Emociones y Racionalidad
 
@@ -198,7 +198,7 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 -   SHEPSLE *Analizing politics* [cap. 2](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010.pdf) (2010) 25 pp.
 
 
-## Sistemas electoral y de partidos &#x2013; 18 de noviembre<a id="orgcb6177f"></a>
+## Sistemas electoral y de partidos &#x2013; 18 de noviembre<a id="orgfb53b93"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
