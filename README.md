@@ -2,6 +2,8 @@
 
 <h2> Anuncios </h2>
 
+<sup><sub>2026-09-07</sub></sup> No hay lecturas para el miércoles 9 de sept. L@s voluntari@s harán presentaciones.
+
 <sup><sub>2026-09-03</sub></sup> El examen parcial es el 7 de sept. Si no asistió a clase el 2 de sept., cuando di las instrucciones, busque a sus compañeros para que se las expliquen.
 
 ---
@@ -74,7 +76,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 -   KING, KEOHANE y VERBA *Designing Social Inquiry* (1994) [cap. 1](https://github.com/emagar/icp/blob/master/lecturas/kkv1993ch1.pdf) pp. 3-12 (el resto del cap. les servirá de referencia futura).
 
 
-# El estado-nación<a id="org7e928a0"></a>
+# El estado-nación<a id="org9a3ed00"></a>
 
 
 ## 31 de agosto y 2 de septiembre
@@ -88,7 +90,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 # PRIMER EXAMEN PARCIAL &#x2013; 7 de septiembre
 
 
-# Ejercicio de integración &#x2013; 9 de septiembre<a id="orge781efc"></a>
+# Ejercicio de integración &#x2013; 9 de septiembre<a id="org3aaf6d1"></a>
 
 Dedicaremos esta clase para escuchar presentaciones personales. Daré los detalles en clase.
 
@@ -173,12 +175,12 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 # Conozca a la facultad del departamento
 
 
-## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="org0b0ab34"></a>
+## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="org7127b16"></a>
 
 -   EMANUEL et al. [An ethical framework for global vaccine allocation](https://github.com/emagar/icp/blob/master/lecturas/ana/emanuel.etal-Ethical-framework-for-global-vaccine2020sc.pdf) (2020) 5 pp.
 
 
-## Felipe CURCÓ &#x2013; 9 de noviembre<a id="orgb9e0dff"></a>
+## Felipe CURCÓ &#x2013; 9 de noviembre<a id="org1608ac3"></a>
 
 -   CURCÓ Emociones y Racionalidad
 
@@ -197,7 +199,7 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 -   SHEPSLE *Analizing politics* [cap. 2](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010.pdf) (2010) 25 pp.
 
 
-## Sistemas electoral y de partidos &#x2013; 18 de noviembre<a id="org4f37e22"></a>
+## Sistemas electoral y de partidos &#x2013; 18 de noviembre<a id="orgbf917d9"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
