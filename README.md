@@ -2,9 +2,7 @@
 
 <h2> Anuncios </h2>
 
-<sup><sub>2026-09-07</sub></sup> No hay lecturas para el miércoles 9 de sept. L@s voluntari@s harán presentaciones.
-
-<sup><sub>2026-09-03</sub></sup> El examen parcial es el 7 de sept. Si no asistió a clase el 2 de sept., cuando di las instrucciones, busque a sus compañeros para que se las expliquen.
+<sup><sub>2026-09-14</sub></sup> La clase materialismo pasará para el lunes 21 de septiembre. Hoy repasaremos la corrección del examen parcial.
 
 ---
 
@@ -76,7 +74,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 -   KING, KEOHANE y VERBA *Designing Social Inquiry* (1994) [cap. 1](https://github.com/emagar/icp/blob/master/lecturas/kkv1993ch1.pdf) pp. 3-12 (el resto del cap. les servirá de referencia futura).
 
 
-# El estado-nación<a id="org9a3ed00"></a>
+# El estado-nación<a id="orgc9a69ca"></a>
 
 
 ## 31 de agosto y 2 de septiembre
@@ -90,7 +88,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 # PRIMER EXAMEN PARCIAL &#x2013; 7 de septiembre
 
 
-# Ejercicio de integración &#x2013; 9 de septiembre<a id="org3aaf6d1"></a>
+# Ejercicio de integración &#x2013; 9 de septiembre<a id="org76b644e"></a>
 
 Dedicaremos esta clase para escuchar presentaciones personales. Daré los detalles en clase.
 
@@ -102,8 +100,6 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 
 -   MARX y ENGELS [*El manifiesto del partido comunista*](https://github.com/emagar/icp/blob/master/lecturas/marx-engels-El-manifiesto-del-pc1848.pdf) (1848) 42 pp.
 -   MCCLAIN [How presidential elections are impacted by a 100 million year old coastline](https://deepseanews.com/2012/06/how-presidential-elections-are-impacted-by-a-100-million-year-old-coastline/) 5 pp.
-
--   SPRUYT\* [*War, Trade, and State Formation*](https://github.com/emagar/icp/blob/master/lecturas/spruyt-War-trade-and-state-formation-2007arps.pdf) (2007) 23 pp.
 
 
 ## Institucionalismo &#x2013; 21, 23 y 28 de septiembre
@@ -175,12 +171,12 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 # Conozca a la facultad del departamento
 
 
-## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="org7127b16"></a>
+## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="org0952fd6"></a>
 
 -   EMANUEL et al. [An ethical framework for global vaccine allocation](https://github.com/emagar/icp/blob/master/lecturas/ana/emanuel.etal-Ethical-framework-for-global-vaccine2020sc.pdf) (2020) 5 pp.
 
 
-## Felipe CURCÓ &#x2013; 9 de noviembre<a id="org1608ac3"></a>
+## Felipe CURCÓ &#x2013; 9 de noviembre<a id="org8d024d7"></a>
 
 -   CURCÓ Emociones y Racionalidad
 
@@ -199,7 +195,7 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 -   SHEPSLE *Analizing politics* [cap. 2](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010.pdf) (2010) 25 pp.
 
 
-## Sistemas electoral y de partidos &#x2013; 18 de noviembre<a id="orgbf917d9"></a>
+## Sistemas electoral y de partidos &#x2013; 18 de noviembre<a id="org75d45b5"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
