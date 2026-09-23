@@ -1,0 +1,547 @@
+#+STARTUP: showall
+#+TITLE:     El (neo)institucionalismo
+#+AUTHOR:    Aristóteles y Federalista
+#+EMAIL:     emagar@itam.mx
+#+DATE:      23-9-2026
+#+OPTIONS:   H:2 num:t toc:f \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:https://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LANGUAGE:  es
+
+#+STARTUP: beamer
+#+LaTeX_CLASS: beamer
+#+LaTeX_CLASS_OPTIONS: [bigger]
+
+# # Uncomment to print handout without overlay notes:
+# #+LaTeX_CLASS_OPTIONS: [handout]
+# #+LATEX_HEADER: \usepackage{pgfpages}
+# #+LATEX_HEADER: \pgfpagesuselayout{6 on 1}[letterpaper]
+
+# #+begin_latex
+# \mode<handout>{%
+#     \pgfpagesuselayout{4 on 1}[letterpaper] 
+#     \setbeameroption{show notes}
+# }
+# #+end_latex
+
+#+BEAMER_THEME: Rochester [height=20pt]
+# #+BEAMER_COLOR_THEME: wolverine
+#+BEAMER_COLOR_THEME: seahorse
+
+# setting this to 2 uses one star as sections two stars as new slide
+#+BEAMER_FRAME_LEVEL: 2
+
+# Show toc at beginning of each section
+#+latex_header: \AtBeginSection[]{\begin{frame}<beamer>\frametitle{Guía}\tableofcontents[currentsection]\end{frame}}
+
+#+COLUMNS: %45ITEM %10BEAMER_env(Env) %10BEAMER_envargs(Env Args) %4BEAMER_col(Col) %8BEAMER_extra(Extra)
+
+#+LATEX_HEADER: \usepackage[spanish, mexico]{babel}
+#+LATEX_HEADER: \uselanguage{Spanish}
+#+LATEX_HEADER: \languagepath{Spanish}
+
+# gets rid of bottom navigation bars
+#+BEAMER_HEADER: \setbeamertemplate{footline}[frame number]{}
+
+# gets rid of bottom navigation symbols
+#+BEAMER_HEADER: \setbeamertemplate{navigation symbols}{}
+
+# adds frame number
+#+BEAMER_HEADER: \expandafter\def\expandafter\insertshorttitle\expandafter{%
+#+BEAMER_HEADER:   \insertshorttitle\hfill%
+#+BEAMER_HEADER:   \insertframenumber}
+#+BEAMER_HEADER: %  \insertframenumber\,/\,\inserttotalframenumber}
+
+# add extended math symbols
+#+LATEX_HEADER: \usepackage{mathtools}
+
+# read external link symbol code store in current directory
+# usage: \ExternalLink
+#+LATEX_HEADER: \input{ext-link.tex}
+
+# fix include graphics with pause (.sty in current directory) 
+#+LATEX_HEADER: \usepackage{fixpauseincludegraphics}
+
+# Math features such as align equation etc.
+#+LATEX_HEADER: \usepackage{mathtools}
+#+LATEX_HEADER: \usepackage{amssymb}
+
+# Reference card org-beamer: https://github.com/fniessen/refcard-org-beamer
+
+\setbeamercovered{transparent}
+
+* Lo primero
+** La estructura de la política
+¿Cuáles son las restricciones a la conducta humana?
+*** 3 escuelas
+- materialista :: mundo físico
+- institucionalista :: \alert{reglas de conducta}
+- culturalista :: valores compartidos
+** Las instituciones: grandes acepciones
+|                             <c>                             |                            <c>                            |
+|               a) Una organización establecida               |                b) Prestigio por antigüedad                |
+| \includegraphics[width=.5\textwidth]{./pics/opus-night.png} |  \includegraphics[width=.3\textwidth]{./pics/patti.png}   |
+|                c) Un edificio especializado                 |                  d) Una práctica social                   |
+|    \includegraphics[width=.3\textwidth]{./pics/carcel.png}  | \includegraphics[width=.2\textwidth]{./pics/marriage.jpg} |
+# ** Las instituciones
+# *** 
+#     :PROPERTIES:
+#     :BEAMER_col: .5
+#     :END:
+# | a) | \includegraphics[width=.9\textwidth]{./pics/opus-night.png} \newline |
+# | b) | \includegraphics[width=.45\textwidth]{./pics/marriage.jpg}         |
+# *** 
+#     :PROPERTIES:
+#     :BEAMER_col: .5
+#     :END:
+# | c) |\includegraphics[width=.45\textwidth]{./pics/sabritones.jpg} \newline
+# | d) |\includegraphics[width=.8\textwidth]{./pics/pri.jpg}
+** Definición
+***                                                         :B_ignoreheading:
+    :PROPERTIES:
+    :BEAMER_env: ignoreheading
+    :END:
+#+begin_latex
+\begin{description}
+\item<1>[Durkheim] ``Puede llamarse \alert{institución} todas las creencias y todos los modos de conducta instituidos por la colectividad... la sociología es la ciencia de las instituciones, de su génesis, de su funcionamiento''
+% E. Durkheim note qu’« il y a un mot qui, pourvu toutefois qu’on en étende un peu l’acception ordinaire, exprime assez bien cette manière d’être très spéciale : c’est celui d’institution. On peut en effet, sans dénaturer le sens de cette expression, appeler institution toutes les croyances et tous les modes de conduite institués par la collectivité ; la sociologie peut alors être définie : la science des institutions, de leur genèse, de leur fonctionnement » Préface 2ème edition des Règles de la méthode sociologique 1895
+\item<2->[North] Las \alert<2,5->{instituciones} son restricciones \newline \alert<3>{creadas por personas} para dar forma a la \alert<4>{interacción} con otras personas
+\pause \pause \pause \bigskip
+\end{description}
+#+end_latex
+***                                                         :B_ignoreheading:
+    :PROPERTIES:
+    :BEAMER_env: ignoreheading
+    :END:
+\bigskip \pause
+*** Algunas propiedades
+- formales e informales (peatones y contacto visual)
+- ganadores y perdedores (IVA cero en alimentos)
+- eficientes o ineficientes (taxis aeropuerto)
+- /path dependence/ \newline (23 sep. 2026 = \emph{2 vendimiario año CCXXXV})
+# https://www.herodote.net/calendrier-gregorien-republicain.php
+# - /path dependence/ \newline (24 sep. 2025 = \emph{3ero vendimiario año CCXXXIV})
+** Aristóteles
+***                                                         :B_ignoreheading:
+    :PROPERTIES:
+    :BEAMER_env: ignoreheading
+    :END:
+|        | Virtuosa     | Viciosa              |
+|--------+--------------+----------------------|
+| uno    | monarquía    | tiranía              |
+| pocos  | aristocracia | oligarquía           |
+| muchos | república    | demagogia/democracia |
+***                                                         :B_ignoreheading:
+    :PROPERTIES:
+    :BEAMER_env: ignoreheading
+    :END:
+**** Áreas cPol                                                     :B_block:
+    :PROPERTIES:
+    :BEAMER_col: .5
+    :BEAMER_env: block
+    :END:
+- teoría política \varphi   
+- política comparada
+- política mexicana 
+- RR.II.            
+**** La constitución ideal ¿existe?                                                               :B_block:
+    :PROPERTIES:
+    :BEAMER_col: .5
+    :BEAMER_env: block
+    :END:
+¿Por qué pondría fin a la división política? \footnotesize{Imperio--1824--1836--1857--Imperio--1917}
+** Neo-institucionalismo
+Descolonización
+*** Reglas necesitan gente
+#+begin_latex
+    \centering
+    \usetikzlibrary{decorations.pathreplacing}
+    \begin{tikzpicture}
+      \node at (0,0)   (i) {instituciones}; 
+      \node at (4,1)   (p) {preferencias}; 
+      \node at (4,0) {*}; 
+      \node at (4,-1)   (a) {alternativas}; 
+      \draw[->] (i) -- node[sloped, above] {\footnotesize{incentivos}} (p);
+      \draw[->] (i) -- node[sloped, above] {\footnotesize{definen}} (a);
+      \draw [decorate,decoration={brace,amplitude=10pt},xshift=-4pt,yshift=0pt]
+(5.5,1) -- (5.5,-1) node [black,midway,xshift=2cm] {elección/desenlace};
+    \end{tikzpicture}
+#+end_latex
+***                                 :B_ignoreheading:
+    :PROPERTIES:
+    :BEAMER_env: ignoreheading
+    :END:
+|           <r> | <c>  | <l>              |
+| instituciones |  =   | reglas del juego |
+|               | \neq | organizaciones   |
+Las \alert{organizaciones} son equipos que compiten en un juego cuyas reglas definen las \alert{instituciones} \\ 
+\medskip \footnotesize $\rightarrow$ P.ej. partidos, grupos de interés, legisladores...
+# **** 
+#      :PROPERTIES:
+#      :BEAMER_col: .65
+#      :END:
+# \centering
+# actores y sus objetivos \newline + \newline instituciones encausan sus acciones
+# ****                                                                :B_block:
+#      :PROPERTIES:
+#      :BEAMER_col: .1
+#      :END:
+# \includegraphics[width=.1\textwidth]{./pics/accolade.png}
+# ****                                                                :B_block:
+#      :PROPERTIES:
+#      :BEAMER_col: .25
+#      :END:
+# desenlaces
+** Instituciones estudiadas
+- pres/parl, SOP
+- federalismo
+- sistemas electorales
+- derechos de propiedad
+- reelección
+- regulación, /fire alarms/
+** SOP
+- Hobbes, /state-building/ (Afganistán, Irak)
+- Capacidad (Spruyt, Tilly, Garfias) 
+- ¿Límites? liberalismo \bigskip
+*** Contrato
+- incompleto
+
+** SOP
+*** McNollgast: una constitución es un contrato que a la vez
+- otorga \textcolor{green}{facultades} al gobernante para resolver problemas de la comunidad
+- establece \textcolor{red}{procedimientos} como instrumentos de control político.
+***                                                         :B_ignoreheading:
+    :PROPERTIES:
+    :BEAMER_env: ignoreheading
+    :END:
+\bigskip $\rightarrow$ Como siempre, es un contrato incompleto
+
+\bigskip $\rightarrow$ Decides /a priori/
+** La incertidumbre del constituyente
+*** El dilema de Madison
+# ``Al organizar un gobierno la gran dificultad estriba en esto: primero hay que capacitar al gobierno para *controlar a los gobernados* luego obligarlo a *controlarse a sí mismo*''
+***                                                         :B_ignoreheading:
+    :PROPERTIES:
+    :BEAMER_env: ignoreheading
+    :END:
+- Versión clásica de la relación principal--agente
+- $\frac{Pr(\text{rey filósofo})}{Pr(\text{tirano})} \rightarrow 0$
+*** cont cita
+# ``Si los hombres fuesen ángeles, el gobierno no sería necesario. Si los ángeles gobernaran a los hombres, saldrían sobrando lo mismo las contralorías \textbf{externas} que las \textbf{internas} del gobierno''
+*** Lo paradójico                                                   :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+¿Permite evitar arbitrariedades un documento escrito? 
+- Weingast, punto focal
+- Las armas como sostén institucional 
+** Madison
+*** El dilema
+``Al organizar un gobierno la gran dificultad estriba en esto: primero hay que capacitar al gobierno para \textbf{controlar a los gobernados} luego obligarlo a \textbf{controlarse a sí mismo}'' \pause
+*** cont
+``Si los hombres fuesen ángeles, el gobierno no sería necesario. Si los ángeles gobernaran a los hombres, saldrían sobrando lo mismo las contralorías \textbf{externas} que las \textbf{internas} del gobierno''
+** Montesquieu vs Madison
+| \includegraphics[width=.3\textwidth]{./pics/jello.png}  | \includegraphics[width=.525\textwidth]{./pics/marbre-tricolore.png} |
+** /El Federalista/ defensa de la SdP
+- 1776: las 13 colonias se independizaron
+- Confederación: problemas de acción colectiva
+- 1787: convención en Filadelfia para sugerir reformas
+- Se extralimitaron, sólo 39/55 delegados firmaron
+- 9+ estados debían ratificar popularmente
+- 85 ensayos anónimos, campaña de ratificación en NY
+** Madison escribió los importantes
+*** Aspectos del mismo argumento                                    :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+\pause 
+#+begin_latex
+\begin{enumerate}
+\item<2,5> Ni la democracia directa, ni la oligarquía son formas de gobierno aceptables. \alert<5>{Soberanía popular sin excesos}
+\item<3,5> Somos falibles, no somos ángeles. Se requieren \newline \alert<5>{frenos y contrapesos} para contener el interés individual y de facción, protegiendo así el bien común
+\item<4-> Una república más \alert<5>{grande es mejor}, más amplio abanico de intereses. Menor riesgo de que siempre gane el mismo grupo; otros podrán coaligarse
+\end{enumerate}
+#+end_latex
+***                                                         :B_ignoreheading:
+    :PROPERTIES:
+    :BEAMER_env: ignoreheading
+    :END:
+\pause \pause \pause $\rightarrow$ resortes de la CPEUM
+** Viscosidad
+\centering
+\includegraphics[width=.65\textwidth]{./pics/nyker.png}
+** La separación del poder
+El proceso legislativo
+- Facultados para iniciar: ejecutivo, legisladores federales y locales, grupo de ciudadanos
+  - Lisnom 2024 = $98,214,289 \times 0.13 = 127,679$ firmas!
+- Iniciativas preferentes
+- Iniciativas que no sean exclusivas de una de las cámaras (art74-IV: presupuesto): Iniciadora --- revisora --- ejecutivo (superable)
+- Poder de veto = poder legislativo del presidente
+** El proceso legislativo
+\includegraphics[width=.9\textwidth]{./pics/art72A.png}
+\includegraphics[width=.9\textwidth]{./pics/art72C.png}
+\includegraphics[width=.9\textwidth]{./pics/art72D.png}
+** Dados cargados a favor del status quo
+** Iniciativas descarriladas en diputados
+\includegraphics[width=.9\textwidth]{./pics/64leg.png}
+** Agendas legislativas
+*** 
+    :PROPERTIES:
+    :BEAMER_col: .4
+    :END:
+****                                                        :B_ignoreheading:
+     :PROPERTIES:
+     :BEAMER_env: ignoreheading
+     :END:
+#+begin_latex
+\begin{footnotesize}
+Notación
+\begin{tabular}{rl}
+    $q =$ & status quo \\
+    $a =$ & iniciativa \\
+$b,c,d =$ & enmiendas  \\
+\end{tabular}
+\end{footnotesize}
+#+end_latex
+**** 1. Europea                                                     :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+#+begin_latex
+    \centering
+    \begin{tikzpicture}
+      \coordinate (o)  at  ( 0, 0);
+      \coordinate (a)  at  (-1, -.5);
+      \coordinate (q1) at  ( 1, -.5);
+      \coordinate (q10) at ( 1,-1);
+      \coordinate (q2)  at ( 2,-1.5);
+      \coordinate (q20) at ( 2,-2.05);
+      \coordinate (q3)   at (3,-2.5);
+      \coordinate (b)   at ( 0,-1.5);
+      \coordinate (c)  at ( 1,-2.5);
+      \coordinate (e)   at ( 3,-2.75);
+      \draw (o) -- (a);
+      \draw (o) -- (q1);
+      \draw (q10) -- (b);
+      \draw (q10) -- (q2);
+      \draw (q20) -- (c);
+      \draw (q20) -- (q3);
+      \node [below] at (a) {$a$}; 
+      \node [below] at (q1) {$q$}; 
+      \node [below] at (b) {$b$}; 
+      \node [below] at (q2) {$q$}; 
+      \node [below] at (c) {$c$}; 
+      \node [below] at (q3) {$q$}; 
+      \node [below] at (e) {$\vdots$}; 
+    \end{tikzpicture}
+#+end_latex
+*** 
+    :PROPERTIES:
+    :BEAMER_col: .4
+    :END:
+**** 2. Anglo-EE.UU.                                                :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+#+begin_latex
+    \centering
+    \begin{tikzpicture}
+      \coordinate (o)  at ( 0   , 0  );
+      \coordinate (a)  at (-1   ,-0.5);
+      \coordinate (b)  at ( 1   ,-0.5);
+      \coordinate (a0) at (-1   ,-1.05);
+      \coordinate (b0) at ( 1   ,-1.05);
+      \coordinate (a1) at (-1.75,-1.5);
+      \coordinate (q1) at (-0.25,-1.5);
+      \coordinate (b1) at ( 0.25,-1.5);
+      \coordinate (q2) at ( 1.75,-1.5);
+      \draw (o) -- (a);
+      \draw (o) -- (b);
+      \draw (a0) -- (a1);
+      \draw (a0) -- (q1);
+      \draw (b0) -- (b1);
+      \draw (b0) -- (q2);
+      \node [below] at (a) {$a$}; 
+      \node [below] at (b) {$b$}; 
+      \node [below] at (a1) {$a$}; 
+      \node [below] at (q1) {$q$}; 
+      \node [below] at (b1) {$b$}; 
+      \node [below] at (q2) {$q$}; 
+    \end{tikzpicture}
+#+end_latex
+**** 3. Mexicana                                                    :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :END:
+#+begin_latex
+    \centering
+    \begin{tikzpicture}
+      \coordinate (O)  at ( 1, 1);
+      \coordinate (A)  at ( 0, 0.5);
+      \coordinate (Q)  at ( 2, 0.5);
+      \coordinate (A0) at ( 0, 0.);
+      \draw (O) -- (A);
+      \draw (O) -- (Q);
+      \node [below] at (A) {$a$}; 
+      \node [below] at (Q) {$q$}; 
+
+      \coordinate (a)  at (-1   ,-0.5);
+      \coordinate (b)  at ( 1   ,-0.5);
+      \coordinate (a0) at (-1   ,-1.05);
+      \coordinate (b0) at ( 1   ,-1.05);
+      \coordinate (a1) at (-1.75,-1.5);
+      \coordinate (q1) at (-0.25,-1.5);
+      \coordinate (b1) at ( 0.25,-1.5);
+      \coordinate (q2) at ( 1.75,-1.5);
+      \coordinate (e1) at (-1.75,-1.75);
+      \coordinate (e2) at (-0.25,-1.75); 
+      \coordinate (e3) at ( 0.25,-1.75); 
+      \coordinate (e4) at ( 1.75,-1.75);
+      \draw (A0) -- (a);
+      \draw (A0) -- (b);
+      \draw (a0) -- (a1);
+      \draw (a0) -- (q1);
+      \draw (b0) -- (b1);
+      \draw (b0) -- (q2);
+      \node [below] at (a) {$a$}; 
+      \node [below] at (b) {$b$}; 
+      \node [below] at (a1) {$a$}; 
+      \node [below] at (q1) {$c$}; 
+      \node [below] at (b1) {$b$}; 
+      \node [below] at (q2) {$d$}; 
+
+      \node [below] at (e1) {$\vdots$}; 
+      \node [below] at (e2) {$\vdots$}; 
+      \node [below] at (e3) {$\vdots$}; 
+      \node [below] at (e4) {$\vdots$}; 
+  
+
+    \end{tikzpicture}
+#+end_latex
+** Ilustración
+*** Proyecto de ley
+\textcolor{gray}{art. 1} $\;$ Presupuesto $200/alumno \newline
+\textcolor{gray}{art. 2} $\;$ Integro para educar alumnos en IA \pause
+***                                                         :B_ignoreheading:
+    :PROPERTIES:
+    :BEAMER_env: ignoreheading
+    :END:
+**** Enmienda que diluye                                            :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :BEAMER_col: .55
+    :END:
+\textcolor{gray}{art. 2'} $\;$ 20% para IA transgénero \pause
+**** Otra enmienda cara                                             :B_block:
+     :PROPERTIES:
+     :BEAMER_env: block
+     :BEAMER_col: .35
+     :END:
+\textcolor{gray}{art. 1'} $\;$ $240/alumno
+** Notación y preferencias
+*** Cuatro alternativas
+|  <r> | <l>         | <l>     | <c> | <l>     |
+| $a=$ | proyecto:   | art. 1  |  y  | art. 2  |
+| $b=$ | diluido:    | art. 1  |  y  | art. 2' |
+| $c=$ | más caro:   | art. 1' |  y  | art. 2' |
+| $q=$ | status quo: | $0.00   |     |         | 
+\pause
+*** Algunos tipos de legisladores
+| <l>                             | <c> | <c> | <c> | <c> | <c> | <c> | <c> |
+| Tipo                            | 1er |     | 2do |     | 3er |     | 4to |
+|---------------------------------+-----+-----+-----+-----+-----+-----+-----|
+| austero                         | $q$ |  >  | $a$ |  >  | $b$ |  >  | $c$ |
+| pragmático                      | $a$ |  >  | $c$ |  >  | $b$ |  >  | $q$ |
+| *@@beamer:<3>@@fundamentalista* | $a$ |  >  | $q$ |  >  | $c$ |  >  | $b$ |
+| *@@beamer:<3>@@oportunista*     | $b$ |  >  | $c$ |  >  | $a$ |  >  | $q$ |
+| *@@beamer:<3>@@keynesiano*      | $c$ |  >  | $a$ |  >  | $b$ |  >  | $q$ |
+| ...                             |     |     |     |     |     |     |     |
+# |     | austero | pragmático | oportunista | fundamentalista | keynesiano | ... |
+# |-----+---------+------------+-------------+-----------------+------------+-----|
+# | 1er | $q$     | $a$        | $b$         | $a$             | $c$        |     |
+# | 2do | $a$     | $c$        | $c$         | $q$             | $a$        |     |
+# | 3er | $b$     | $b$        | $a$         | $c$             | $b$        |     |
+# | 4to | $c$     | $q$        | $q$         | $b$             | $q$        |     |
+
+** Una legislatura con agenda europea
+***                                                         :B_ignoreheading:
+    :PROPERTIES:
+    :BEAMER_env: ignoreheading
+    :END:
+|       <c>       | <c> |     <c>     | <c> |    <c>     |
+| fundamentalista |  +  | oportunista |  +  | keynesiano |
+|     $aqcb$      |     |   $bcaq$    |     |   $cabq$   |
+***                                                         :B_ignoreheading:
+    :PROPERTIES:
+    :BEAMER_env: ignoreheading
+    :END:
+**** Con voto sincero                                               :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :BEAMER_col: .4
+    :END:
+#+begin_latex
+    \centering
+    \begin{tikzpicture}
+      \coordinate (o)  at  ( 0, 0);
+      \coordinate (a)  at  (-1, -.5);
+      \coordinate (q1) at  ( 1, -.5);
+      \coordinate (q10) at ( 1,-1);
+      \coordinate (q2)  at ( 2,-1.5);
+      \coordinate (q20) at ( 2,-2.05);
+      \coordinate (q3)   at (3,-2.5);
+      \coordinate (b)   at ( 0,-1.5);
+      \coordinate (c)  at ( 1,-2.5);
+      \coordinate (e)   at ( 3,-2.75);
+      \draw (o) -- node[sloped, below] {$\leftarrow$} (a);
+      \draw (o) -- (q1);
+      \draw (q10) -- node[sloped, below] {$\leftarrow$} (b);
+      \draw (q10) -- (q2);
+      \draw (q20) -- node[sloped, below] {$\leftarrow$} (c);
+      \draw (q20) -- (q3);
+      \node [below] at (a) {$\alert<2->{a}$}; 
+      \node [below] at (q1) {$q$}; 
+      \node [below] at (b) {$b$}; 
+      \node [below] at (q2) {$q$}; 
+      \node [below] at (c) {$c$}; 
+      \node [below] at (q3) {$q$}; 
+    \end{tikzpicture}
+#+end_latex
+\pause \pause
+**** Con voto estratégico                                           :B_block:
+    :PROPERTIES:
+    :BEAMER_env: block
+    :BEAMER_col: .4
+    :END:
+#+begin_latex
+    \centering
+    \begin{tikzpicture}
+      \coordinate (o)  at  ( 0, 0);
+      \coordinate (a)  at  (-1, -.5);
+      \coordinate (q1) at  ( 1, -.5);
+      \coordinate (q10) at ( 1,-1);
+      \coordinate (q2)  at ( 2,-1.5);
+      \coordinate (q20) at ( 2,-2.05);
+      \coordinate (q3)   at (3,-2.5);
+      \coordinate (b)   at ( 0,-1.5);
+      \coordinate (c)  at ( 1,-2.5);
+      \coordinate (e)   at ( 3,-2.75);
+      \draw (o) -- (a);
+      \draw (o) -- node[sloped, below] {$\rightarrow$} (q1);
+      \draw (q10) -- (b);
+      \draw (q10) -- node[sloped, below] {$\rightarrow$} (q2);
+      \draw (q20) -- node[sloped, below] {$\leftarrow$} (c);
+      \draw (q20) -- (q3);
+      \node [below] at (a) {$a$}; 
+      \node [below] at (q1) {$q(c)$}; 
+      \node [below] at (b) {$b$}; 
+      \node [below] at (q2) {$q(c)$}; 
+      \node [below] at (c) {$\alert<4->{c}$}; 
+      \node [below] at (q3) {$q$}; 
+    \end{tikzpicture}
+#+end_latex
+** Agilidad vs. representatividad gubernamental
+\centering
+\includegraphics[width=.6\textwidth]{./pics/continuing-resolutions1980-2025nyt.png}
