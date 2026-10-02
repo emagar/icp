@@ -2,7 +2,7 @@
 
 <h2> Anuncios </h2>
 
-<sup><sub>2026-09-14</sub></sup> La clase materialismo pasará para el lunes 21 de septiembre. Hoy repasaremos la corrección del examen parcial.
+<sup><sub>2026-10-02</sub></sup> Para la clase de cultura del lunes 5 de octubre cambié la lectura de Almond y Verba de obligatoria a opcional. Así podrán dedicarle más atención al texto de Magaloni *et al.*
 
 ---
 
@@ -74,21 +74,21 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 -   KING, KEOHANE y VERBA *Designing Social Inquiry* (1994) [cap. 1](https://github.com/emagar/icp/blob/master/lecturas/kkv1993ch1.pdf) pp. 3-12 (el resto del cap. les servirá de referencia futura).
 
 
-# El estado-nación<a id="orgc9a69ca"></a>
+# El estado-nación<a id="org06a79f7"></a>
 
 
 ## 31 de agosto y 2 de septiembre
 
 -   WEBER La política como vocación (1919) [pp. 243-254](https://github.com/emagar/icp/blob/master/lecturas/weber.La-politica-como-vocacion1919.pdf) (hasta &#x2026; para conseguir la seguridad en este sentido) (English version [here](https://github.com/emagar/icp/blob/master/lecturas/weber-Politics-as-vocation.pdf))
--   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 -   HOBBES *Leviatán* [caps. 13, 17 y 18](https://github.com/emagar/icp/blob/master/lecturas/hobbes-Leviatan-13-17-18.pdf) (1651) 18 pp.
+-   NORTH\* [A neoclassical theory of the state](https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf) (1981) 13 pp.
 
 
 # PRIMER EXAMEN PARCIAL &#x2013; 7 de septiembre
 
 
-# Ejercicio de integración &#x2013; 9 de septiembre<a id="org76b644e"></a>
+# Ejercicio de integración &#x2013; 9 de septiembre<a id="org89618b9"></a>
 
 Dedicaremos esta clase para escuchar presentaciones personales. Daré los detalles en clase.
 
@@ -106,18 +106,18 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 
 -   ARISTOTELES [*La política*](https://github.com/emagar/icp/blob/master/lecturas/aristoteles-Politica.pdf) Libro tercero caps. IV-VI (S. IV AC) 11 pp.
 -   HAMILTON, MADISON, JAY *El Federalista* ensayos [#1 #10 #51 #72 y #78](https://github.com/emagar/icp/blob/master/lecturas/federalista-1-10-51-72-78.pdf) (1787) 23 pp.
--   BRAVO ORTIZ\* [¿Qué hay dentro de la caja negra? Control de agenda en la cámara de diputados](https://github.com/emagar/icp/blob/master/lecturas/bravo-Caja-negra-2025itam.pdf) (2025) pp. 6-57.
 -   Arts. 71 y 72 [CPEUM](https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf).
+-   BRAVO ORTIZ [¿Qué hay dentro de la caja negra? Control de agenda en la cámara de diputados](https://github.com/emagar/icp/blob/master/lecturas/bravo-Caja-negra-2025itam.pdf) (2025) pp. 6-57.
 
 
 ## Culturalismo &#x2013; 30 de septiembre
 
--   ALMOND y VERBA [*The Civic Culture*](https://github.com/emagar/icp/blob/master/lecturas/almond-verba-Excerpts.pdf) (1963)
+-   ALMOND y VERBA\* [*The Civic Culture*](https://github.com/emagar/icp/blob/master/lecturas/almond-verba-Excerpts.pdf) (1963)
     -   cap. 1 An approach to political culture pp. 3-32.
     -   cap. 13 Group differences in political orientation pp. 377-401.
 
+-   MAGALONI et al. [State-Evading Solutions to Violence: Organized Crime and Governance in Indigenous Mexico](https://github.com/emagar/icp/blob/master/lecturas/magaloni-etal-Crime-indigenous2021.pdf) (2021) 38 pp.
 -   CRESPO\* [Del autoritarismo a la democracia: el mito cultural](https://github.com/emagar/icp/blob/master/lecturas/crespo-Cultura-politica1988.pdf) (1988) 14 pp.
--   MAGALONI et al. [State-Evading Solutions to Violence: Organized Crime and Governance in Indigenous Mexico](https://github.com/emagar/icp/blob/master/lecturas/anto/ssrn-4007565.pdf) (2021) 38 pp.
 
 
 # Modernización y democracia &#x2013; 5 de octubre
@@ -171,12 +171,12 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 # Conozca a la facultad del departamento
 
 
-## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="org0952fd6"></a>
+## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="orgad937a4"></a>
 
 -   EMANUEL et al. [An ethical framework for global vaccine allocation](https://github.com/emagar/icp/blob/master/lecturas/ana/emanuel.etal-Ethical-framework-for-global-vaccine2020sc.pdf) (2020) 5 pp.
 
 
-## Felipe CURCÓ &#x2013; 9 de noviembre<a id="org8d024d7"></a>
+## Felipe CURCÓ &#x2013; 9 de noviembre<a id="org33456b9"></a>
 
 -   CURCÓ Emociones y Racionalidad
 
@@ -195,7 +195,7 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 -   SHEPSLE *Analizing politics* [cap. 2](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010.pdf) (2010) 25 pp.
 
 
-## Sistemas electoral y de partidos &#x2013; 18 de noviembre<a id="org75d45b5"></a>
+## Sistemas electoral y de partidos &#x2013; 18 de noviembre<a id="org6bb7a8a"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
@@ -210,7 +210,7 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 -   Proyectaré la película The Last Hurrah de J. Ford (1958).
 
 -   SCOTT [Patron-client politics and political change in Southeast Asia](https://github.com/emagar/icp/blob/master/lecturas/scott-Patron-client-instrumental-friends-1972apsr.pdf) (1972) 23 pp.
--   DIAZ CAYEROS, ESTEVEZ Y MAGALONI [Political machines and vote buying](https://github.com/emagar/icp/blob/master/lecturas/diaz-cayeros-estevez-magaloni2016cap3.pdf) (2016) 19 pp.
+-   DIAZ CAYEROS et al. *The Political Logic of Poverty Relief in Mexico* (2016) [Cap. 3 Political machines and vote buying](https://github.com/emagar/icp/blob/master/lecturas/diaz-cayeros-estevez-magaloni2016cap3.pdf) 19 pp.
 -   COX y MCCUBBINS\* [Electoral politics as a distributive game](https://github.com/emagar/icp/blob/master/lecturas/cox.mccubbins-Redistributive-game1986jop.pdf) (1986) 20 pp.
 -   Columnas de Viri RIOS:
     -   [La transición democrática de los de abajo](https://www.elmanana.com/opinion/columnas/la-transicion-democratica-de-los-de-abajo-5886652.html) (2024).
