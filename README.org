@@ -23,7 +23,29 @@
 Anuncios
 </h2>
 
-<sup><sub>2026-03-04</sub></sup> Las lecturas para el [[inst][lunes 9 de marzo]] son los ensayos de /El Federalista/ y los artículos de la constitución. (No me dará tiempo de cubrirlo, pero pueden entregar ficha del texto de Bravo Ortiz para ese día.)
+<sup><sub>2026-10-02</sub></sup> Para la clase de cultura del lunes 5 de octubre cambié la lectura de Almond y Verba de obligatoria a opcional. Así podrán dedicarle más atención al texto de Magaloni /et al./
+
+# <sup><sub>2026-09-14</sub></sup> La clase materialismo pasará para el lunes 21 de septiembre. Hoy repasaremos la corrección del examen parcial.
+
+# <sup><sub>2026-09-07</sub></sup> No hay lecturas para el miércoles 9 de sept. Escucharemos presentaciones personales.
+
+# <sup><sub>2026-09-03</sub></sup> El examen parcial es el 7 de sept. Si no asistió a clase el 2 de sept., cuando di las instrucciones, busque a sus compañeros para que se las expliquen.
+
+# <sup><sub>2026-08-24</sub></sup> Necesitaré voluntari@s para hacer presentaciones personales el [[pres-pers][9 de sept]].
+
+# <sup><sub>2026-08-10</sub></sup> ¡Bienvenid@s! No hay lectura para la clase de hoy. 
+
+# <sup><sub>2026-04-27</sub></sup> Las presentaciones personales están [[https://github.com/emagar/icp/blob/master/presentaciones-personales/en-canvas.md][aquí]]. 
+
+# <sup><sub>2026-04-18</sub></sup> Ojo, cambio en el temario, he intercalado una clase de corrección del parcial el miércoles 22-abr y recorrí las [[pres-pers][presentaciones personales]] para el lunes 27-abr.
+
+# <sup><sub>2026-04-16</sub></sup> La lectura para el lunes 20-abr es [[lucardi][Lucardi-Romero]].
+
+# <sup><sub>2026-03-25</sub></sup> Encontrará las instrucciones para el segundo examen parcial [[https://github.com/emagar/icp/blob/master/parcial2/README.md][aquí]]. 
+
+# <sup><sub>2026-03-12</sub></sup> Hay un cambio de lectura. Para el [[moder][miércoles 18 de marzo]] leerán Przeworski y Limongi en vez de Riker, como había anunciado---A Riker lo he movido para más adelante en el curso. Que tengan un buen puente.
+
+# <sup><sub>2026-03-04</sub></sup> Las lecturas para el [[inst][lunes 9 de marzo]] son los ensayos de /El Federalista/ y los artículos de la constitución. (No me dará tiempo de cubrirlo, pero pueden entregar ficha del texto de Bravo Ortiz para ese día.)
 
 # <sup><sub>2026-02-18</sub></sup> Encontrará las instrucciones para el examen parcial [[https://github.com/emagar/icp/blob/master/parcial1/instrucciones.md][aquí]]. 
 
@@ -39,25 +61,26 @@ Anuncios
 
 # <sup><sub>2026-01-19</sub></sup> Haga una cita para presentarse con el *tutor* que le asignó la directora del programa.
 
-# <sup><sub>2026-01-12</sub></sup> ¡Bienvenid@s! No hay lectura para la clase de hoy. 
+# RELAMPAGOS DE AGOSTO
+# You can read an English translation of the book by signing up to the Internet Archive here: https://archive.org/details/lightningofaugus00ibar
+
+
 
 ----------------------------
 
-ITAM Depto. de ciencia política, primavera 2026
+ITAM Depto. de ciencia política, otoño 2026
 
 *Introducción a la ciencia política* (CSO-10001)
 
 Profesor: Eric Magar Meurs ([[mailto:emagar@itam.mx][emagar@itam.mx]])
 
-Lunes y miércoles 11:30--13:00 salón 212
+Lunes y miércoles 11:30--13:00 salón B-3 
 
-/Objetivo/: Este curso es el cimiento del programa de ciencia política. Busca contribuir a la formación básica del estudiante en tres ámbitos importantes. Primero, las alumnas y los alumnos aprenderán conceptos clave que serán base y referencia permanente de su educación profesional. Lo harán abordando los grandes problemas que han ocupado al pensamiento político. Segundo, se hace hincapié en el fortalecimiento de sus capacidades analíticas. Estudiaremos las principales escuelas de la ciencia social para discernir el modo particular con que cada una aborda los fenómenos políticos fundamentales como son la organización, el conflicto y la cooperación, o la competencia. Tercero, el curso busca desarrollar los buenos hábitos de trabajo de sus estudiantes. 
-
-# /Objetivo/: Este curso es el cimiento del programa de ciencia política. Expondrá al estudiante a los principales dilemas y problemas que han ocupado al pensamiento político, en general, y al análisis político, en particular. Cubriremos las grandes aproximaciones conceptuales, escuelas, y sub-disciplinas de la ciencia política. El curso se enmarca y enseña con referencia a política contemporánea en diversas áreas y regiones del mundo. El estudiante hará una reflexión crítica de los grandes supestos del análisis político y obtendrá las bases fundamentales que le permitan aprender las herramientas y habilidades que exige el programa de licenciatura en ciencia política. 
+/Objetivo/: Este curso es el cimiento del programa de ciencia política. Busca contribuir a la formación básica del estudiante en tres ámbitos importantes. Primero, las alumnas y los alumnos aprenderán *conceptos clave* que serán base y referencia permanente de su educación profesional. Lo harán abordando los grandes problemas que han ocupado al pensamiento político. Segundo, se hace hincapié en el fortalecimiento de sus *capacidades analíticas*. Estudiaremos las principales escuelas de la ciencia social para discernir el modo particular con que cada una aborda y desmenuza los fenómenos políticos fundamentales como son la organización, el conflicto y la cooperación, o la competencia. Tercero, el curso busca desarrollar los *buenos hábitos* de trabajo de sus estudiantes. 
 
 /Tareas y evaluación/: De cada estudiante espero que asista puntualmente a todas las clases habiendo hecho, previamente, todas las lecturas asignadas; que complete las tareas en tiempo y forma; y que participe activamente en el grupo. La evaluación incluye dos exámenes parciales (25% de la calificación cada uno), un examen final acumulativo (25%), controles de lectura (15%) y participación en clase (10%). Los *exámenes* evaluarán el conocimiento de las lecturas del curso, especialmente la capacidad del estudiante para hacer una reflexión crítica de ellas. A fin de cubrir la evaluación de *controles de lectura*, cada estudiante deberá entregar al profesor un total de 15 fichas sintéticas. Cada ficha de lectura será de una sola página, impresa y bien formada, que sintetice claramente el argumento central de alguno de los textos asignados para la clase del día. Las fichas se entregan al inicio de cada sesión y no aceptaré fichas adelantadas ni atrasadas. La *participación* en clase valorará la impresión general de sus intervenciones a lo largo del semestre. 
 
-/El buen uso de la inteligencia artificial/: Quien usa las herramientas de IA debe también ser capaz de verificar y evaluar críticamente lo que nos arroja. Si usted usara la IA para la elaboración de cualquier trabajo, es imperativo reportarlo como nota al final, y estar en posibilidad para elaborar acerca de los /prompts/ que usó, cómo los fue refinando, y cómo contrasta el resultado arrojado con la síntesis que elaboró a partir de su propia lectura.
+/El buen uso de la inteligencia artificial generativa/: Quien usa las herramientas de IAgen debe también ser capaz de verificar y evaluar críticamente lo que nos arroja. Las herramientas son ya ubicuas y tienen un potencial para disparar la productividad, pero conllevan riesgos para quien las usa sin cierto escepticismo, sin bases éticas o sin transparencia. ([[https://www.tandfonline.com/doi/full/10.1080/0142159X.2025.2607513][Este artículo]] ofrece lineamientos interesantes en el contexto de la investigación en salud, lo leeremos más adelante.) Si usted usara la IAgen para la elaboración de cualquier trabajo, es imperativo *reportarlo como nota al final*, y estar en posibilidad para elaborar acerca de los /prompts/ que usó, cómo los fue refinando, y cómo contrasta el resultado arrojado con la síntesis que elaboró a partir de su propia lectura. Tome en cuenta que la IAgen no sustituye su esfuerzo y dedicación para leer y entender el material y para formar su propio mapa de la literatura política. De hecho, su abuso perjudicará su formación. 
 
 /Notas/: (1) La página del curso es [[https://github.com/emagar/icp/]]. Alberga este temario, las lecturas y el material adicional. (2) El temario probablemente sufrirá modificaciones marginales en el transcurso del semestre para quitar, añadir o cambiar la secuencia de algunos temas. Anunciaré esto con anticipación en clase. 
 # (3) Coordinaré reposición de clases faltantes más adelante.
@@ -66,16 +89,18 @@ Lunes y miércoles 11:30--13:00 salón 212
 
 # /Fechas importantes/:
 
-/Días de asueto/: lunes 2 de febrero (Constitución), lunes 16 de marzo (Benito Juárez), lunes 30 de marzo y miércoles 1 de abril (Semana Santa).
+/Días de asueto/: miercoles 16 de septiembre (Grito), lunes 16 de noviembre (Revolución) y lunes 2 de noviembre (Muertos).
 # 32 clases descontando asuetos
 
-/No habrá clases/: lunes 16 y miércoles 18 de febrero.
+/No habrá clases/: lunes 26 y miércoles 28 de octubre.
 # 30 fechas de clase
+
+/Último día para dar materias de baja/: 18 de noviembre.
 
 /Última clase/: miércoles 13 de mayo.
 
-/Exámenes finales/: del lunes 18 al sábado 30 de mayo.
-# /Examen final/: 2025-12-17 10:00-12:45, salón 102. 
+/Exámenes finales/: del lunes 7 al sábado 19 de diciembre.
+# /Examen final/: 2026-05-29 13:00-15:45, salón 111. 
 
 ------------------
 
@@ -95,29 +120,32 @@ Lunes y miércoles 11:30--13:00 salón 212
 #      - Cap. VII: ilustra la historia de Garfias. 
 #      - El poder: por qué Rodolfo Goríbar lleva pistoleros tabasqueños, el secuestro de Antonia por Justo Corona y de Julia por el general Rosas, cómo Julia influye en Rosas, etc.
 #      - La estructura material: economía de monopsonio donde el hacendado compra la mano de obra de los indios, y cómo Zapata les ofreció un recurso para romper la dependencia.   
-#   - De Lucía Melgar: Creo que aparte de lo que mencionas puedes preguntarles: ¿Cómo se representa la violencia, cuáles son sus manifestaciones y cómo se interrelacionan? ¿Cómo se representa a los distintos grupos de mujeres y cómo se relaciona su condición  con el ambiente de opresión en Ixtepec ? ¿Qué factores sociales además de la violencia  arruinan al pueblo? Tambien es un tema, como sabes, la crítica de la Revolución.
+#    - De Lucía Melgar: Creo que aparte de lo que mencionas puedes preguntarles: ¿Cómo se representa la violencia, cuáles son sus manifestaciones y cómo se interrelacionan? ¿Cómo se representa a los distintos grupos de mujeres y cómo se relaciona su condición  con el ambiente de opresión en Ixtepec ? ¿Qué factores sociales además de la violencia  arruinan al pueblo? Tambien es un tema, como sabes, la crítica de la Revolución.
+# 3. Guillermoprieto meets grupos de interés meets organización
+#    - Que entrevisten a su barrendero: ¿por qué no hay basureros públicos? ¿por qué no pasa un camión en días fijos como USA?
+#    - foto de esquina col. roma interprétela con enfoques material, institucional y cultural
 
 *Nota*: Las lecturas marcadas con asterisco son opcionales.
 
 * Para delimitar la política
-** Presentación del curso y asuntos logísticos -- 12 de enero
+** Presentación del curso y asuntos logísticos -- 10 de agosto
 # 1
 - Sin lectura asignada.
-** 14 de enero
+** 12 de agosto
 # 2
 - SHEPSLE /Analizing politics/ [[https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap1-2010.pdf][cap. 1]] (2010) pp. 3--12.
 #  - "small p politics" + contruir marco para entender
 #  - Leerlo párrafo por párrafo con ellos en clase, para elaborar las ideas contenidas
-** 19 de enero
+** 17 de agosto
 # 3
 - DAHL [[https://github.com/emagar/icp/blob/master/lecturas/dahl-Power-1957.pdf][The concept of power]] (1957) 15 pp.
 # - SARTORI What is "politics" 19 pp.???
 * El análisis político
-** Conservación del poder --- 21 y 26 de enero
+** Conservar el poder --- 19 y 24 de agosto
 # 4 y 5
 - MAQUIAVELO [[https://github.com/emagar/icp/blob/master/lecturas/maquiavelo-principe.pdf][/El príncipe/]] (1532) 
   - Dedicatoria y caps. I-VI y IX 25 pp.
-  - Caps. XV-XIX(hasta 92) XXIII y XXV 19 pp.
+  - Caps. XV-XIX(hasta \S92 "pero no hacerse odiar del pueblo") XXIII y XXV 19 pp.
   # = 1er tratado en busca de los resortes del buen gobierno.
   #   - https://insights.som.yale.edu/insights/what-can-you-learn-machiavelli
   #   - Notas de lectura y de web
@@ -138,15 +166,19 @@ Lunes y miércoles 11:30--13:00 salón 212
   #       - Un profe de ICP
   #       - Una madre de familia
   #       - Representante de alumnos 
-** Lo normativo y lo positivo --- 28 de enero
+** Lo normativo y lo positivo --- 26 de agosto
 # 6
-- VILLORO [[https://github.com/emagar/icp/blob/master/lecturas/villoro-CPol-1988.pdf][Ciencia política, filosofía e ideología]] (1988) 5 pp. (Hay una versión en puro texto [[https://github.com/emagar/icp/blob/master/lecturas/villoro-Ciencia-politica-filosifia-e-ideologia1988vuelta.txt][aquí]], copie y péguela para traducirla al sueco o inglés.) 
-- BHATTACHERJEE /Social Science Research/ [[https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf][cap 1]] (2012) 8 pp. 
+- VILLORO [[https://github.com/emagar/icp/blob/master/lecturas/villoro-CPol-1988.pdf][Ciencia política, filosofía e ideología]] (1988) 5 pp. (Hay una versión en puro texto [[https://github.com/emagar/icp/blob/master/lecturas/villoro-Ciencia-politica-filosifia-e-ideologia1988vuelta.txt][aquí]], copie y péguela para traducirla.) 
+# - BHATTACHERJEE /Social Science Research/ [[https://github.com/emagar/icp/blob/master/lecturas/batthacherjee-cap1.pdf][cap 1]] (2012) 8 pp. 
+- KING, KEOHANE y VERBA /Designing Social Inquiry/ (1994) [[https://github.com/emagar/icp/blob/master/lecturas/kkv1993ch1.pdf][cap. 1]] pp. 3-12 (el resto del cap. les servirá de referencia futura).
 #   - El método científico
 # - Sci method in sociology https://courses.lumenlearning.com/wm-introductiontosociology/chapter/the-scientific-method/
 * El estado-nación<<edonac>>
-** 4 y 9 de febrero
+** 31 de agosto y 2 de septiembre
 # 7 y 8
+#
+# OJO 3/9/2026: dejé archivo con boseto de cambios a estas dos clases en la carpeta de clases, día 1 Weber+North día 2 Hobbes 
+#
 - WEBER La política como vocación (1919) [[https://github.com/emagar/icp/blob/master/lecturas/weber.La-politica-como-vocacion1919.pdf][pp. 243-254]] (hasta ... para conseguir la seguridad en este sentido) (English version [[https://github.com/emagar/icp/blob/master/lecturas/weber-Politics-as-vocation.pdf][here]])
 # (version française [[https://github.com/emagar/icp/blob/master/lecturas/weber.Le-savant-et-le-politique1919.pdf][ici]]).
   # - Discutiremos las pp. 81-106 de mi edición, pero lean lo demás --- hay mil y un ideas que vale la pena considerar cuando duden de su vocación 
@@ -157,69 +189,67 @@ Lunes y miércoles 11:30--13:00 salón 212
   #   - p. 192 desarrolla inspiración, como del artista
   #   - ...
 - HOBBES /Leviatán/ [[https://github.com/emagar/icp/blob/master/lecturas/hobbes-Leviatan-13-17-18.pdf][caps. 13, 17 y 18]] (1651) 18 pp. 
-# - ERTMAN /The Birth of Leviathan/ cap. 1 (1997) 34 pp.
 - NORTH* [[https://github.com/emagar/icp/blob/master/lecturas/north-Thr-of-the-state-1981.pdf][A neoclassical theory of the state]] (1981) 13 pp.
-* Conozca a la facultad del departamento (parte 1)
-** Alejandro MORENO -- 11 de febrero (la clase será en la [[https://escolar.itam.mx/servicios_escolares/Docuemntos/mapa_Rio_hondo_finales.pdf][Sala de Maestros]])<<moreno>>
+# - ERTMAN /The Birth of Leviathan/ cap. 1 (1997) 34 pp.
+* PRIMER EXAMEN PARCIAL -- 7 de septiembre
 # 9
-- MORENO [[https://github.com/emagar/icp/blob/master/lecturas/moreno-Evolucion-cultural-Mexico2025book.pdf][/La evolución cultural en México/]] (2025)
-  - Presentación 3 pp.
-  - cap 6 Poliarquistas, populistas y sus antípodas 30 pp.
-  - cap 8 Colores mexicanos: viejas y nuevas identidades sociales 18 pp.
-# * Modernización y democracia<<moder>>
-# ** 11 de febrero
-# # 9
-# - PRZEWORSKI y LIMONGI [[https://github.com/emagar/icp/blob/master/lecturas/przeworski-limongi-Modernization1997wp.pdf][Modernization: theories and facts]] (1997) 24 pp.
-#   # - Lineal y N
-#   # - Ilustra large N
-# - LINZ [[https://github.com/emagar/icp/blob/master/lecturas/linz-autoritarismo1990.pdf][El régimen autoritario]] (1990) 7 pp.
-# - LIPSET* [[https://github.com/emagar/icp/blob/master/lecturas/lipset-Ho-pol-1960.pdf][/El hombre político/]] (1960) 32 pp. 
-#   # - cap. 5 de Diez textos básicos pp. 113-142
-#   # - Some social requisites for democracy -> Modernización
-# - WEINGAST* [[https://github.com/emagar/icp/blob/master/lecturas/weingastDemocracy1997apsr.pdf][The political foundations of democracy and the rule of law]] (1997) 22 pp.
-#   # - teoría de juegos
-#   # - para ver cómo se lee un paper académico
-# # - Przeworski Democracy and the Market
-* PRIMER EXAMEN PARCIAL -- 23 de febrero
+* Ejercicio de integración -- 9 de septiembre<<pres-pers>>
 # 10
-* Estructuras en ciencia social
+Dedicaremos esta clase para escuchar presentaciones personales. Daré los detalles en clase. 
+* Las estructuras en ciencia social
 # Una clase que contraste las tres estructuras.
-** Materialismo -- 25 de febrero
+** Materialismo -- 14 de septiembre
 # 11
+#
+# OJO: METER AQUI REVISION DEL EXAMEN
+#
 - MARX y ENGELS [[https://github.com/emagar/icp/blob/master/lecturas/marx-engels-El-manifiesto-del-pc1848.pdf][/El manifiesto del partido comunista/]] (1848) 42 pp.
 - MCCLAIN [[https://deepseanews.com/2012/06/how-presidential-elections-are-impacted-by-a-100-million-year-old-coastline/][How presidential elections are impacted by a 100 million year old coastline]] 5 pp.
 # - LEVIN [[https://github.com/emagar/icp/blob/master/lecturas/levin-Evolution-of-cooperation2019.pdf][The evolution of cooperation]] (2019) 7 pp. 
   # - Genética del partidismo? (1 clase)
   # - Hay paper largo de LEVIN también
-- SPRUYT* [[https://github.com/emagar/icp/blob/master/lecturas/spruyt-War-trade-and-state-formation-2007arps.pdf][/War, Trade, and State Formation/]] (2007) 23 pp.
-** Institucionalismo -- 2, 4 y 9 de marzo<<inst>>
+# - SPRUYT* [[https://github.com/emagar/icp/blob/master/lecturas/spruyt-War-trade-and-state-formation-2007arps.pdf][/War, Trade, and State Formation/]] (2007) 23 pp.
+** Institucionalismo -- 21, 23 y 28 de septiembre
 # 12, 13 y 14
 - ARISTOTELES [[https://github.com/emagar/icp/blob/master/lecturas/aristoteles-Politica.pdf][/La política/]] Libro tercero caps. IV-VI (S. IV AC) 11 pp.
   # - Excluyo extractos de ética nicomaquea
   # - https://plato.stanford.edu/eNtRIeS/aristotle-politics/#PoliScieGene tiene buen detalle para clase, creo.
   # - Richard Kraut tiene un cap introductorio
 - HAMILTON, MADISON, JAY /El Federalista/ ensayos [[https://github.com/emagar/icp/blob/master/lecturas/federalista-1-10-51-72-78.pdf][#1 #10 #51 #72 y #78]] (1787) 23 pp. 
-- BRAVO ORTIZ* [[https://github.com/emagar/icp/blob/master/lecturas/bravo-Caja-negra-2025itam.pdf][¿Qué hay dentro de la caja negra? Control de agenda en la cámara de diputados]] (2025) pp. 6-57.
 - Arts. 71 y 72 [[https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf][CPEUM]].
+- BRAVO ORTIZ [[https://github.com/emagar/icp/blob/master/lecturas/bravo-Caja-negra-2025itam.pdf][¿Qué hay dentro de la caja negra? Control de agenda en la cámara de diputados]] (2025) pp. 6-57.
   # - El proceso legislativo
 # - Shepsle New institutionalism?
 # - North IIChEP?
-** Culturalismo -- 11 de marzo
+** Culturalismo -- 30 de septiembre
 # 15
-- ALMOND y VERBA [[https://github.com/emagar/icp/blob/master/lecturas/almond-verba-Excerpts.pdf][/The Civic Culture/]] (1963)
+- ALMOND y VERBA* [[https://github.com/emagar/icp/blob/master/lecturas/almond-verba-Excerpts.pdf][/The Civic Culture/]] (1963)
   - cap. 1 An approach to political culture pp. 3-32.
   - cap. 13 Group differences in political orientation pp. 377-401.
   # - Poiré asigna pp 1-30 y 360-374...
 # - ALMOND y VERBA [[https://github.com/emagar/icp/blob/master/lecturas/almond-verba-Cultura-civica1963.pdf][/La cultura cívica/]] (1963) 31 pp.
   # - cap 7 de Diez textos básicos
+- MAGALONI et al. [[https://github.com/emagar/icp/blob/master/lecturas/magaloni-etal-Crime-indigenous2021.pdf][State-Evading Solutions to Violence: Organized Crime and Governance in Indigenous Mexico]] (2021) 38 pp.
 - CRESPO* [[https://github.com/emagar/icp/blob/master/lecturas/crespo-Cultura-politica1988.pdf][Del autoritarismo a la democracia: el mito cultural]] (1988) 14 pp.
+# -- orden social sin estado-normas y cultura pueden prevenir el crimen  (podría 20/22 oct)
 # - SEGOVIA* /La politización del niño mexicano/ (1977). 
 # - CONRAD y DEMAREST ??
 # - Octavio Paz?
 # - Geertz Bali?
 # - TOCQUEVILLE
+* Modernización y democracia -- 5 de octubre
+# 16
+- PRZEWORSKI y LIMONGI [[https://github.com/emagar/icp/blob/master/lecturas/przeworski-limongi-Modernization1997wp.pdf][Modernization: theories and facts]] (1997) 24 pp.
+  # - Lineal y N
+  # - Ilustra large N
+# - LINZ [[https://github.com/emagar/icp/blob/master/lecturas/linz-autoritarismo1990.pdf][El régimen autoritario]] (1990) 7 pp.
+- LIPSET* [[https://github.com/emagar/icp/blob/master/lecturas/Lipset-SocialRequisitesDemocracy-1959.pdf][The Social Requisites of Democracy]] (1959) 36 pp. 
+# - WEINGAST* [[https://github.com/emagar/icp/blob/master/lecturas/weingastDemocracy1997apsr.pdf][The political foundations of democracy and the rule of law]] (1997) 22 pp.
+  # - teoría de juegos
+  # - para ver cómo se lee un paper académico
+# - Przeworski Democracy and the Market
 * Menú de conceptos para el análisis
-# ** El tipo ideal -- 1 de octubre
+# ** El tipo ideal -- fecha
 # # 16
 # - DAHL [[https://github.com/emagar/icp/blob/master/lecturas/dahl-poliarquia1956.pdf][/La poliarquía/]] (1956) 16 pp.
 #   # - cap 3 de Diez textos básicos
@@ -228,19 +258,13 @@ Lunes y miércoles 11:30--13:00 salón 212
 #   # - Permite desarrollar la posibilidad/necesidad/dificultad de medir conceptos, Freedom House
 # - KNAPP y MUELLER [[https://github.com/emagar/icp/blob/master/lecturas/knapp-mueller-Reliability-validity-2010.pdf][Reliability and validity of instruments]] (2010) 6 pp.
 # - LIJPHART* /Modelos de democracia/ [[https://github.com/emagar/icp/blob/master/lecturas/lijphart-Modelos-Democ-Caps-2y3.pdf][cap. 3. El modelo consensual de democracia]] (1999) 15 pp.
-** Sistemas electoral y de partidos -- 18 de marzo<<sispart>>
-# 16
-- RIKER [[https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf][The Two-Party System and Duverger's Law]] (1982) 14 pp.
-# - Sistemas electorales, para cubrir el de Mx --- quizás cuando veamos Japón
-# - Duverger !!! También con McCubbins y Rosenblueth, pero ya no me cabe... O uso la clase de Denise para esto
-# - DV and IVs
 ** El nivel de análisis: sistemas, grupos, individuos
-*** El poder compartido -- 23 de marzo
+*** El poder compartido -- 7 de octubre
 # 17
 - DE FIGUEIREDO et al. [[https://github.com/emagar/icp/blob/master/lecturas/de-figueiredo-et-al-New-separation-of-powers.pdf][The new separation-of-powers approach to American Politics]] (2006) 21 pp.
   # - Cubre McCubbins y más
 # - MCUBBINS Government on lay-away (1991) 41 pp. (1 clase)
-*** Los grupos de interés -- 25 de marzo
+*** Los grupos de interés -- 12 de octubre
 # 18
 - TRUMAN [[https://github.com/emagar/icp/blob/master/lecturas/truman-Governmental-process1951.pdf][El pluralismo]] (1951) 6 pp.
   # - Hay extracto 6 pp en reader azul.
@@ -249,77 +273,80 @@ Lunes y miércoles 11:30--13:00 salón 212
 #  - Ilustra la tensión entre agricultores, élite desarrollista, y pobres urbanos.
 #  - Cap.5 puedo no asignarlo pero usarlo para ilustrar el dilema del desarrollo.
 ** Los dilemas colectivos
-*** El problema del ejido -- 6  de abril
+*** El problema del ejido -- 14 de octubre
 # 19
 - OSTROM /Governing the Commons/ (1990)
   - cap. 1 [[https://github.com/emagar/icp/blob/master/lecturas/ostrom-cap1.pdf][Reflections on the commons]] 28 pp.
   - cap. 3 [[https://github.com/emagar/icp/blob/master/lecturas/ostrom-cap3.pdf][Analyzing long-enduring, self-organized, and self-governed CPRs]] 45 pp.
-- OLSON* [[https://github.com/emagar/icp/blob/master/lecturas/olson-Logica-AC1965.pdf][/La lógica de la acción colectiva/]] (1965) 18 pp.
-  # - cap. 1 A-D 32 pp. 
-  # - cap. 8 de diez textos básicos tiene extracto de Rise and decline of nations sobre acción coll. 18 pp. 
-  # - puedo asignar cap 8 pero yo usar el texto original para mi exposición
+- OLSON* [[https://github.com/emagar/icp/blob/master/lecturas/olson-Logica-AC1965.pdf][/The Logic of Collective Action/]] (1965) (hasta fin de sección D) pp. 1-36.
 # - HARDIN "Tragedy of the commons" 20-33???
 # - O'GORMAN* [[https://github.com/emagar/icp/blob/master/lecturas/ogorman-Global-warming-Tragedy-of-the-Commons.pdf][Global warming as tragedy of the commons]] (2010) 12 pp. 
-*** El problema de coordinación -- 8 de abril
+*** El problema de coordinación -- 19 de octubre
 # 20
 - MCCUBBINS y ROSENBLUTH [[https://github.com/emagar/icp/blob/master/lecturas/mccubbins.rosenbluth-Party-for-personal.pdf][Party provision for personal politics]] (1995) 19 pp. 
   # - Dos votantes del distrito, pueden votar por candidato a o por candidato b
   #  |   | a     | b     |
   #  | a | (1,0) | (2,2) |
   #  | b | (2,2) | (0,1) |
-*** La inestabilidad social -- 13 de abril
+*** La inestabilidad social -- 21 de octubre
 # 21
 - SZPIRO /Numbers rule/ [[https://github.com/emagar/icp/blob/master/lecturas/szpiro2010-Numbers-rule-caps5-y-6.pdf][caps. 5 y 6]] (2010) 29 pp.
 #  - Cubre Borda y Condorcet.
 #  - Puedo presentar versión a > b > c > a y quizás también la versión espacial 2D.
 # - Mongin, Philippe. 1997. "Expected Utility Theory." In J. Davis, W. Hands, and U. Maki, eds. Handbook of Economic Methodology. London, Edward Elgar. Pages 342-350.
-* SEGUNDO EXAMEN PARCIAL -- Se entrega el 15 de abril
-* Conozca a la facultad del departamento (parte 2)
-** Adriana ALFARO -- 13 de abril<<adriana>>
-# 25
-- White e Ypi. [[https://github.com/emagar/icp/blob/master/lecturas/adriana/White-Ypi-The-meaning-of-partisanship2016book.pdf][The Meaning of Partisanship]] pp 8-31.
-# Relacionen claramente temas de facultad con dos temas vistos anteriormente.
-* Ejercicio de integración -- 15 de abril
+* SEGUNDO EXAMEN PARCIAL -- Se entrega el 4 de noviembre
+* Conozca a la facultad del departamento
+** Ana María GONZALEZ FRANCO -- 4 de noviembre<<ana>>
 # 22
-Dedicaremos esta clase para escuchar presentaciones personales. Pronto daré los detalles. 
-# ** Adrián LUCARDI -- 15 de abril
+- EMANUEL et al. [[https://github.com/emagar/icp/blob/master/lecturas/ana/emanuel.etal-Ethical-framework-for-global-vaccine2020sc.pdf][An ethical framework for global vaccine allocation]] (2020) 5 pp.
+# - NUSSBAUM [[https://github.com/emagar/icp/blob/master/lecturas/adriana/Nussbaum-Compassion1996.pdf][Compassion: The Basic Social Emotion]] 32pp.
+# - White e Ypi. [[https://github.com/emagar/icp/blob/master/lecturas/adriana/White-Ypi-The-meaning-of-partisanship2016book.pdf][The Meaning of Partisanship]] pp 8-31.
+# Relacionen claramente temas de facultad con dos temas vistos anteriormente.
+# ** Adriana ALFARO -- 4 de noviembre<<adriana>>
 # # 22
-# # -- Gobiernos buenos vs malos, The logic of political survival (Prefiero un lunes, pero puedo cualquier lunes o miércoles de octubre o el 5/10/12 dic.)
+# - NUSSBAUM [[https://github.com/emagar/icp/blob/master/lecturas/adriana/Nussbaum-Compassion1996.pdf][Compassion: The Basic Social Emotion]] 32pp.
+# - White e Ypi. [[https://github.com/emagar/icp/blob/master/lecturas/adriana/White-Ypi-The-meaning-of-partisanship2016book.pdf][The Meaning of Partisanship]] pp 8-31.
+# Relacionen claramente temas de facultad con dos temas vistos anteriormente.
+** Felipe CURCÓ -- 9 de noviembre<<curco>>
+# 23
+- CURCÓ Emociones y Racionalidad
+# - LUCARDI-ROMERO [[https://github.com/emagar/icp/blob/master/lecturas/lucardi/lucardi-romero-2026-Coordination-in-Mexico-1988.pdf][Opposition Coordination in Authoritarian Regimes: Evidence from Mexico's 1988 Election]] 27 pp. ([[https://github.com/emagar/icp/blob/master/clases/lucardi/Lucardi-IntroCPol-2026-04-20.pdf][Aquí]] las láminas que circuló.)
 # - BUENO DE MESQUITA [[https://github.com/emagar/icp/blob/master/lecturas/lucardi/bueno-de-mesquita-Leopold-II-and-the-Selectorate2007hsr.pdf][Leopold II and the selectorate: An account in contrast to a racial explanation]] 20 pp.
-# # - BUENO DE MESQUITA-SMITH* The Dictator's Handbook. 
-# # [[https://github.com/emagar/icp/blob/master/lecturas/lucardi/bueno-de-mesquita-smith-Dictator-handbook2011book.pdf][The Dictator's Handbook] 20 pp
-# ** Alejandro MORENO -- 20 de abril
-# # 23
+# - BUENO DE MESQUITA-SMITH* The Dictator's Handbook. 
+# [[https://github.com/emagar/icp/blob/master/lecturas/lucardi/bueno-de-mesquita-smith-Dictator-handbook2011book.pdf][The Dictator's Handbook] 20 pp
+#
+# ** Alejandro MORENO -- 16 de noviembre (la clase será en la [[https://escolar.itam.mx/servicios_escolares/Docuemntos/mapa_Rio_hondo_finales.pdf][Sala de Maestros]])<<moreno>>
 # - MORENO [[https://github.com/emagar/icp/blob/master/lecturas/moreno-Evolucion-cultural-Mexico2025book.pdf][/La evolución cultural en México/]] (2025)
-#   - Presentación 3 pp.
-#   - cap 6 Poliarquistas, populistas y sus antípodas 30 pp.
-#   - cap 8 Colores mexicanos: viejas y nuevas identidades sociales 18 pp.
-# # - MAGALONI et al. [[https://github.com/emagar/icp/blob/master/lecturas/anto/ssrn-4007565.pdf][State-Evading Solutions to Violence: Organized Crime and Governance in Indigenous Mexico]] (2021) 38 pp.
-# # -- orden social sin estado-normas y cultura pueden prevenir el crimen  (podría 20/22 oct)
-# ** Vidal ROMERO -- 22 de abril
-# # 24
-# - ROMERO et al. [[https://github.com/emagar/icp/blob/master/lecturas/vidal/magaloni-etal.Living-in-fear2019cps.pdf][Living in fear: The dynamics of extorsion in Mexico's drug war]] 42 pp.
+# 24
+  # - Presentación 3 pp.
+  # - cap 6 Poliarquistas, populistas y sus antípodas 30 pp.
+  # - cap 8 Colores mexicanos: viejas y nuevas identidades sociales 18 pp.
+* Corrección del segundo parcial -- 11 de noviembre
+# 24
+- No hay lectura.
 * Menú de conceptos para el análisis (cont.)
-# ** Clase para recapitular -- 
-# # 26
-# - No hay lectura.
-** La racionalidad instrumental -- 29 de abril
-# 26
-- DOWNS [[https://github.com/emagar/icp/blob/master/lecturas/downs-MVT1958.pdf][/La teoría económica de la democracia/]] (1958) 19 pp.
-  # - cap. 4 de Diez textos básicos
+** La racionalidad instrumental -- 16 de noviembre
+# 25
+- DOWNS [[https://github.com/emagar/icp/blob/master/lecturas/downs-MVT1958.pdf][/An Economic Theory of Democracy/]] (1958) 28 pp.
 - SHEPSLE /Analizing politics/ [[https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010.pdf][cap. 2]] (2010) 25 pp.
 # - RIKER* Political Science and Rational Choice (1990). 
 # En James E. Alt and Kenneth A. Shepsle, eds., Perspectives on Political Economy. Cambridge: Cambridge University Press.
 # - Nominate scores?
-** La capacidad estatal -- 4 de mayo
+** Sistemas electoral y de partidos -- 18 de noviembre<<sispart>>
+# 26
+- RIKER [[https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf][The Two-Party System and Duverger's Law]] (1982) 14 pp.
+# - Sistemas electorales, para cubrir el de Mx --- quizás cuando veamos Japón
+# - Duverger !!! También con McCubbins y Rosenblueth, pero ya no me cabe... O uso la clase de Denise para esto
+# - DV and IVs
+** La capacidad estatal -- 23 de noviembre
 # 27
 - GARFIAS [[https://github.com/emagar/icp/blob/master/lecturas/garfias-state-developmnebt2018apsr.pdf][Elite competition and state capacity development]] (2018) 18 pp.
-** El modelo distributivo, clientelismo y populismo -- 6 y 11 de mayo
+** El modelo distributivo, clientelismo y populismo -- 25 y 30 de noviembre
 # 28 y 29
 - Proyectaré la película The Last Hurrah de J. Ford (1958).
 # - Proyectaré la película [[https://drive.google.com/drive/folders/1BT-gwgaIQd0HHubk4VTtkHBzaa2IeVNB?usp=sharing][All the King's Men]] de R. Rossen (1949).
 - SCOTT [[https://github.com/emagar/icp/blob/master/lecturas/scott-Patron-client-instrumental-friends-1972apsr.pdf][Patron-client politics and political change in Southeast Asia]] (1972) 23 pp.
-- DIAZ CAYEROS, ESTEVEZ Y MAGALONI [[https://github.com/emagar/icp/blob/master/lecturas/diaz-cayeros-estevez-magaloni2016cap3.pdf][Political machines and vote buying]] (2016) 19 pp.
+- DIAZ CAYEROS et al. /The Political Logic of Poverty Relief in Mexico/ (2016) [[https://github.com/emagar/icp/blob/master/lecturas/diaz-cayeros-estevez-magaloni2016cap3.pdf][Cap. 3 Political machines and vote buying]] 19 pp.
   # - game theory
 - COX y MCCUBBINS* [[https://github.com/emagar/icp/blob/master/lecturas/cox.mccubbins-Redistributive-game1986jop.pdf][Electoral politics as a distributive game]] (1986) 20 pp.
   # - Complicado pero muy claro. Podría ser lectura optativa, o puedo simplemente desarrollar la base del modelo, con la expectativa.
@@ -342,9 +369,10 @@ Dedicaremos esta clase para escuchar presentaciones personales. Pronto daré los
 #   # - PAN y PRI anquilosados por barreras de entrada y subsidios.
 #   # - Dejar el tema de la censura como trasfondo de cómo operan las campañas en Mx.
 # # - CORG basics? Theo of the firm?
-* Recapitulación -- 13 de mayo
+* Recapitulación -- 2 de diciembre
 - Lectura por asignar
 # 30
+
 
 # ** El sistema constitucional
 # - Przeworski Saiegh Cheibub
