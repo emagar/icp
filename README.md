@@ -2,7 +2,7 @@
 
 <h2> Anuncios </h2>
 
-<sup><sub>2026-10-02</sub></sup> Para la clase de cultura del lunes 5 de octubre cambié la lectura de Almond y Verba de obligatoria a opcional. Así podrán dedicarle más atención al texto de Magaloni *et al.*
+<sup><sub>2026-10-06</sub></sup> He eliminado el desfaz de fechas que tenía el temario tras la corrección del examen parcial. Las fechas otra vez correzponden al calendario. La lectura para la clase del 7 de octubre el PRZEWORSKI y LIMONGI.
 
 ---
 
@@ -74,7 +74,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 -   KING, KEOHANE y VERBA *Designing Social Inquiry* (1994) [cap. 1](https://github.com/emagar/icp/blob/master/lecturas/kkv1993ch1.pdf) pp. 3-12 (el resto del cap. les servirá de referencia futura).
 
 
-# El estado-nación<a id="org5d8f499"></a>
+# El estado-nación<a id="org02fe60c"></a>
 
 
 ## 31 de agosto y 2 de septiembre
@@ -88,21 +88,24 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 # PRIMER EXAMEN PARCIAL &#x2013; 7 de septiembre
 
 
-# Ejercicio de integración &#x2013; 9 de septiembre<a id="orgc4ceca0"></a>
+# Ejercicio de integración &#x2013; 9 de septiembre<a id="org6658c80"></a>
 
 Dedicaremos esta clase para escuchar presentaciones personales. Daré los detalles en clase.
+
+
+# Corrección del examen 14 de septiembre
 
 
 # Las estructuras en ciencia social
 
 
-## Materialismo &#x2013; 14 de septiembre
+## Materialismo &#x2013; 21 de septiembre
 
 -   MARX y ENGELS [*El manifiesto del partido comunista*](https://github.com/emagar/icp/blob/master/lecturas/marx-engels-El-manifiesto-del-pc1848.pdf) (1848) 42 pp.
 -   MCCLAIN [How presidential elections are impacted by a 100 million year old coastline](https://deepseanews.com/2012/06/how-presidential-elections-are-impacted-by-a-100-million-year-old-coastline/) 5 pp.
 
 
-## Institucionalismo &#x2013; 21, 23 y 28 de septiembre
+## Institucionalismo &#x2013; 23, 28 y 30 de septiembre
 
 -   ARISTOTELES [*La política*](https://github.com/emagar/icp/blob/master/lecturas/aristoteles-Politica.pdf) Libro tercero caps. IV-VI (S. IV AC) 11 pp.
 -   HAMILTON, MADISON, JAY *El Federalista* ensayos [#1 #10 #51 #72 y #78](https://github.com/emagar/icp/blob/master/lecturas/federalista-1-10-51-72-78.pdf) (1787) 23 pp.
@@ -110,17 +113,18 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 -   BRAVO ORTIZ [¿Qué hay dentro de la caja negra? Control de agenda en la cámara de diputados](https://github.com/emagar/icp/blob/master/lecturas/bravo-Caja-negra-2025itam.pdf) (2025) pp. 6-57.
 
 
-## Culturalismo &#x2013; 30 de septiembre
+## Culturalismo &#x2013; 5 de octubre
 
 -   ALMOND y VERBA\* [*The Civic Culture*](https://github.com/emagar/icp/blob/master/lecturas/almond-verba-Excerpts.pdf) (1963)
     -   cap. 1 An approach to political culture pp. 3-32.
     -   cap. 13 Group differences in political orientation pp. 377-401.
 
 -   MAGALONI et al. [State-Evading Solutions to Violence: Organized Crime and Governance in Indigenous Mexico](https://github.com/emagar/icp/blob/master/lecturas/magaloni-etal-Crime-indigenous2021.pdf) (2021) 38 pp.
+
 -   CRESPO\* [Del autoritarismo a la democracia: el mito cultural](https://github.com/emagar/icp/blob/master/lecturas/crespo-Cultura-politica1988.pdf) (1988) 14 pp.
 
 
-# Modernización y democracia &#x2013; 5 de octubre
+# Modernización y democracia &#x2013; 7 de octubre
 
 -   PRZEWORSKI y LIMONGI [Modernization: theories and facts](https://github.com/emagar/icp/blob/master/lecturas/przeworski-limongi-Modernization1997wp.pdf) (1997) 24 pp.
 
@@ -130,15 +134,15 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 # Menú de conceptos para el análisis
 
 
-## El nivel de análisis: sistemas, grupos, individuos
+## La racionalidad instrumental &#x2013; 12 de octubre
+
+-   DOWNS [*An Economic Theory of Democracy*](https://github.com/emagar/icp/blob/master/lecturas/downs-MVT1958.pdf) (1958) 28 pp.
+-   SHEPSLE *Analizing politics* [cap. 2](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010.pdf) (2010) 25 pp.
 
 
-### El poder compartido &#x2013; 7 de octubre
+## El nivel de análisis: sistemas, grupos, individuos &#x2013; 14 de octubre
 
 -   DE FIGUEIREDO et al. [The new separation-of-powers approach to American Politics](https://github.com/emagar/icp/blob/master/lecturas/de-figueiredo-et-al-New-separation-of-powers.pdf) (2006) 21 pp.
-
-
-### Los grupos de interés &#x2013; 12 de octubre
 
 -   TRUMAN [El pluralismo](https://github.com/emagar/icp/blob/master/lecturas/truman-Governmental-process1951.pdf) (1951) 6 pp.
 -   BATES *Markets and States in Tropical Africa* [cap. 1](https://github.com/emagar/icp/blob/master/lecturas/bates-Markets-States1981-cap1.pdf) (1981) 19 pp.
@@ -147,7 +151,7 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 ## Los dilemas colectivos
 
 
-### El problema del ejido &#x2013; 14 de octubre
+### El problema del ejido &#x2013; 19 de octubre
 
 -   OSTROM *Governing the Commons* (1990)
     -   cap. 1 [Reflections on the commons](https://github.com/emagar/icp/blob/master/lecturas/ostrom-cap1.pdf) 28 pp.
@@ -155,14 +159,9 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 -   OLSON\* [*The Logic of Collective Action*](https://github.com/emagar/icp/blob/master/lecturas/olson-Logica-AC1965.pdf) (1965) (hasta fin de sección D) pp. 1-36.
 
 
-### El problema de coordinación &#x2013; 19 de octubre
+### El problema de coordinación &#x2013; 21 de octubre
 
 -   MCCUBBINS y ROSENBLUTH [Party provision for personal politics](https://github.com/emagar/icp/blob/master/lecturas/mccubbins.rosenbluth-Party-for-personal.pdf) (1995) 19 pp.
-
-
-### La inestabilidad social &#x2013; 21 de octubre
-
--   SZPIRO *Numbers rule* [caps. 5 y 6](https://github.com/emagar/icp/blob/master/lecturas/szpiro2010-Numbers-rule-caps5-y-6.pdf) (2010) 29 pp.
 
 
 # SEGUNDO EXAMEN PARCIAL &#x2013; Se entrega el 4 de noviembre
@@ -171,12 +170,12 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 # Conozca a la facultad del departamento
 
 
-## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="org9869ec0"></a>
+## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="orgcd2c751"></a>
 
 -   EMANUEL et al. [An ethical framework for global vaccine allocation](https://github.com/emagar/icp/blob/master/lecturas/ana/emanuel.etal-Ethical-framework-for-global-vaccine2020sc.pdf) (2020) 5 pp.
 
 
-## Felipe CURCÓ &#x2013; 9 de noviembre<a id="orgf7fb466"></a>
+## Felipe CURCÓ &#x2013; 9 de noviembre<a id="org29484ae"></a>
 
 -   CURCÓ Emociones y Racionalidad
 
@@ -189,13 +188,12 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 # Menú de conceptos para el análisis (cont.)
 
 
-## La racionalidad instrumental &#x2013; 16 de noviembre
+## La intransitividad social &#x2013; 16 de noviembre
 
--   DOWNS [*An Economic Theory of Democracy*](https://github.com/emagar/icp/blob/master/lecturas/downs-MVT1958.pdf) (1958) 28 pp.
--   SHEPSLE *Analizing politics* [cap. 2](https://github.com/emagar/icp/blob/master/lecturas/shepsle-Analyzing-politics-cap2-2010.pdf) (2010) 25 pp.
+-   SZPIRO *Numbers rule* [caps. 5 y 6](https://github.com/emagar/icp/blob/master/lecturas/szpiro2010-Numbers-rule-caps5-y-6.pdf) (2010) 29 pp.
 
 
-## Sistemas electoral y de partidos &#x2013; 18 de noviembre<a id="orgf362f16"></a>
+## Sistemas electoral y de partidos &#x2013; 18 de noviembre<a id="org21859d2"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
