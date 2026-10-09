@@ -2,7 +2,7 @@
 
 <h2> Anuncios </h2>
 
-<sup><sub>2026-10-06</sub></sup> He eliminado el desfaz de fechas que tenía el temario tras la corrección del examen parcial. Las fechas otra vez correzponden al calendario. La lectura para la clase del 7 de octubre el PRZEWORSKI y LIMONGI.
+<sup><sub>2026-10-09</sub></sup> El lunes 12 de octubre, además de cubrir el tema de Racionalidad, les daré el enunciado del trabajo parcial. Vendrá la facultad menor para coordinar una sesión de ayuda para el trabajo.
 
 ---
 
@@ -74,7 +74,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 -   KING, KEOHANE y VERBA *Designing Social Inquiry* (1994) [cap. 1](https://github.com/emagar/icp/blob/master/lecturas/kkv1993ch1.pdf) pp. 3-12 (el resto del cap. les servirá de referencia futura).
 
 
-# El estado-nación<a id="orgfd097e6"></a>
+# El estado-nación<a id="orgd037eaf"></a>
 
 
 ## 31 de agosto y 2 de septiembre
@@ -88,7 +88,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 # PRIMER EXAMEN PARCIAL &#x2013; 7 de septiembre
 
 
-# Ejercicio de integración &#x2013; 9 de septiembre<a id="org14975b5"></a>
+# Ejercicio de integración &#x2013; 9 de septiembre<a id="org2ecafcb"></a>
 
 Dedicaremos esta clase para escuchar presentaciones personales. Daré los detalles en clase.
 
@@ -170,12 +170,12 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 # Conozca a la facultad del departamento
 
 
-## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="org3dfc4e2"></a>
+## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="org9d155f9"></a>
 
 -   EMANUEL et al. [An ethical framework for global vaccine allocation](https://github.com/emagar/icp/blob/master/lecturas/ana/emanuel.etal-Ethical-framework-for-global-vaccine2020sc.pdf) (2020) 5 pp.
 
 
-## Felipe CURCÓ &#x2013; 9 de noviembre<a id="org2ca859b"></a>
+## Felipe CURCÓ &#x2013; 9 de noviembre<a id="orgf36d961"></a>
 
 -   CURCÓ [Emociones y Racionalidad](https://github.com/emagar/icp/blob/master/lecturas/curco/curco-Emociones-y-racionalidad2023.pdf) (2023) 34 pp.
 
@@ -193,7 +193,7 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 -   SZPIRO *Numbers rule* [caps. 5 y 6](https://github.com/emagar/icp/blob/master/lecturas/szpiro2010-Numbers-rule-caps5-y-6.pdf) (2010) 29 pp.
 
 
-## Sistemas electoral y de partidos &#x2013; 18 de noviembre<a id="org2b79eb1"></a>
+## Sistemas electoral y de partidos &#x2013; 18 de noviembre<a id="org82cf2b1"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
