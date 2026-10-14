@@ -8,7 +8,7 @@
 
 **Instrucciones para el trabajo parcial** (~~12/10/2026~~ 14/10/2026)
 
-Las encontrará en [este enlace](https://github.com/emagar/icp/blob/master/examenes/parcial2/enunciado.md). El ejemplo de artículo de *El Supuesto* de Sofía lo encuentra [aquí](http://blog.elsupuesto.com/primera/2025/03/tras-las-puertas-del-privilegio-como-viven-las-trabajadoras-del-hogar-de-las-casas-itamitas/).
+Las encontrará en [este enlace](https://github.com/emagar/icp/blob/master/examenes/parcial2/enunciado.md). El ejemplo de artículo de *El Supuesto* de Sofía lo encuentra [aquí](http://blog.elsupuesto.com/primera/2025/03/tras-las-puertas-del-privilegio-como-viven-las-trabajadoras-del-hogar-de-las-casas-itamitas/). **OJO** el <span class="underline">laboratorio</span> con la facutad menor será el miércoles 21 de octubre de 14:30&#x2013;16:00 en el salón 315.
 
 ---
 
@@ -80,7 +80,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 -   KING, KEOHANE y VERBA *Designing Social Inquiry* (1994) [cap. 1](https://github.com/emagar/icp/blob/master/lecturas/kkv1993ch1.pdf) pp. 3-12 (el resto del cap. les servirá de referencia futura).
 
 
-# El estado-nación<a id="orgd6f84fe"></a>
+# El estado-nación<a id="org3e142ec"></a>
 
 
 ## 31 de agosto y 2 de septiembre
@@ -94,7 +94,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 # PRIMER EXAMEN PARCIAL &#x2013; 7 de septiembre
 
 
-# Ejercicio de integración &#x2013; 9 de septiembre<a id="orgf56eb07"></a>
+# Ejercicio de integración &#x2013; 9 de septiembre<a id="orgd6641e0"></a>
 
 Dedicaremos esta clase para escuchar presentaciones personales. Daré los detalles en clase.
 
@@ -176,12 +176,12 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 # Conozca a la facultad del departamento
 
 
-## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="org6411d4f"></a>
+## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="orgc67cf88"></a>
 
 -   EMANUEL et al. [An ethical framework for global vaccine allocation](https://github.com/emagar/icp/blob/master/lecturas/ana/emanuel.etal-Ethical-framework-for-global-vaccine2020sc.pdf) (2020) 5 pp.
 
 
-## Felipe CURCÓ &#x2013; 9 de noviembre<a id="org0e68671"></a>
+## Felipe CURCÓ &#x2013; 9 de noviembre<a id="org55bfa5f"></a>
 
 -   CURCÓ [Emociones y Racionalidad](https://github.com/emagar/icp/blob/master/lecturas/curco/curco-Emociones-y-racionalidad2023.pdf) (2023) 34 pp.
 
@@ -199,7 +199,7 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 -   SZPIRO *Numbers rule* [caps. 5 y 6](https://github.com/emagar/icp/blob/master/lecturas/szpiro2010-Numbers-rule-caps5-y-6.pdf) (2010) 29 pp.
 
 
-## Sistemas electoral y de partidos &#x2013; 18 de noviembre<a id="org615f9aa"></a>
+## Sistemas electoral y de partidos &#x2013; 18 de noviembre<a id="org70b1946"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
