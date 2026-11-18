@@ -2,7 +2,7 @@
 
 <h2> Anuncios </h2>
 
-<sup><sub>2026-11-18</sub></sup> **OJO** El miércoles 18 de noviembre ITAM dará las instrucciones para el restablecimiento de los servicios digitales. Estén atentos a los anuncios de las Direcciones (escolar, de estudiantes, del programa, etc.). La clase de hoy la dedicaré a estos temas y les hablaré del examen final del curso. Las lecturas se recorren una clase: el lunes 23nov2026 veremos a Riker, que estaba previsto para hoy, y recortaré una clase de clientelismo para recuperar tiempo perdido.
+<sup><sub>2026-11-18</sub></sup> **OJO** El miércoles 18 de noviembre ITAM dará las instrucciones para el restablecimiento de los servicios digitales. Estén atentos a los anuncios de las Direcciones (escolar, de estudiantes, del programa, etc.). La clase de hoy la dedicaré a estos temas y les hablaré del examen final del curso. Las lecturas se recorren una clase, el lunes 23nov2026 veremos a Riker, que estaba previsto para hoy, y recortaré una clase de clientelismo para recuperar tiempo perdido.
 
 ---
 
@@ -74,7 +74,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 -   KING, KEOHANE y VERBA *Designing Social Inquiry* (1994) [cap. 1](https://github.com/emagar/icp/blob/master/lecturas/kkv1993ch1.pdf) pp. 3-12 (el resto del cap. les servirá de referencia futura).
 
 
-# El estado-nación<a id="org1eba8f7"></a>
+# El estado-nación<a id="org7d398a6"></a>
 
 
 ## 31 de agosto y 2 de septiembre
@@ -88,7 +88,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 # PRIMER EXAMEN PARCIAL &#x2013; 7 de septiembre
 
 
-# Ejercicio de integración &#x2013; 9 de septiembre<a id="org686da6f"></a>
+# Ejercicio de integración &#x2013; 9 de septiembre<a id="orge2f01bd"></a>
 
 Dedicaremos esta clase para escuchar presentaciones personales. Daré los detalles en clase.
 
@@ -170,12 +170,12 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 # Conozca a la facultad del departamento
 
 
-## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="org381da3c"></a>
+## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="org98a045f"></a>
 
 -   EMANUEL et al. [An ethical framework for global vaccine allocation](https://github.com/emagar/icp/blob/master/lecturas/ana/emanuel.etal-Ethical-framework-for-global-vaccine2020sc.pdf) (2020) 5 pp.
 
 
-## Felipe CURCÓ &#x2013; 9 de noviembre<a id="org6ed7124"></a>
+## Felipe CURCÓ &#x2013; 9 de noviembre<a id="orga42546c"></a>
 
 -   CURCÓ [Emociones y Racionalidad](https://github.com/emagar/icp/blob/master/lecturas/curco/curco-Emociones-y-racionalidad2023.pdf) (2023) 34 pp.
 
@@ -188,7 +188,7 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 # Menú de conceptos para el análisis (cont.)
 
 
-## Sistemas electoral y de partidos &#x2013; 18 de noviembre<a id="org1f2a3db"></a>
+## Sistemas electoral y de partidos &#x2013; 18 de noviembre<a id="org1beb048"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
