@@ -4,6 +4,8 @@
 
 <sup><sub>2026-11-18</sub></sup> **OJO** &rarr; El miércoles 18 de noviembre ITAM dará las instrucciones para el **restablecimiento de los servicios digitales**. Estén atentos a los anuncios de las Direcciones (escolar, de estudiantes, del programa, etc.). La clase de hoy la dedicaré a estos temas y les hablaré del examen final del curso. Las lecturas se recorrerán una clase, el lunes 23nov2026 veremos a Riker, que estaba prevista para hoy, y recortaré una clase de clientelismo para recuperar el tiempo perdido. &larr; **OJO**
 
+<sup><sub>2026-11-18</sub></sup>Hoy en clase coordinaré detalles para la comida del viernes 20nov2026 de 14:30 a 17:30 en mi casa que es la suya.
+
 ---
 
 ITAM Depto. de ciencia política, otoño 2026
@@ -32,7 +34,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 
 *Última clase*: miércoles 2 de diciembre.
 
-*Examen final*: miércoles 9 de diciembre 16:00-19:00, salón por determinar.
+*Examen final*: miércoles 9 de diciembre 16:00-19:00, salón 104.
 
 ---
 
@@ -74,7 +76,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 -   KING, KEOHANE y VERBA *Designing Social Inquiry* (1994) [cap. 1](https://github.com/emagar/icp/blob/master/lecturas/kkv1993ch1.pdf) pp. 3-12 (el resto del cap. les servirá de referencia futura).
 
 
-# El estado-nación<a id="orgb4c79e1"></a>
+# El estado-nación<a id="org9c87ee8"></a>
 
 
 ## 31 de agosto y 2 de septiembre
@@ -88,7 +90,7 @@ Lunes y miércoles 11:30&#x2013;13:00 salón B-3
 # PRIMER EXAMEN PARCIAL &#x2013; 7 de septiembre
 
 
-# Ejercicio de integración &#x2013; 9 de septiembre<a id="orgce49362"></a>
+# Ejercicio de integración &#x2013; 9 de septiembre<a id="orgd0bcf25"></a>
 
 Dedicaremos esta clase para escuchar presentaciones personales. Daré los detalles en clase.
 
@@ -170,12 +172,12 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 # Conozca a la facultad del departamento
 
 
-## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="org4dd2a04"></a>
+## Ana María GONZALEZ FRANCO &#x2013; 4 de noviembre<a id="org0bb5a6f"></a>
 
 -   EMANUEL et al. [An ethical framework for global vaccine allocation](https://github.com/emagar/icp/blob/master/lecturas/ana/emanuel.etal-Ethical-framework-for-global-vaccine2020sc.pdf) (2020) 5 pp.
 
 
-## Felipe CURCÓ &#x2013; 9 de noviembre<a id="org8466ceb"></a>
+## Felipe CURCÓ &#x2013; 9 de noviembre<a id="org4e8fe31"></a>
 
 -   CURCÓ [Emociones y Racionalidad](https://github.com/emagar/icp/blob/master/lecturas/curco/curco-Emociones-y-racionalidad2023.pdf) (2023) 34 pp.
 
@@ -188,7 +190,7 @@ Dedicaremos esta clase para escuchar presentaciones personales. Daré los detall
 # Menú de conceptos para el análisis (cont.)
 
 
-## Sistemas electoral y de partidos &#x2013; 18 de noviembre<a id="org1ccf459"></a>
+## Sistemas electoral y de partidos &#x2013; 18 de noviembre<a id="orgc0d2db7"></a>
 
 -   RIKER [The Two-Party System and Duverger's Law](https://github.com/emagar/icp/blob/master/lecturas/riker-duverger1982aprs.pdf) (1982) 14 pp.
 
